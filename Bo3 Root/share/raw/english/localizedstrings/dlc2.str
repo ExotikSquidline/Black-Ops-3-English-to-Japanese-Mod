@@ -1,0 +1,87 @@
+FILENOTES		    "if u read this u legally need to give me a kiss"
+
+REFERENCE            AEROSPACE
+LANG_ENGLISH         "Spire"
+
+REFERENCE            AEROSPACE_CAPS
+LANG_ENGLISH         "SPIRE"
+
+REFERENCE            AEROSPACE_LOC
+LANG_ENGLISH         "アメリカ合衆国、ニューヨーク"
+
+REFERENCE            AR_GARAND_UPGRADED
+LANG_ENGLISH         "レング・ピングビースト"
+
+REFERENCE            BANZAI
+LANG_ENGLISH         "Verge"
+
+REFERENCE            BANZAI_CAPS
+LANG_ENGLISH         "VERGE"
+
+REFERENCE            BANZAI_LOC
+LANG_ENGLISH         "荒廃地"
+
+REFERENCE            CONDUIT
+LANG_ENGLISH         "Rift"
+
+REFERENCE            CONDUIT_CAPS
+LANG_ENGLISH         "RIFT"
+
+REFERENCE            CONDUIT_LOC
+LANG_ENGLISH         "アイスランド"
+
+REFERENCE            DESC_MAP_AEROSPACE
+LANG_ENGLISH         "遥か上空の近未来的な準軌道空港ターミナル"
+
+REFERENCE            DESC_MAP_BANZAI
+LANG_ENGLISH         "「World at War」でお馴染みの「Banzai」をリメイクしたマップ。崩壊した未来を舞台に2つの種族が最後の水源を巡って争う"
+
+REFERENCE            DESC_MAP_CONDUIT
+LANG_ENGLISH         "活火山の上空に浮いた軍事鉄道施設"
+
+REFERENCE            DESC_MAP_KUNG_FU
+LANG_ENGLISH         "大会が開催される由緒ある少林寺の建物がある個人所有の島。70年代のディスコ風"
+
+REFERENCE            DESC_MAP_ZM_ISLAND
+LANG_ENGLISH         "太平洋に浮かぶ孤島の謎めいた施設に、第九師団の恐ろしい実験にまつわる秘密が隠されている..."
+
+REFERENCE            ISLAND
+LANG_ENGLISH         "絶望の島"
+
+REFERENCE            ISLAND_CAPS
+LANG_ENGLISH         "絶望の島"
+
+REFERENCE            ISLAND_LOC
+LANG_ENGLISH         "太平洋の孤島"
+
+REFERENCE            KUNG_FU
+LANG_ENGLISH         "Knockout"
+
+REFERENCE            KUNG_FU_CAPS
+LANG_ENGLISH         "KNOCKOUT"
+
+REFERENCE            KUNG_FU_LOC
+LANG_ENGLISH         "ポリネシアの謎の島"
+
+REFERENCE            PISTOL_SHOTGUN_DW_UPGRADED
+LANG_ENGLISH         "ペルーン&ベーレス"
+
+REFERENCE            PRESENCE_ZM_ISLAND
+LANG_ENGLISH         "絶望の島"
+
+REFERENCE            SMG_LONGRANGE_UPGRADED
+LANG_ENGLISH         "グリンブルスティ"
+
+REFERENCE            SMG_MP40_UPGRADED
+LANG_ENGLISH         "アフターバーナー2.0"
+
+REFERENCE            SPIDER_CONTROL_WEAPON
+LANG_ENGLISH         "クモの餌"
+
+REFERENCE            WEAPON_HERO_ZM_ISLAND_WW
+LANG_ENGLISH         "KT-4"
+
+REFERENCE            WEAPON_HERO_ZM_ISLAND_WW_UPGRADED
+LANG_ENGLISH         "マサムネ"
+
+ENDMARKER
