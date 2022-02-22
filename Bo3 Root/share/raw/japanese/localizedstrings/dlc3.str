@@ -1,0 +1,9 @@
+FILENOTES		    "if u read this u legally need to give me a kiss"
+
+REFERENCE            WEAPON_RAYGUN_MARK3
+LANG_ENGLISH         "GKZ-45 Mk3"
+
+REFERENCE            WEAPON_RAYGUN_MARK3_UPGRADED
+LANG_ENGLISH         "Maelstrom of Eris"
+
+ENDMARKER

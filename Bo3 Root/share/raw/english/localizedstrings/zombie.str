@@ -1,0 +1,15 @@
+FILENOTES		    "tom is fat"
+
+REFERENCE            TESLA_GUN
+LANG_ENGLISH            "趣兵器 DG-2"
+
+REFERENCE            TESLA_GUN_UPGRADED
+LANG_ENGLISH            "趣兵器 DG-3 JZ\n"
+
+REFERENCE            ZMWEAPON_PISTOL_REVOLVER38
+LANG_ENGLISH         "ブラッドハウンド"
+
+REFERENCE            hero_gravityspikes_melee
+LANG_ENGLISH         "ラグナロク DG-4"
+
+ENDMARKER

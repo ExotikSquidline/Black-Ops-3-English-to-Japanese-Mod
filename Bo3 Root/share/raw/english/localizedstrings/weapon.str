@@ -1,0 +1,78 @@
+FILENOTES		    "if u read this u legally need to give me a kiss"
+
+REFERENCE            PISTOL_BURST
+LANG_ENGLISH         "エルケ・5"
+
+REFERENCE            PISTOL_REVOLVER38
+LANG_ENGLISH         "ブラッドハウンド"
+
+REFERENCE            AR_MARKSMAN
+LANG_ENGLISH         "シェイヴァ"
+
+REFERENCE            AR_LONGBURST
+LANG_ENGLISH         "エム8ア7"
+
+REFERENCE            AR_CQB
+LANG_ENGLISH         "エ イ チ ヴィケイー30"
+
+REFERENCE            AR_ACCURATE
+LANG_ENGLISH         "イチアルー1"
+
+REFERENCE            AR_STANDARD
+LANG_ENGLISH         "ケイエンヌー44"
+
+REFERENCE            AR_DAMAGE
+LANG_ENGLISH         "マンオー戦争"
+
+REFERENCE            SMG_STANDARD
+LANG_ENGLISH         "クダ"
+
+REFERENCE            SMG_FASTFIRE
+LANG_ENGLISH         "ヴェスパー"
+
+REFERENCE            smg_versatile
+LANG_ENGLISH         "ブィエムピー"
+
+REFERENCE            smg_capacity
+LANG_ENGLISH         "ウィーヴィル"
+
+REFERENCE            smg_burst
+LANG_ENGLISH         "ファロ"
+
+REFERENCE            shotgun_pump
+LANG_ENGLISH         "ケイエレム―262"
+
+REFERENCE            shotgun_semiauto
+LANG_ENGLISH         "205・ブレチ"
+
+REFERENCE            shotgun_fullauto
+LANG_ENGLISH         "ヘイメーカー12"
+
+REFERENCE            shotgun_precision
+LANG_ENGLISH         "アルゴス"
+
+REFERENCE            lmg_light
+LANG_ENGLISH         "ビエレム"
+
+REFERENCE            lmg_slowfire
+LANG_ENGLISH         "ゴルゴン"
+
+REFERENCE            lmg_cqb
+LANG_ENGLISH         "ディンゴ"
+
+REFERENCE            lmg_heavy
+LANG_ENGLISH         "48―浚渫"
+
+REFERENCE            sniper_fastsemi
+LANG_ENGLISH         "ドラコン"
+
+REFERENCE            sniper_fastbolt
+LANG_ENGLISH         "ロクソ"
+
+REFERENCE            sniper_powerbolt
+LANG_ENGLISH         "エスヴジ"
+
+REFERENCE            hero_gravityspikes_melee
+LANG_ENGLISH         "ラグナロク DG-4"
+
+ENDMARKER
