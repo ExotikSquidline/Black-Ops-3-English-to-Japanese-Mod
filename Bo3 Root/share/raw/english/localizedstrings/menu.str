@@ -1,0 +1,85 @@
+FILENOTES		    "japanese menu Converted by Tex and Jumpy"
+
+REFERENCE            SOLO_GAME_CAPS
+LANG_ENGLISH         "ソロゲーム"
+
+REFERENCE            JOIN_PUBLIC_GAME_CAPS
+LANG_ENGLISH         "公開ゲームに参加"
+
+REFERENCE            PRIVACY_SETTINGS_UPDATE_PROMPT
+LANG_ENGLISH         "更新"
+
+REFERENCE            PRIVATE
+LANG_ENGLISH         "二等兵"
+
+REFERENCE            PRIVATEGAMES_CAPS
+LANG_ENGLISH         "プライベートゲーム"
+
+REFERENCE            PRIVATE_GAME_CAPS
+LANG_ENGLISH         "プライベートゲーム"
+
+REFERENCE            PRIVATE_MATCH
+LANG_ENGLISH         "プライベートマッチ"
+
+REFERENCE            THEATER_CAPS
+LANG_ENGLISH         "シアター"
+
+REFERENCE            USE_GOBBLEGUM
+LANG_ENGLISH         "ゴブルガムを使用"
+
+REFERENCE            EQUIPPED_BANNED_CAC_ITEMS
+LANG_ENGLISH         "装備中の禁止クラス作成アイテム:"
+
+REFERENCE            EQUIPPED_BANNED_SCORESTREAKS
+LANG_ENGLISH         "装備中の禁止スコアストリーク:"
+
+REFERENCE            EQUIPPED_BGB_FOOTNOTE
+LANG_ENGLISH         "ゴブルガムパックはゴブルガムマシンで入手可能 マシンを見つけゴブルガムを使用しよう"
+
+REFERENCE            EQUIPPED_BUBBLEGUM_PACK_CAPS
+LANG_ENGLISH         "装備したゴブルガムパック"
+
+REFERENCE            BGB_PACK_1
+LANG_ENGLISH         "ガムパック1"
+
+REFERENCE            BGB_PACK_10
+LANG_ENGLISH         "ガムパック10"
+
+REFERENCE            BGB_PACK_2
+LANG_ENGLISH         "ガムパック2"
+
+REFERENCE            BGB_PACK_3
+LANG_ENGLISH         "ガムパック3"
+
+REFERENCE            BGB_PACK_4
+LANG_ENGLISH         "ガムパック4"
+
+REFERENCE            BGB_PACK_5
+LANG_ENGLISH         "ガムパック5"
+
+REFERENCE            BGB_PACK_6
+LANG_ENGLISH         "ガムパック6"
+
+REFERENCE            BGB_PACK_7
+LANG_ENGLISH         "ガムパック7"
+
+REFERENCE            BGB_PACK_8
+LANG_ENGLISH         "ガムパック8"
+
+REFERENCE            BGB_PACK_9
+LANG_ENGLISH         "ガムパック9"
+
+REFERENCE            BGB_PACK_OPTIONS
+LANG_ENGLISH         "パックオプション"
+
+REFERENCE            BGB_PACK_OPTIONS_CAPS
+LANG_ENGLISH         "パックオプション"
+
+REFERENCE            BGB_PACK_RENAME_CAPS
+LANG_ENGLISH         "パック名を変更"
+
+REFERENCE            BGB_TOKENS_GAINED_THIS_GAME_CAPS
+LANG_ENGLISH         "ディビニウム液"
+
+
+ENDMARKER
