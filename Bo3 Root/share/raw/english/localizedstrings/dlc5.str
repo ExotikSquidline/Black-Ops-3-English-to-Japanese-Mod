@@ -30,4 +30,205 @@ LANG_ENGLISH         "スタッフはとても親切でした"
 REFERENCE            staff_water_upgraded
 LANG_ENGLISH         "「 ull ’ s Arrow 」（矢印）をクリックします"
 
+REFERENCE            AR_GALIL_UPGRADED
+LANG_ENGLISH         "ラメンテーション"
+
+REFERENCE            AR_M16_UPGRADED
+LANG_ENGLISH         "スカルピアサー"
+
+REFERENCE            AR_STG44
+LANG_ENGLISH         "StG-44"
+
+REFERENCE            AR_STG44_UPGRADED
+LANG_ENGLISH         "Spatz-447 +"
+
+REFERENCE            ASYLUM
+LANG_ENGLISH         "VERRÜCKT"
+
+REFERENCE            ASYLUM_CAPS
+LANG_ENGLISH         "VERRÜCKT"
+
+REFERENCE            ASYLUM_LOC
+LANG_ENGLISH         "ドイツ - ヴィッテナウのサナトリウム"
+
+REFERENCE            BEACON
+LANG_ENGLISH         "Gストライク"
+
+REFERENCE            BLACK_HOLE_BOMB
+LANG_ENGLISH         "ガーシュデバイス"
+
+REFERENCE            COSMODROME
+LANG_ENGLISH         "ASCENSION"
+
+REFERENCE            COSMODROME_CAPS
+LANG_ENGLISH         "ASCENSION"
+
+REFERENCE            COSMODROME_LOC
+LANG_ENGLISH         "ソビエト連邦 - 宇宙基地"
+
+REFERENCE            DESC_MAP_ZM_ASYLUM
+LANG_ENGLISH         "電気ショック療法、化学的に作られた飲み物、そしてアンデッドナチスの大群。奴らをまとめて墓に送る力を探せ！"
+
+REFERENCE            DESC_MAP_ZM_COSMODROME
+LANG_ENGLISH         "ソビエトの宇宙基地が蘇ったゾンビたちに乗っ取られ、混乱が生じている。今ゾンビ戦争へのカウントダウンが始まった"
+
+REFERENCE            DESC_MAP_ZM_MOON
+LANG_ENGLISH         "我が国は、人を月面に着陸させ、無事に帰還させるという目標を、今後10年以内に達成することを約束すべきであると、私は信じています(ジョン・F・ケネディ - 1961)"
+
+REFERENCE            DESC_MAP_ZM_PROTOTYPE
+LANG_ENGLISH         "帝国の軍勢をついにその中枢にまで追い詰めたとき、死んだはずの敵兵士がうごめき出した"
+
+REFERENCE            DESC_MAP_ZM_SUMPF
+LANG_ENGLISH         "広大な沼地の中の野戦拠点が帝国陸軍のゾンビに囲まれた。あらゆる仕掛けを駆使して生き残れ！"
+
+REFERENCE            DESC_MAP_ZM_TEMPLE
+LANG_ENGLISH         "異国のジャングルのなかにある、失われた伝説の社。そこはアンデッドが彷徨う入り組んだ洞窟の危険な迷宮となっており、 死のワナや秘密が隠されている"
+
+REFERENCE            DESC_MAP_ZM_THEATER
+LANG_ENGLISH         "謎めいた劇場を舞台にゾンビと対決。帝国の最終計画に君はどこまで迫れるか？"
+
+REFERENCE            DESC_MAP_ZM_TOMB
+LANG_ENGLISH         "935部隊の起源を目撃せよ。第一次世界大戦の戦場に悪が解き放たれる"
+
+REFERENCE            DIESELDRONE
+LANG_ENGLISH         "マキシスドローン"
+
+REFERENCE            LMG_MG08
+LANG_ENGLISH         "MG-08/15"
+
+REFERENCE            LMG_MG08_UPGRADED
+LANG_ENGLISH         "マグナコリダー"
+
+REFERENCE            MOON
+LANG_ENGLISH         "MOON"
+
+REFERENCE            MOON_CAPS
+LANG_ENGLISH         "MOON"
+
+REFERENCE            MOON_LOC
+LANG_ENGLISH         "危難の海 - グリフィン基地"
+
+REFERENCE            NESTING_DOLLS
+LANG_ENGLISH         "マトリョーシカ"
+
+REFERENCE            PISTOL_C96_UPGRADED
+LANG_ENGLISH         "ブームヒルダ"
+
+REFERENCE            PRESENCE_ZM_ASYLUM
+LANG_ENGLISH         "VERRÜCKT"
+
+REFERENCE            PRESENCE_ZM_COSMODROME
+LANG_ENGLISH         "ASCENSION"
+
+REFERENCE            PRESENCE_ZM_MOON
+LANG_ENGLISH         "MOON"
+
+REFERENCE            PRESENCE_ZM_PROTOTYPE
+LANG_ENGLISH         "NACHT DER UNTOTEN"
+
+REFERENCE            PRESENCE_ZM_SUMPF
+LANG_ENGLISH         "死の沼"
+
+REFERENCE            PRESENCE_ZM_TEMPLE
+LANG_ENGLISH         "SHANGRI-LA"
+
+REFERENCE            PRESENCE_ZM_THEATER
+LANG_ENGLISH         "KINO DER TOTEN"
+
+REFERENCE            PRESENCE_ZM_TOMB
+LANG_ENGLISH         "ORIGINS"
+
+REFERENCE            PROTOTYPE
+LANG_ENGLISH         "NACHT DER UNTOTEN"
+
+REFERENCE            PROTOTYPE_CAPS
+LANG_ENGLISH         "NACHT DER UNTOTEN"
+
+REFERENCE            PROTOTYPE_LOC
+LANG_ENGLISH         "ドイツ軍に占領されたヨーロッパ - 荒廃した飛行場"
+
+REFERENCE            QUADROTOR_COOLDOWN
+LANG_ENGLISH         "マキシスドローン クールダウン中"
+
+REFERENCE            QUADROTOR_UNAVAILABLE
+LANG_ENGLISH         "マキシスドローン 使用不可"
+
+REFERENCE            QUANTUM_BOMB
+LANG_ENGLISH         "QED"
+
+REFERENCE            SHRINK_RAY
+LANG_ENGLISH         "31-79・JGb215"
+
+REFERENCE            SMG_MP40_1940
+LANG_ENGLISH         "MP40"
+
+REFERENCE            SMG_MP40_1940_UPGRADED
+LANG_ENGLISH         "アフターバーナー"
+
+REFERENCE            STAFF_AIR
+LANG_ENGLISH         "Staff of Wind"
+
+REFERENCE            STAFF_AIR_UPGRADED
+LANG_ENGLISH         "Boreas' Fury"
+
+REFERENCE            STAFF_FIRE
+LANG_ENGLISH         "Staff of Fire"
+
+REFERENCE            STAFF_FIRE_UPGRADED
+LANG_ENGLISH         "Kagutsuchi's Blood"
+
+REFERENCE            STAFF_LIGHTNING
+LANG_ENGLISH         "Staff of Lightning"
+
+REFERENCE            STAFF_LIGHTNING_UPGRADED
+LANG_ENGLISH         "Kimat's Bite"
+
+REFERENCE            STAFF_REVIVE
+LANG_ENGLISH         "Sekhmet's Vigor"
+
+REFERENCE            SUMPF
+LANG_ENGLISH         "死の沼"
+
+REFERENCE            SUMPF_CAPS
+LANG_ENGLISH         "死の沼"
+
+REFERENCE            SUMPF_LOC
+LANG_ENGLISH         "日本 - 古びた施設"
+
+REFERENCE            TEMPLE
+LANG_ENGLISH         "SHANGRI-LA"
+
+REFERENCE            TEMPLE_CAPS
+LANG_ENGLISH         "SHANGRI-LA"
+
+REFERENCE            TEMPLE_LOC
+LANG_ENGLISH         "未知の山岳地帯"
+
+REFERENCE            THEATER
+LANG_ENGLISH         "KINO DER TOTEN"
+
+REFERENCE            THEATER_CAPS
+LANG_ENGLISH         "KINO DER TOTEN"
+
+REFERENCE            THEATER_LOC
+LANG_ENGLISH         "ドイツ - 劇場"
+
+REFERENCE            TOMB
+LANG_ENGLISH         "ORIGINS"
+
+REFERENCE            TOMB_CAPS
+LANG_ENGLISH         "ORIGINS"
+
+REFERENCE            TOMB_LOADING_SCREEN_TITLE
+LANG_ENGLISH         "EXCAVATION SITE 64"
+
+REFERENCE            TOMB_LOC
+LANG_ENGLISH         "フランス北部 - 採掘現場"
+
+REFERENCE            WEAPON_SICKLE
+LANG_ENGLISH         "鎌"
+
+REFERENCE            WEAPON_SICKLE_BUY
+LANG_ENGLISH         "^3[{+activate}]^7長押しで鎌 [コスト: &&1]"
+
 ENDMARKER
