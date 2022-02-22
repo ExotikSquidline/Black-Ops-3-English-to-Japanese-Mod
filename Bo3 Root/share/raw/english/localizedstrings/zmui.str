@@ -1053,4 +1053,7 @@ LANG_ENGLISH         "Wスコア"
 REFERENCE            BGB_WHOS_KEEPING_SCORE_HINT
 LANG_ENGLISH         "^3[{+actionslot 1}]^7で発動 ダブルポイントのパワーアップを出現させる"
 
+REFERENCE            BUBBLEGUM_CAPS
+LANG_ENGLISH         "ゴブルガム"
+
 ENDMARKER

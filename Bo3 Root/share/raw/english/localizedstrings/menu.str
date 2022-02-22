@@ -81,5 +81,28 @@ LANG_ENGLISH         "パック名を変更"
 REFERENCE            BGB_TOKENS_GAINED_THIS_GAME_CAPS
 LANG_ENGLISH         "ディビニウム液"
 
+REFERENCE            CHOOSE_BUBBLEGUM_PACK_CAPS
+LANG_ENGLISH         "ゴブルガムパック選択"
+
+REFERENCE            EQUIPPED_BUBBLEGUM_PACK_CAPS
+LANG_ENGLISH         "装備したゴブルガムパック"
+
+REFERENCE            EDIT_BUBBLEGUM_PACK
+LANG_ENGLISH         "ゴブルガムパックの設定"
+
+REFERENCE            MODIFYING_BUBBLEGUM
+LANG_ENGLISH         "ゴブルガムを編集中"
+
+REFERENCE            BGBS_CHEWED_CAPS
+LANG_ENGLISH         "ゴブルガム"
+
+REFERENCE            STORE_BUBBLEGUM_BUFFS
+LANG_ENGLISH         "ゴブルガム"
+
+REFERENCE            BUBBLEGUM_CAPS
+LANG_ENGLISH         "ゴブルガム"
+
+REFERENCE            BUBBLEGUM_BUFFS_CAPS
+LANG_ENGLISH         "ゴブルガム"
 
 ENDMARKER

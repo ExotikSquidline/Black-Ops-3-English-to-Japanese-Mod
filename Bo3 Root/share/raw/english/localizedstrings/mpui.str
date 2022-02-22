@@ -1,0 +1,9 @@
+FILENOTES		    "japanese menu Converted by Tex and Jumpy"
+
+REFERENCE            COPY_BUBBLEGUM_PACK_TITLE
+LANG_ENGLISH         "$(bubbleGumPackName)のコピー先を選択"
+
+REFERENCE            EQUIPPEDBUBBLEGUMPACK
+LANG_ENGLISH         "ゴブルガム "
+
+ENDMARKER
