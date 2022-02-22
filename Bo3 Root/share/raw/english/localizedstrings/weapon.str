@@ -1,5 +1,8 @@
 FILENOTES		    "if u read this u legally need to give me a kiss"
 
+REFERENCE            BOWIE
+LANG_ENGLISH         "ボウイナイフ"
+
 REFERENCE            PISTOL_BURST
 LANG_ENGLISH         "エルケ・5"
 
@@ -74,5 +77,2042 @@ LANG_ENGLISH         "エスヴジ"
 
 REFERENCE            hero_gravityspikes_melee
 LANG_ENGLISH         "ラグナロク DG-4"
+
+REFERENCE            ACOG
+LANG_ENGLISH         "リーコン"
+
+REFERENCE            AI_TANK_DROP
+LANG_ENGLISH         "ケルベロスマーカー"
+
+REFERENCE            AR_ACCURATE_DESC
+LANG_ENGLISH         "フルオートのアサルトライフル 威力は控えめで 反動は非常に小さい"
+
+REFERENCE            AR_AN94
+LANG_ENGLISH         "KVK 99m"
+
+REFERENCE            AR_AN94_DESC
+LANG_ENGLISH         "フルオート 各バースト時最初の2発の速度が上がる"
+
+REFERENCE            AR_CQB_DESC
+LANG_ENGLISH         "フルオート 連射速度が非常に優れ 腰撃ちの精度が高い"
+
+REFERENCE            AR_DAMAGE_DESC
+LANG_ENGLISH         "フルオート 連射速度は低いが 威力は高い"
+
+REFERENCE            AR_FAMAS
+LANG_ENGLISH         "FFAR"
+
+REFERENCE            AR_FAMAS_DESC
+LANG_ENGLISH         "フルオート 精度と引き換えに クラス最高の連射速度を持つ"
+
+REFERENCE            AR_FASTBURST
+LANG_ENGLISH         "XR-2"
+
+REFERENCE            AR_FASTBURST_DESC
+LANG_ENGLISH         "3点オートバースト可能 トリガーを引き続けると 自動的にバーストサイクルを 行う"
+
+REFERENCE            AR_GALIL
+LANG_ENGLISH         "Galil"
+
+REFERENCE            AR_GALIL_DESC
+LANG_ENGLISH         "フルオート 中～長距離で威力を発揮する"
+
+REFERENCE            AR_GARAND
+LANG_ENGLISH         "MX Garand"
+
+REFERENCE            AR_GARAND_DESC
+LANG_ENGLISH         "セミオート 連射速度が高く 2発で敵を倒せる 全弾を撃つまでリロード不可"
+
+REFERENCE            AR_LONGBURST_DESC
+LANG_ENGLISH         "4点バースト可能 バーストサイクル速度に優れ 反動が 非常に小さい"
+
+REFERENCE            AR_M14
+LANG_ENGLISH         "M14"
+
+REFERENCE            AR_M14_DESC
+LANG_ENGLISH         "セミオート / マークスマン 敵を2発で仕留められる"
+
+REFERENCE            AR_M16
+LANG_ENGLISH         "M16"
+
+REFERENCE            AR_M16_DESC
+LANG_ENGLISH         "セミオートの3点バースト。中～長距離で威力を発揮する"
+
+REFERENCE            AR_MARKSMAN_DESC
+LANG_ENGLISH         "セミオート / マークスマン 敵歩兵を2発で 仕留められる"
+
+REFERENCE            AR_PEACEKEEPER
+LANG_ENGLISH         "Peacekeeper MK2"
+
+REFERENCE            AR_PEACEKEEPER_DESC
+LANG_ENGLISH         "フルオート クラス最高の機動性を備え 威力と命中率は中程度"
+
+REFERENCE            AR_PULSE
+LANG_ENGLISH         "LV8 Basilisk"
+
+REFERENCE            AR_PULSE_DESC
+LANG_ENGLISH         "フルオート 発射前にわずかにチャージを行う"
+
+REFERENCE            AR_STANDARD_DESC
+LANG_ENGLISH         "フルオート 優れた連射速度を誇り 反動も小さい"
+
+REFERENCE            AR_VENG_HERO
+LANG_ENGLISH         "Sheiva SSW"
+
+REFERENCE            ATTACHMENT_KILLS_CHALLENGE_DESC
+LANG_ENGLISH         "この武器アタッチメントで&&1キルする"
+
+REFERENCE            ATTACHMENT_SIGHT_KILLS_CHALLENGE_DESC
+LANG_ENGLISH         "このアタッチメントを付けてエイム中に&&1キルする"
+
+REFERENCE            BALL
+LANG_ENGLISH         "サテライト"
+
+REFERENCE            BARE_HANDS
+LANG_ENGLISH         "素手"
+
+REFERENCE            BLANK
+LANG_ENGLISH         " "
+
+REFERENCE            BOMB
+LANG_ENGLISH         "爆弾"
+
+REFERENCE            BOUNCINGBETTY
+LANG_ENGLISH         "マイン"
+
+REFERENCE            BOUNCINGBETTY_DESC
+LANG_ENGLISH         "トリップマイン 空中に飛び上がって 爆発する 近接地雷 "
+
+REFERENCE            BOUNCING_BETTY
+LANG_ENGLISH         "トリップマイン"
+
+REFERENCE            BOUNCING_BETTY_DESC
+LANG_ENGLISH         "トリップマイン 空中に飛び上がって 爆発する 近接地雷 "
+
+REFERENCE            BOWIE_DESC
+LANG_ENGLISH         "ナイフを極めしナイフ"
+
+REFERENCE            C4_ALARM
+LANG_ENGLISH         "^1C4アラーム"
+
+REFERENCE            C4_ARMED
+LANG_ENGLISH         "C4設置"
+
+REFERENCE            CAMO_SUIT
+LANG_ENGLISH         "迷彩スーツ"
+
+REFERENCE            CANT_EQUIP_WHILE_PRONE
+LANG_ENGLISH         "伏せ撃ち中はこの武器を装備できない"
+
+REFERENCE            CANT_PLACE_TURRET
+LANG_ENGLISH         "ここには設置できない"
+
+REFERENCE            CANT_PLANT_EQUIPMENT
+LANG_ENGLISH         "ここには配置できない"
+
+REFERENCE            CANT_USE_ROUND_START
+LANG_ENGLISH         "ラウンド開始時は使用不可"
+
+REFERENCE            CQW
+LANG_ENGLISH         "CQW"
+
+REFERENCE            CUSTOMIZED
+LANG_ENGLISH         "カスタム済み"
+
+REFERENCE            DAMAGE
+LANG_ENGLISH         "大口径"
+
+REFERENCE            DATA_GLOVE
+LANG_ENGLISH         "データグローブを装備した"
+
+REFERENCE            DUALOPTIC
+LANG_ENGLISH         "Varix 3"
+
+REFERENCE            DUALOPTIC_DESC
+LANG_ENGLISH         "ズーム倍率切り替え "
+
+REFERENCE            DW
+LANG_ENGLISH         "DW"
+
+REFERENCE            EMPGRENADE
+LANG_ENGLISH         "EMP"
+
+REFERENCE            EMPGRENADE_DESC
+LANG_ENGLISH         "周囲の敵の電子機器を 使用不能にする"
+
+REFERENCE            EMPGRENADE_STAT_CAPS
+LANG_ENGLISH         "破壊"
+
+REFERENCE            EMPGRENADE_STAT_DESC
+LANG_ENGLISH         "EMPで破壊した装備や乗り物"
+
+REFERENCE            EQUIPMENT_KILLS_CHALLENGE_DESC
+LANG_ENGLISH         "この装備で&&1キルする"
+
+REFERENCE            EXTBARREL
+LANG_ENGLISH         "ロングバレル"
+
+REFERENCE            EXTCLIP
+LANG_ENGLISH         "拡張マガジン"
+
+REFERENCE            FASTADS
+LANG_ENGLISH         "ハンドリング"
+
+REFERENCE            FASTRELOAD
+LANG_ENGLISH         "ファストマグ"
+
+REFERENCE            FIRERATE_AUTO
+LANG_ENGLISH         "オート"
+
+REFERENCE            FIRERATE_AUTOBURST
+LANG_ENGLISH         "オートバースト"
+
+REFERENCE            FIRERATE_BOLT
+LANG_ENGLISH         "Bolt"
+
+REFERENCE            FIRERATE_BURST
+LANG_ENGLISH         "バースト"
+
+REFERENCE            FIRERATE_FREE
+LANG_ENGLISH         "フリー"
+
+REFERENCE            FIRERATE_HYBRID
+LANG_ENGLISH         "ハイブリッド"
+
+REFERENCE            FIRERATE_LEVER
+LANG_ENGLISH         "レバー"
+
+REFERENCE            FIRERATE_LOCK
+LANG_ENGLISH         "ロック"
+
+REFERENCE            FIRERATE_NONE
+LANG_ENGLISH         ""
+
+REFERENCE            FIRERATE_PUMP
+LANG_ENGLISH         "ポンプアクション"
+
+REFERENCE            FIRERATE_SINGLE
+LANG_ENGLISH         "セミオート"
+
+REFERENCE            FLAMETHROWER
+LANG_ENGLISH         "火炎放射器"
+
+REFERENCE            FLASHBANG
+LANG_ENGLISH         "フラッシュ"
+
+REFERENCE            FLASHBANG_DESC
+LANG_ENGLISH         "フラッシュバン 敵の視力と聴力を奪う"
+
+REFERENCE            FLASHBANG_STAT_CAPS
+LANG_ENGLISH         "閃光キル"
+
+REFERENCE            FLASHBANG_STAT_DESC
+LANG_ENGLISH         "フラッシュバンで視界を奪って敵を倒した"
+
+REFERENCE            FLASHLIGHT_PYTHON
+LANG_ENGLISH         "パイソン+フラッシュライト"
+
+REFERENCE            FMJ
+LANG_ENGLISH         "FMJ"
+
+REFERENCE            FRAGGRENADE
+LANG_ENGLISH         "フラグ"
+
+REFERENCE            FRAGGRENADE_DESC
+LANG_ENGLISH         "ショートフューズ後に 爆発する [{+frag}]長押しで 遅らせて投げる"
+
+REFERENCE            GADGET_ACTIVE_CAMO
+LANG_ENGLISH         "アクティブ迷彩"
+
+REFERENCE            GADGET_ACTIVE_CAMO_DESC
+LANG_ENGLISH         "クローク迷彩で一時的に 不可視状態になる"
+
+REFERENCE            GADGET_ACTIVE_CAMO_MENU_DESC
+LANG_ENGLISH         "周囲に溶け込み、至近距離の敵以外にはほぼ不可視状態になる。ダッシュや発砲を行うと、注意を引いてしまう"
+
+REFERENCE            GADGET_ACTIVE_CAMO_PRO
+LANG_ENGLISH         "拡張迷彩"
+
+REFERENCE            GADGET_ACTIVE_CAMO_PRO_SHORT_NAME
+LANG_ENGLISH         "拡張迷彩"
+
+REFERENCE            GADGET_ACTIVE_CAMO_SHORT_NAME
+LANG_ENGLISH         "アクティブ迷彩"
+
+REFERENCE            GADGET_ACTIVE_CAMO_UPG_DESC
+LANG_ENGLISH         "一時的にほぼ不可視状態になる。移動していない時に効果的"
+
+REFERENCE            GADGET_ACTIVE_CAMO_UPG_MENU_DESC
+LANG_ENGLISH         "有効時間の延長"
+
+REFERENCE            GADGET_ARMOR
+LANG_ENGLISH         "Kinetic Armor"
+
+REFERENCE            GADGET_ARMOR_DESC
+LANG_ENGLISH         "キネティックアーマー リアクティブアーマーで 飛んでくる 銃弾をそらす ただしヘッドショットや 銃弾以外の攻撃には無効"
+
+REFERENCE            GADGET_ARMOR_KILLS_DESC
+LANG_ENGLISH         "キネティックアーマー使用中にキル"
+
+REFERENCE            GADGET_ARMOR_KILL_TYPE
+LANG_ENGLISH         "使用中キル"
+
+REFERENCE            GADGET_ARMOR_KILL_TYPE_PER_USE
+LANG_ENGLISH         "使用中キル/使用"
+
+REFERENCE            GADGET_AUGMENTATION_BREAKDOWN_LOWER_CASE
+LANG_ENGLISH         "オーグブレイカー"
+
+REFERENCE            GADGET_CACOPHANY
+LANG_ENGLISH         "カコフォニー"
+
+REFERENCE            GADGET_CACOPHANY_DESC
+LANG_ENGLISH         "燃料、電気系統、電子制御のコンテナを爆発させる"
+
+REFERENCE            GADGET_CACOPHANY_MENU_DESC
+LANG_ENGLISH         "インフラ設備をハッキングし、燃料、電気系統、爆発物の入ったコンテナを爆発させる"
+
+REFERENCE            GADGET_CACOPHANY_PRO
+LANG_ENGLISH         "強化カコフォニー"
+
+REFERENCE            GADGET_CACOPHANY_UPG_DESC
+LANG_ENGLISH         "燃料、電気系統、電子制御のコンテナを爆発させる"
+
+REFERENCE            GADGET_CACOPHANY_UPG_MENU_DESC
+LANG_ENGLISH         "効果範囲が広い"
+
+REFERENCE            GADGET_CACOPHONY
+LANG_ENGLISH         "カコフォニー"
+
+REFERENCE            GADGET_CACOPHONY_PRO
+LANG_ENGLISH         "強化カコフォニー"
+
+REFERENCE            GADGET_CACOPHONY_PRO_SHORT_NAME
+LANG_ENGLISH         "強化カコフォニー"
+
+REFERENCE            GADGET_CACOPHONY_SHORT_NAME
+LANG_ENGLISH         "カコフォニー"
+
+REFERENCE            GADGET_CAMO
+LANG_ENGLISH         "Active Camo"
+
+REFERENCE            GADGET_CAMO_DESC
+LANG_ENGLISH         "アクティブ迷彩一時的にほぼ 不可視状態になる "
+
+REFERENCE            GADGET_CAMO_KILLS_DESC
+LANG_ENGLISH         "アクティブ迷彩を解除直後にキル"
+
+REFERENCE            GADGET_CAMO_KILL_TYPE
+LANG_ENGLISH         "直後キル"
+
+REFERENCE            GADGET_CAMO_KILL_TYPE_PER_USE
+LANG_ENGLISH         "直後キル/使用"
+
+REFERENCE            GADGET_CLEANSE
+LANG_ENGLISH         "クレンズ"
+
+REFERENCE            GADGET_CLEANSE_DESC
+LANG_ENGLISH         "全ての無力化効果(EMPを含む)と自身の情報を消して、体力を回復させる"
+
+REFERENCE            GADGET_CLONE
+LANG_ENGLISH         "Psychosis"
+
+REFERENCE            GADGET_CLONE_DESC
+LANG_ENGLISH         "サイコシス おとりの クローン3体が 前方に走り 敵をかく乱する"
+
+REFERENCE            GADGET_CLONE_KILLS_DESC
+LANG_ENGLISH         "サイコシス使用中にキル"
+
+REFERENCE            GADGET_CLONE_KILL_TYPE
+LANG_ENGLISH         "使用中キル"
+
+REFERENCE            GADGET_CLONE_KILL_TYPE_PER_USE
+LANG_ENGLISH         "使用中キル/使用"
+
+REFERENCE            GADGET_COMBAT_EFFICIENCY
+LANG_ENGLISH         "Combat Focus"
+
+REFERENCE            GADGET_COMBAT_EFFICIENCY_DESC
+LANG_ENGLISH         "コンバットフォーカス 使用中に スコアを獲得すると スコアストリークの ボーナス倍率が 発生する"
+
+REFERENCE            GADGET_COMBAT_EFFICIENCY_KILLS_DESC
+LANG_ENGLISH         "コンバットフォーカス使用中にキル"
+
+REFERENCE            GADGET_COMBAT_EFFICIENCY_KILL_TYPE
+LANG_ENGLISH         "使用中キル"
+
+REFERENCE            GADGET_COMBAT_EFFICIENCY_KILL_TYPE_PER_USE
+LANG_ENGLISH         "使用中キル/使用"
+
+REFERENCE            GADGET_CONCUSSIVE_WAVE
+LANG_ENGLISH         "衝撃ブラスト"
+
+REFERENCE            GADGET_CONCUSSIVE_WAVE_DESC
+LANG_ENGLISH         "衝撃波で周囲の敵を弾き飛ばす"
+
+REFERENCE            GADGET_CONCUSSIVE_WAVE_MENU_DESC
+LANG_ENGLISH         "リパルサー技術によるコンカッションウェーブを放ち、周囲の敵を弾き飛ばす。至近距離では致死的な攻撃となる"
+
+REFERENCE            GADGET_CONCUSSIVE_WAVE_PRO
+LANG_ENGLISH         "衝撃ウェーブ"
+
+REFERENCE            GADGET_CONCUSSIVE_WAVE_PRO_SHORT_NAME
+LANG_ENGLISH         "衝撃ウェーブ"
+
+REFERENCE            GADGET_CONCUSSIVE_WAVE_SHORT_NAME
+LANG_ENGLISH         "衝撃ブラスト"
+
+REFERENCE            GADGET_CONCUSSIVE_WAVE_UPG_DESC
+LANG_ENGLISH         "衝撃波で至近距離の敵を仕留め、周囲の敵を弾き飛ばす"
+
+REFERENCE            GADGET_CONCUSSIVE_WAVE_UPG_MENU_DESC
+LANG_ENGLISH         "前方にジャンプしてから コンカッションウェーブを放つ"
+
+REFERENCE            GADGET_DENIED_ALREADY_ACTIVE
+LANG_ENGLISH         "アビリティが既に有効"
+
+REFERENCE            GADGET_DENIED_CANNOT_ACTIVATE
+LANG_ENGLISH         "アビリティ使用不可"
+
+REFERENCE            GADGET_DENIED_CANNOT_ACTIVATE_CP
+LANG_ENGLISH         "サイバネティック使用不可"
+
+REFERENCE            GADGET_ENERGYSHIELD
+LANG_ENGLISH         "ナノシールド"
+
+REFERENCE            GADGET_ES_DISCHARGE
+LANG_ENGLISH         "エレクトロ・ディスチャージ"
+
+REFERENCE            GADGET_ES_STRIKE
+LANG_ENGLISH         "エレクトロストライク"
+
+REFERENCE            GADGET_ES_STRIKE_DESC
+LANG_ENGLISH         "電気ショックで敵を死に至らしめる近接攻撃"
+
+REFERENCE            GADGET_ES_STRIKE_MENU_DESC
+LANG_ENGLISH         "帯電させた手のひらで危険な一撃を放ち、人間やロボットに電気ショックを与える。クールダウン時間が短い"
+
+REFERENCE            GADGET_ES_STRIKE_PRO
+LANG_ENGLISH         "エレクトロアーク"
+
+REFERENCE            GADGET_ES_STRIKE_PRO_SHORT_NAME
+LANG_ENGLISH         "エレクトロアーク"
+
+REFERENCE            GADGET_ES_STRIKE_SHORT_NAME
+LANG_ENGLISH         "ストライク"
+
+REFERENCE            GADGET_ES_STRIKE_UPG_DESC
+LANG_ENGLISH         "電気ショックで敵を死に至らしめる近接攻撃"
+
+REFERENCE            GADGET_ES_STRIKE_UPG_MENU_DESC
+LANG_ENGLISH         "命中時に弧を描いて放たれる強力な電流が、周囲の戦闘員に効果を及ぼす"
+
+REFERENCE            GADGET_ES_THROW
+LANG_ENGLISH         "エレクトロスロー"
+
+REFERENCE            GADGET_EXO_BREAKDOWN
+LANG_ENGLISH         "オーグブレイカー"
+
+REFERENCE            GADGET_EXO_BREAKDOWN_DESC
+LANG_ENGLISH         "パワードスーツが着用者に対して反抗する"
+
+REFERENCE            GADGET_EXO_BREAKDOWN_MENU_DESC
+LANG_ENGLISH         "敵2体の戦闘オーグをハッキングして故障させる。敵の装備が移動や射撃の足かせとなる"
+
+REFERENCE            GADGET_EXO_BREAKDOWN_PRO
+LANG_ENGLISH         "端末ブレイカー"
+
+REFERENCE            GADGET_EXO_BREAKDOWN_PRO_SHORT_NAME
+LANG_ENGLISH         "端末ブレイカー"
+
+REFERENCE            GADGET_EXO_BREAKDOWN_SHORT_NAME
+LANG_ENGLISH         "オーグブレイカー"
+
+REFERENCE            GADGET_EXO_BREAKDOWN_UPG_DESC
+LANG_ENGLISH         "ターゲットのパワードスーツが着用者を攻撃する"
+
+REFERENCE            GADGET_EXO_BREAKDOWN_UPG_MENU_DESC
+LANG_ENGLISH         "オーグの連結部を曲げて敵を負傷または致命傷を与え、二度と立てなくする"
+
+REFERENCE            GADGET_FIREFLY_SWARM
+LANG_ENGLISH         "閃光スワーム"
+
+REFERENCE            GADGET_FIREFLY_SWARM_DESC
+LANG_ENGLISH         "閃光を放つナノボットが 敵の目をくらませる"
+
+REFERENCE            GADGET_FIREFLY_SWARM_MENU_DESC
+LANG_ENGLISH         "LEDストロボで閃光を放つ 小型のファイヤーフライボットを 大量に展開する このボットは敵が死亡すると 次のターゲットに向かい パワー切れになるまで動く"
+
+REFERENCE            GADGET_FIREFLY_SWARM_PRO
+LANG_ENGLISH         "ファイヤーフライ"
+
+REFERENCE            GADGET_FIREFLY_SWARM_PRO_SHORT_NAME
+LANG_ENGLISH         "ファイヤーフライ"
+
+REFERENCE            GADGET_FIREFLY_SWARM_SHORT_NAME
+LANG_ENGLISH         "閃光スワーム"
+
+REFERENCE            GADGET_FIREFLY_SWARM_UPG_DESC
+LANG_ENGLISH         "閃光を放つナノボットが 敵の目をくらませ ファイヤーフライボットが 敵を燃やす"
+
+REFERENCE            GADGET_FIREFLY_SWARM_UPG_MENU_DESC
+LANG_ENGLISH         "さらに、敵と接触すると 燃え上がるナノボットを放つ"
+
+REFERENCE            GADGET_FLASHBACK
+LANG_ENGLISH         "Glitch"
+
+REFERENCE            GADGET_FLASHBACK_DESC
+LANG_ENGLISH         "グリッチ 他の状況は そのままに 前の位置まで 瞬時に戻る"
+
+REFERENCE            GADGET_FLASHBACK_KILLS_DESC
+LANG_ENGLISH         "グリッチ使用直後にキル"
+
+REFERENCE            GADGET_FLASHBACK_KILL_TYPE
+LANG_ENGLISH         "直後キル"
+
+REFERENCE            GADGET_FLASHBACK_KILL_TYPE_PER_USE
+LANG_ENGLISH         "直後キル/使用"
+
+REFERENCE            GADGET_FORCED_MALFUNCTION
+LANG_ENGLISH         "ウェポンロック"
+
+REFERENCE            GADGET_FORCED_MALFUNCTION_DESC
+LANG_ENGLISH         "敵の武器を一時的に故障させる"
+
+REFERENCE            GADGET_FORCED_MALFUNCTION_MENU_DESC
+LANG_ENGLISH         "敵2体の武器に生体認証ロックをかけ、一時的に使用不能にする"
+
+REFERENCE            GADGET_FORCED_MALFUNCTION_PRO
+LANG_ENGLISH         "マスウェポンロック"
+
+REFERENCE            GADGET_FORCED_MALFUNCTION_PRO_SHORT_NAME
+LANG_ENGLISH         "強ウェポンロック"
+
+REFERENCE            GADGET_FORCED_MALFUNCTION_SHORT_NAME
+LANG_ENGLISH         "ウェポンロック"
+
+REFERENCE            GADGET_FORCED_MALFUNCTION_UPG_DESC
+LANG_ENGLISH         "敵の武器を一時的に故障させる"
+
+REFERENCE            GADGET_FORCED_MALFUNCTION_UPG_MENU_DESC
+LANG_ENGLISH         "敵4体の武器を使用不能にする"
+
+REFERENCE            GADGET_FRAG_GRENADE
+LANG_ENGLISH         "プログラマブル・リーサル"
+
+REFERENCE            GADGET_FRAG_GRENADE_DESC
+LANG_ENGLISH         "時間経過でリチャージされるフラググレネードを投げる"
+
+REFERENCE            GADGET_HACKER
+LANG_ENGLISH         "ハッカー"
+
+REFERENCE            GADGET_HACKER_DESC
+LANG_ENGLISH         "周囲の対象物をハッキングする"
+
+REFERENCE            GADGET_HEAT_WAVE
+LANG_ENGLISH         "Heat Wave"
+
+REFERENCE            GADGET_HEAT_WAVE_DESC
+LANG_ENGLISH         "ヒートウェーブ 敵をスタン状態にし 装備を破壊する 巨大な爆風を放つ"
+
+REFERENCE            GADGET_HEAT_WAVE_KILLS_DESC
+LANG_ENGLISH         "ヒートウェーブでスタンさせた敵をキル"
+
+REFERENCE            GADGET_HEAT_WAVE_KILL_TYPE
+LANG_ENGLISH         "スタンキル"
+
+REFERENCE            GADGET_HEAT_WAVE_KILL_TYPE_PER_USE
+LANG_ENGLISH         "スタンキル/使用"
+
+REFERENCE            GADGET_IFF_OVERRIDE
+LANG_ENGLISH         "オーバーライド"
+
+REFERENCE            GADGET_IFF_OVERRIDE_DESC
+LANG_ENGLISH         "ロボットの敵対認識を切り替えて、味方として戦わせる"
+
+REFERENCE            GADGET_IFF_OVERRIDE_MENU_DESC
+LANG_ENGLISH         "敵ターレットや、ロボットのターゲット設定プロトコルをハッキングして味方にする。対象は一定時間経過後にシャットダウンする"
+
+REFERENCE            GADGET_IFF_OVERRIDE_PRO
+LANG_ENGLISH         "強化オーバーライド"
+
+REFERENCE            GADGET_IFF_OVERRIDE_PRO_SHORT_NAME
+LANG_ENGLISH         "オーバーライド"
+
+REFERENCE            GADGET_IFF_OVERRIDE_SHORT_NAME
+LANG_ENGLISH         "オーバーライド"
+
+REFERENCE            GADGET_IFF_OVERRIDE_UPG_DESC
+LANG_ENGLISH         "ロボット2体の敵対認識を切り替えて、味方として戦わせる"
+
+REFERENCE            GADGET_IFF_OVERRIDE_UPG_MENU_DESC
+LANG_ENGLISH         "ロボット2体を同時にコントロールする"
+
+REFERENCE            GADGET_IMMOLATION
+LANG_ENGLISH         "イモレーション"
+
+REFERENCE            GADGET_IMMOLATION_DESC
+LANG_ENGLISH         "ロボットのパワーセルをオーバーヒートさせて炎上させる"
+
+REFERENCE            GADGET_IMMOLATION_MENU_DESC
+LANG_ENGLISH         "ロボットの出力制御をショートさせる。対象は炎に包まれて爆発する"
+
+REFERENCE            GADGET_IMMOLATION_PRO
+LANG_ENGLISH         "適応イモレーション"
+
+REFERENCE            GADGET_IMMOLATION_PRO_SHORT_NAME
+LANG_ENGLISH         "イモレーション"
+
+REFERENCE            GADGET_IMMOLATION_SHORT_NAME
+LANG_ENGLISH         "イモレーション"
+
+REFERENCE            GADGET_IMMOLATION_UPG_DESC
+LANG_ENGLISH         "ロボットを発火させる 敵が所持する爆発物を全て爆破する"
+
+REFERENCE            GADGET_IMMOLATION_UPG_MENU_DESC
+LANG_ENGLISH         "イモレーションはさらに、敵が所持する爆発物の起爆装置をハッキングして即座に爆破できる"
+
+REFERENCE            GADGET_INFRARED
+LANG_ENGLISH         "IRビジョン"
+
+REFERENCE            GADGET_INFRARED_DESC
+LANG_ENGLISH         "一時的にフルスクリーンのデュアルバンドを起動する "
+
+REFERENCE            GADGET_JUKE
+LANG_ENGLISH         "ジューク"
+
+REFERENCE            GADGET_JUKE_DESC
+LANG_ENGLISH         "任意の方向に素早く突進する"
+
+REFERENCE            GADGET_MISDIRECTION
+LANG_ENGLISH         "ミスディレクト"
+
+REFERENCE            GADGET_MISDIRECTION_DESC
+LANG_ENGLISH         "敵の戦闘用センサーに対して、デコイのターゲットを偽装する"
+
+REFERENCE            GADGET_MISDIRECTION_MENU_DESC
+LANG_ENGLISH         "敵の戦闘用センサーをハッキングして、空中戦闘ロボットの攻撃を偽装する。なりすましの戦闘ロボットがデコイ役になる"
+
+REFERENCE            GADGET_MISDIRECTION_PRO
+LANG_ENGLISH         "広域ミスディレクト"
+
+REFERENCE            GADGET_MISDIRECTION_PRO_SHORT_NAME
+LANG_ENGLISH         "強ミスディレクト"
+
+REFERENCE            GADGET_MISDIRECTION_SHORT_NAME
+LANG_ENGLISH         "ミスディレクト"
+
+REFERENCE            GADGET_MISDIRECTION_UPG_DESC
+LANG_ENGLISH         "広いエリアで敵の戦闘用センサーに対して、デコイのターゲットを偽装する"
+
+REFERENCE            GADGET_MISDIRECTION_UPG_MENU_DESC
+LANG_ENGLISH         "偽装する攻撃の規模が広範囲になる"
+
+REFERENCE            GADGET_MOD_6
+LANG_ENGLISH         "クランタグ"
+
+REFERENCE            GADGET_MOD_7
+LANG_ENGLISH         "キルカウンター"
+
+REFERENCE            GADGET_MRPUKEY
+LANG_ENGLISH         "対人音波"
+
+REFERENCE            GADGET_MRPUKEY_DESC
+LANG_ENGLISH         "音波兵器で敵を行動不能にする"
+
+REFERENCE            GADGET_MRPUKEY_MENU_DESC
+LANG_ENGLISH         "敵にエネルギー波を集中させ、筋肉に強力なけいれんを起こす。戦闘員は疲弊して身動きが取れなくなる"
+
+REFERENCE            GADGET_MRPUKEY_PRO
+LANG_ENGLISH         "強化ソニックA.P."
+
+REFERENCE            GADGET_MRPUKEY_PRO_SHORT_NAME
+LANG_ENGLISH         "強化ソニックA.P."
+
+REFERENCE            GADGET_MRPUKEY_SHORT_NAME
+LANG_ENGLISH         "対人音波"
+
+REFERENCE            GADGET_MRPUKEY_UPG_DESC
+LANG_ENGLISH         "音波兵器で敵を行動不能にする"
+
+REFERENCE            GADGET_MRPUKEY_UPG_MENU_DESC
+LANG_ENGLISH         "効果範囲が広くなる"
+
+REFERENCE            GADGET_OVERDRIVE
+LANG_ENGLISH         "オーバードライブ"
+
+REFERENCE            GADGET_OVERDRIVE_DESC
+LANG_ENGLISH         "一時的に移動速度と射撃精度を上昇させ、装備のハンドリングを素早くする"
+
+REFERENCE            GADGET_OVERDRIVE_MENU_DESC
+LANG_ENGLISH         "一時的にモーター制御装置を強化して、移動速度と射撃精度を上昇させ、武器切り替えや装備のハンドリングを素早くする"
+
+REFERENCE            GADGET_OVERDRIVE_PRO
+LANG_ENGLISH         "強化オーバードライブ"
+
+REFERENCE            GADGET_OVERDRIVE_PRO_SHORT_NAME
+LANG_ENGLISH         "オーバードライブ"
+
+REFERENCE            GADGET_OVERDRIVE_SHORT_NAME
+LANG_ENGLISH         "オーバードライブ"
+
+REFERENCE            GADGET_OVERDRIVE_UPG_DESC
+LANG_ENGLISH         "一時的に移動速度と射撃精度を上昇させ、装備のハンドリングを素早くする"
+
+REFERENCE            GADGET_OVERDRIVE_UPG_MENU_DESC
+LANG_ENGLISH         "有効時間の延長"
+
+REFERENCE            GADGET_RAPID_STRIKE
+LANG_ENGLISH         "テイクダウン"
+
+REFERENCE            GADGET_RAPID_STRIKE_DESC
+LANG_ENGLISH         "強力な近接攻撃を繰り出す"
+
+REFERENCE            GADGET_RAPID_STRIKE_MENU_DESC
+LANG_ENGLISH         "殺傷力の高い近接攻撃を繰り出し、連続で近くの敵を攻撃する"
+
+REFERENCE            GADGET_RAPID_STRIKE_PRO
+LANG_ENGLISH         "ラピッドストライク"
+
+REFERENCE            GADGET_RAPID_STRIKE_PRO_SHORT_NAME
+LANG_ENGLISH         "ストライク"
+
+REFERENCE            GADGET_RAPID_STRIKE_SHORT_NAME
+LANG_ENGLISH         "テイクダウン"
+
+REFERENCE            GADGET_RAPID_STRIKE_UPG_DESC
+LANG_ENGLISH         "近接攻撃で敵を仕留め 強力な攻撃をさらに2回繰り出す"
+
+REFERENCE            GADGET_RAPID_STRIKE_UPG_MENU_DESC
+LANG_ENGLISH         "近くの敵に強力な追加攻撃を3発まで放つ"
+
+REFERENCE            GADGET_RAVAGE_CORE
+LANG_ENGLISH         "ラベッジコア"
+
+REFERENCE            GADGET_RAVAGE_CORE_DESC
+LANG_ENGLISH         "ロボット内部から パワーセルを引きはがす 投げると爆発する"
+
+REFERENCE            GADGET_RAVAGE_CORE_MENU_DESC
+LANG_ENGLISH         "ロボットの装甲を切り裂き、パワーセルを引きはがす。パワーセルはグレネードと同様に投げられる。その爆発の衝撃は他のロボットを停止させる"
+
+REFERENCE            GADGET_RAVAGE_CORE_PRO
+LANG_ENGLISH         "強化ラベッジコア"
+
+REFERENCE            GADGET_RAVAGE_CORE_PRO_SHORT_NAME
+LANG_ENGLISH         "強化ラベッジコア"
+
+REFERENCE            GADGET_RAVAGE_CORE_SHORT_NAME
+LANG_ENGLISH         "ラベッジコア"
+
+REFERENCE            GADGET_RAVAGE_CORE_UPG_DESC
+LANG_ENGLISH         "ロボット内部から パワーセルを引きはがす 投げると爆発する"
+
+REFERENCE            GADGET_RAVAGE_CORE_UPG_MENU_DESC
+LANG_ENGLISH         "コアの爆破範囲を拡大する"
+
+REFERENCE            GADGET_REMOTE_HIJACK
+LANG_ENGLISH         "リモートハイジャック"
+
+REFERENCE            GADGET_REMOTE_HIJACK_DESC
+LANG_ENGLISH         "敵のロボット車両の制御を奪い、遠隔操作する"
+
+REFERENCE            GADGET_REMOTE_HIJACK_MENU_DESC
+LANG_ENGLISH         "敵のターレットやロボットを乗っ取り、遠隔操作する。乗っ取ったロボットは一定範囲内でしか操作できない"
+
+REFERENCE            GADGET_REMOTE_HIJACK_PRO
+LANG_ENGLISH         "強化ハイジャック"
+
+REFERENCE            GADGET_REMOTE_HIJACK_PRO_SHORT_NAME
+LANG_ENGLISH         "強化ハイジャック"
+
+REFERENCE            GADGET_REMOTE_HIJACK_SHORT_NAME
+LANG_ENGLISH         "ハイジャック"
+
+REFERENCE            GADGET_REMOTE_HIJACK_UPG_DESC
+LANG_ENGLISH         "敵のロボット車両の制御を奪い、遠隔操作する"
+
+REFERENCE            GADGET_REMOTE_HIJACK_UPG_MENU_DESC
+LANG_ENGLISH         "A.S.P./P.A.W.W.S./のハッキングに要する時間が短くなる"
+
+REFERENCE            GADGET_RESURRECT
+LANG_ENGLISH         "Rejack"
+
+REFERENCE            GADGET_RESURRECT_DESC
+LANG_ENGLISH         "リジャック ナノ粒子血清を 注射して 死亡した地点から蘇る SPウェポンでキルされると リジャックできない"
+
+REFERENCE            GADGET_RESURRECT_KILLS_DESC
+LANG_ENGLISH         "リジャック使用直後にキル"
+
+REFERENCE            GADGET_RESURRECT_KILL_TYPE
+LANG_ENGLISH         "直後キル"
+
+REFERENCE            GADGET_RESURRECT_KILL_TYPE_PER_USE
+LANG_ENGLISH         "直後キル/使用"
+
+REFERENCE            GADGET_RESURRECT_USE
+LANG_ENGLISH         "^3^7[{+ability}]^3 でリジャック ^7[{+activate}]^3 長押しで終了^7"
+
+REFERENCE            GADGET_ROULETTE
+LANG_ENGLISH         "Gambler"
+
+REFERENCE            GADGET_ROULETTE_DESC
+LANG_ENGLISH         "ギャンブラー スペシャリストデッキからランダムなアビリティカードを引く。[{+actionslot 3}]でもう一度引く"
+
+REFERENCE            GADGET_ROULETTE_KILLS_DESC
+LANG_ENGLISH         "ギャンブラーで得たアビリティを使用してのキル数"
+
+REFERENCE            GADGET_ROULETTE_KILL_TYPE
+LANG_ENGLISH         "アビリティ使用キル"
+
+REFERENCE            GADGET_ROULETTE_KILL_TYPE_PER_USE
+LANG_ENGLISH         "アビリティキル/使用"
+
+REFERENCE            GADGET_SECURITY_BREACH
+LANG_ENGLISH         "リモートハイジャック"
+
+REFERENCE            GADGET_SENSORY_OVERLOAD
+LANG_ENGLISH         "センサー"
+
+REFERENCE            GADGET_SENSORY_OVERLOAD_DESC
+LANG_ENGLISH         "人間の戦闘員の視力と聴力を一時的に奪う"
+
+REFERENCE            GADGET_SENSORY_OVERLOAD_MENU_DESC
+LANG_ENGLISH         "敵3体の戦闘用センサーを乗っ取り、イヤーピースに高音のノイズ、サイトに激しい光を生じさせる。人間の戦闘員にのみ有効"
+
+REFERENCE            GADGET_SENSORY_OVERLOAD_PRO
+LANG_ENGLISH         "マスハック"
+
+REFERENCE            GADGET_SENSORY_OVERLOAD_PRO_SHORT_NAME
+LANG_ENGLISH         "マスハック"
+
+REFERENCE            GADGET_SENSORY_OVERLOAD_SHORT_NAME
+LANG_ENGLISH         "センサー"
+
+REFERENCE            GADGET_SENSORY_OVERLOAD_UPG_DESC
+LANG_ENGLISH         "人間の戦闘員の視力と聴力を一時的に奪う"
+
+REFERENCE            GADGET_SENSORY_OVERLOAD_UPG_MENU_DESC
+LANG_ENGLISH         "同時に標的5体に対して効果を与えられる"
+
+REFERENCE            GADGET_SERVO_SHORTOUT
+LANG_ENGLISH         "サーボショートアウト"
+
+REFERENCE            GADGET_SERVO_SHORTOUT_DESC
+LANG_ENGLISH         "ロボット2体の機動システムに搭載されたサーボ機構を破壊する"
+
+REFERENCE            GADGET_SERVO_SHORTOUT_MENU_DESC
+LANG_ENGLISH         "ロボット2体の移動システムに欠かせないサーボ機構を破壊する"
+
+REFERENCE            GADGET_SERVO_SHORTOUT_PRO
+LANG_ENGLISH         "マスショート"
+
+REFERENCE            GADGET_SERVO_SHORTOUT_PRO_SHORT_NAME
+LANG_ENGLISH         "マスショート"
+
+REFERENCE            GADGET_SERVO_SHORTOUT_SHORT_NAME
+LANG_ENGLISH         "サーボショート"
+
+REFERENCE            GADGET_SERVO_SHORTOUT_UPG_DESC
+LANG_ENGLISH         "ロボット3体の機動システムに搭載されたサーボ機構を破壊する"
+
+REFERENCE            GADGET_SERVO_SHORTOUT_UPG_MENU_DESC
+LANG_ENGLISH         "同時に標的3体に対して効果を与えられる"
+
+REFERENCE            GADGET_SHIELD
+LANG_ENGLISH         "ナノシールド"
+
+REFERENCE            GADGET_SHIELD_DESC
+LANG_ENGLISH         "左腕にシールドを展開してダメージを軽減する バンパー長押しで、シールド展開"
+
+REFERENCE            GADGET_SHOCK_FIELD
+LANG_ENGLISH         "ショックフィールド"
+
+REFERENCE            GADGET_SHOCK_FIELD_DESC
+LANG_ENGLISH         "ショックフィールドで身体を覆い、有効範囲内の敵に電気ショックを与える"
+
+REFERENCE            GADGET_SMOKESCREEN
+LANG_ENGLISH         "スモークスクリーン"
+
+REFERENCE            GADGET_SMOKESCREEN_DESC
+LANG_ENGLISH         "周囲に防衛用の煙幕を張る"
+
+REFERENCE            GADGET_SMOKESCREEN_MENU_DESC
+LANG_ENGLISH         "周囲に防衛用の煙幕を張る"
+
+REFERENCE            GADGET_SMOKESCREEN_PRO
+LANG_ENGLISH         "帯電スモーク"
+
+REFERENCE            GADGET_SMOKESCREEN_PRO_SHORT_NAME
+LANG_ENGLISH         "帯電スモーク"
+
+REFERENCE            GADGET_SMOKESCREEN_SHORT_NAME
+LANG_ENGLISH         "スモーク"
+
+REFERENCE            GADGET_SMOKESCREEN_UPG_DESC
+LANG_ENGLISH         "周囲に電気を帯びた防衛用の煙幕を張る"
+
+REFERENCE            GADGET_SMOKESCREEN_UPG_MENU_DESC
+LANG_ENGLISH         "煙幕内のロボットは一時的に行動不能になる。また、煙幕は敵の戦闘用センサーを妨害する"
+
+REFERENCE            GADGET_SPEED_BURST
+LANG_ENGLISH         "Overdrive"
+
+REFERENCE            GADGET_SPEED_BURST_DESC
+LANG_ENGLISH         "オーバードライブ サイバネティックレッグの アップグレードにより 一時的に移動速度が上がる"
+
+REFERENCE            GADGET_SPEED_BURST_KILLS_DESC
+LANG_ENGLISH         "オーバードライブ使用中にキル"
+
+REFERENCE            GADGET_SPEED_BURST_KILL_TYPE
+LANG_ENGLISH         "使用中キル"
+
+REFERENCE            GADGET_SPEED_BURST_KILL_TYPE_PER_USE
+LANG_ENGLISH         "使用中キル/使用"
+
+REFERENCE            GADGET_SURGE
+LANG_ENGLISH         "サージ"
+
+REFERENCE            GADGET_SURGE_DESC
+LANG_ENGLISH         "ロボットのパワーセルを爆発させ、近くの敵に強力な電流を放出する"
+
+REFERENCE            GADGET_SURGE_MENU_DESC
+LANG_ENGLISH         "ロボットのパワーセルをハッキングして、過負荷をかけて強力なサージ電流を引き起こす。近くのロボットは一時的に行動不能になる"
+
+REFERENCE            GADGET_SURGE_PRO
+LANG_ENGLISH         "ホーミングサージ"
+
+REFERENCE            GADGET_SURGE_PRO_SHORT_NAME
+LANG_ENGLISH         "ホーミングサージ"
+
+REFERENCE            GADGET_SURGE_SHORT_NAME
+LANG_ENGLISH         "サージ"
+
+REFERENCE            GADGET_SURGE_UPG_DESC
+LANG_ENGLISH         "ターゲットのロボットが敵の群れに突進し、爆発して電気を放出する"
+
+REFERENCE            GADGET_SURGE_UPG_MENU_DESC
+LANG_ENGLISH         "爆発前にターゲットの誘導システムを乗っ取り、敵の群れの中に突進させる"
+
+REFERENCE            GADGET_SYSTEM_OVERLOAD
+LANG_ENGLISH         "システムパラリシス"
+
+REFERENCE            GADGET_SYSTEM_OVERLOAD_DESC
+LANG_ENGLISH         "一時的に敵ロボットとターレットを停止させる"
+
+REFERENCE            GADGET_SYSTEM_OVERLOAD_MENU_DESC
+LANG_ENGLISH         "一時的に3体の敵ロボットとターレットを停止させる"
+
+REFERENCE            GADGET_SYSTEM_OVERLOAD_PRO
+LANG_ENGLISH         "マスパラリシス"
+
+REFERENCE            GADGET_SYSTEM_OVERLOAD_PRO_SHORT_NAME
+LANG_ENGLISH         "マスパラリシス"
+
+REFERENCE            GADGET_SYSTEM_OVERLOAD_SHORT_NAME
+LANG_ENGLISH         "パラリシス"
+
+REFERENCE            GADGET_SYSTEM_OVERLOAD_UPG_DESC
+LANG_ENGLISH         "一時的に敵ロボットとターレットを停止させる"
+
+REFERENCE            GADGET_SYSTEM_OVERLOAD_UPG_MENU_DESC
+LANG_ENGLISH         "同時に標的5体に対して効果を与えられる"
+
+REFERENCE            GADGET_THIEF
+LANG_ENGLISH         "Rogue"
+
+REFERENCE            GADGET_THIEF_DESC
+LANG_ENGLISH         "ローグ 敵を倒して獲得したクレジットで敵のSPウェポンを使用できる。[{+actionslot 3}]で最近獲得したSPウェポンに変更"
+
+REFERENCE            GADGET_TURRET
+LANG_ENGLISH         "ターレット"
+
+REFERENCE            GADGET_TURRET_DESC
+LANG_ENGLISH         "ターレットを展開して、接近する敵を攻撃する"
+
+REFERENCE            GADGET_TURRET_PLACE
+LANG_ENGLISH         "&&1を放してターレット展開"
+
+REFERENCE            GADGET_TURRET_RECOVER_LB
+LANG_ENGLISH         "^3[{+smoke}]^7 長押しでターレット 回収"
+
+REFERENCE            GADGET_TURRET_RECOVER_RB
+LANG_ENGLISH         "^3[{+frag}]^7 長押しでターレット 回収"
+
+REFERENCE            GADGET_UNSTOPPABLE_FORCE
+LANG_ENGLISH         "フォース"
+
+REFERENCE            GADGET_UNSTOPPABLE_FORCE_DESC
+LANG_ENGLISH         "前方に高速で突進して、進行方向の敵を排除する"
+
+REFERENCE            GADGET_UNSTOPPABLE_FORCE_MENU_DESC
+LANG_ENGLISH         "全モーターシステムのパワーを上昇させ、前方に高速で突進する。進行方向の敵全員に凄まじい衝撃を与える"
+
+REFERENCE            GADGET_UNSTOPPABLE_FORCE_PRO
+LANG_ENGLISH         "ウルトラフォース"
+
+REFERENCE            GADGET_UNSTOPPABLE_FORCE_PRO_SHORT_NAME
+LANG_ENGLISH         "ウルトラフォース"
+
+REFERENCE            GADGET_UNSTOPPABLE_FORCE_SHORT_NAME
+LANG_ENGLISH         "フォース"
+
+REFERENCE            GADGET_UNSTOPPABLE_FORCE_UPG_DESC
+LANG_ENGLISH         "前方に高速で突進して、進行方向の敵を排除する"
+
+REFERENCE            GADGET_UNSTOPPABLE_FORCE_UPG_MENU_DESC
+LANG_ENGLISH         "突進する距離が伸びる"
+
+REFERENCE            GADGET_VISION_PULSE
+LANG_ENGLISH         "Vision Pulse"
+
+REFERENCE            GADGET_VISION_PULSE_DESC
+LANG_ENGLISH         "ビジョンパルス 周囲に パルスを 発射して 範囲内の 敵の位置を掴む"
+
+REFERENCE            GADGET_VISION_PULSE_KILLS_DESC
+LANG_ENGLISH         "ビジョンパルスでタグ付けした敵をキル"
+
+REFERENCE            GADGET_VISION_PULSE_KILL_TYPE
+LANG_ENGLISH         "タグ付けキル"
+
+REFERENCE            GADGET_VISION_PULSE_KILL_TYPE_PER_USE
+LANG_ENGLISH         "タグ付けキル/使用"
+
+REFERENCE            GENERIC_PICKUP
+LANG_ENGLISH         "^3&&1^7長押しで拾う"
+
+REFERENCE            GL
+LANG_ENGLISH         "ランチャー"
+
+REFERENCE            GL_AK47
+LANG_ENGLISH         "グレネードランチャー"
+
+REFERENCE            GL_GALIL
+LANG_ENGLISH         "グレネードランチャー"
+
+REFERENCE            GL_M16
+LANG_ENGLISH         "グレネードランチャー"
+
+REFERENCE            GM6LYNX_DESC
+LANG_ENGLISH         "セミオートの大口径スナイパーライフル。長距離で真価を発揮する"
+
+REFERENCE            GMOD0_CAMO_POWER
+LANG_ENGLISH         "クイック自動回復"
+
+REFERENCE            GMOD0_CAMO_POWER_DESC
+LANG_ENGLISH         "ガジェットエネルギーが素早く自動回復する"
+
+REFERENCE            GMOD0_GRENADE_POWER
+LANG_ENGLISH         "クイック自動回復"
+
+REFERENCE            GMOD0_GRENADE_POWER_DESC
+LANG_ENGLISH         "ガジェットエネルギーが素早く自動回復する"
+
+REFERENCE            GMOD0_JUKE_POWER
+LANG_ENGLISH         "クイック自動回復"
+
+REFERENCE            GMOD0_JUKE_POWER_DESC
+LANG_ENGLISH         "ガジェットエネルギーが素早く自動回復する"
+
+REFERENCE            GMOD0_LETHAL_X2
+LANG_ENGLISH         "ダブル装備"
+
+REFERENCE            GMOD0_LETHAL_X2_DESC
+LANG_ENGLISH         "同じリーサルを2個装備する"
+
+REFERENCE            GMOD0_PULSE_POWER
+LANG_ENGLISH         "クイック自動回復"
+
+REFERENCE            GMOD0_PULSE_POWER_DESC
+LANG_ENGLISH         "ガジェットエネルギーが素早く自動回復する"
+
+REFERENCE            GMOD0_SHIELD_POWER
+LANG_ENGLISH         "クイック自動回復"
+
+REFERENCE            GMOD0_SHIELD_POWER_DESC
+LANG_ENGLISH         "ガジェットエネルギーが素早く自動回復する"
+
+REFERENCE            GMOD0_TACTICAL_X2
+LANG_ENGLISH         "ダブル装備"
+
+REFERENCE            GMOD0_TACTICAL_X2_DESC
+LANG_ENGLISH         "同じタクティカルを2個装備する"
+
+REFERENCE            GMOD1_BETTY_MAGNETISM
+LANG_ENGLISH         "マグネティズム"
+
+REFERENCE            GMOD1_BETTY_MAGNETISM_DESC
+LANG_ENGLISH         "壁や天井に取り付けられる"
+
+REFERENCE            GMOD1_GRENADE_CURVE
+LANG_ENGLISH         "カーブボール"
+
+REFERENCE            GMOD1_GRENADE_CURVE_DESC
+LANG_ENGLISH         "グレネードが近くの敵に引き寄せられる"
+
+REFERENCE            GMOD1_HACKER_RANGE
+LANG_ENGLISH         "アンプリチュード"
+
+REFERENCE            GMOD1_HACKER_RANGE_DESC
+LANG_ENGLISH         "ハッキングの範囲とスピードが上昇する"
+
+REFERENCE            GMOD1_SATCHEL_PROX_ALARM
+LANG_ENGLISH         "プロキシミティ・アラーム"
+
+REFERENCE            GMOD1_SATCHEL_PROX_ALARM_DESC
+LANG_ENGLISH         "敵がC4の爆発範囲に入ったことをプレイヤーに知らせる"
+
+REFERENCE            GMOD1_SHOCK_CHAIN
+LANG_ENGLISH         "チェーンアーク"
+
+REFERENCE            GMOD1_SHOCK_CHAIN_DESC
+LANG_ENGLISH         "敵に命中すると、その効果が周囲の敵に及ぶ"
+
+REFERENCE            GMOD1_TROPHY_AMMO
+LANG_ENGLISH         "キャパシティ"
+
+REFERENCE            GMOD1_TROPHY_AMMO_DESC
+LANG_ENGLISH         "破壊できる敵発射体の数が増える"
+
+REFERENCE            GMOD2_GRENADE_PROXIMITY
+LANG_ENGLISH         "プロキシミティ・デトネーション"
+
+REFERENCE            GMOD2_GRENADE_PROXIMITY_DESC
+LANG_ENGLISH         "ターゲットが接近するとグレネードが爆発する。時間経過による爆発はない"
+
+REFERENCE            GMOD3_GRENADE_MULTI
+LANG_ENGLISH         "マルチブラスト"
+
+REFERENCE            GMOD3_GRENADE_MULTI_DESC
+LANG_ENGLISH         "グレネード爆発時に、小型グレネードが4個放出される"
+
+REFERENCE            GMOD4_GRENADE_STICKY
+LANG_ENGLISH         "スティッキー"
+
+REFERENCE            GMOD4_GRENADE_STICKY_DESC
+LANG_ENGLISH         "グレネードが物体の表面に張り付く"
+
+REFERENCE            GMOD6
+LANG_ENGLISH         "GMOD6"
+
+REFERENCE            GMOD7
+LANG_ENGLISH         "GMOD7"
+
+REFERENCE            GRENADELAUNCHER
+LANG_ENGLISH         "グレネードランチャー"
+
+REFERENCE            GRENADES_NOT_ALLOWED
+LANG_ENGLISH         "グレネード使用不可"
+
+REFERENCE            GRENADE_KILLS_CHALLENGE_DESC
+LANG_ENGLISH         "&&2で&&1キルする"
+
+REFERENCE            GRIP
+LANG_ENGLISH         "グリップ"
+
+REFERENCE            HACKING
+LANG_ENGLISH         "ハッキング中..."
+
+REFERENCE            HACKING_TURRET
+LANG_ENGLISH         "ターレットのハッキング中..."
+
+REFERENCE            HANDS
+LANG_ENGLISH         "素手"
+
+REFERENCE            HATCHET
+LANG_ENGLISH         "アックス"
+
+REFERENCE            HATCHET_DESC
+LANG_ENGLISH         "敵を即死させることができる 回収可能な コンバットアックス"
+
+REFERENCE            HATCHET_PICKUP
+LANG_ENGLISH         "^3&&1^7長押しでコンバットアックスを拾う"
+
+REFERENCE            HERO_ANNIHILATOR
+LANG_ENGLISH         "Annihilator"
+
+REFERENCE            HERO_ANNIHILATOR_DESC
+LANG_ENGLISH         "アナイアレーター 大口径の大型リボルバー 貫通力の高い 弾を発射する"
+
+REFERENCE            HERO_ARMBLADE
+LANG_ENGLISH         "Ripper"
+
+REFERENCE            HERO_ARMBLADE_DESC
+LANG_ENGLISH         "リッパー アームの強力な ブレードで 射程の長い 近接突き攻撃を 繰り出す 発動中に[{+melee}]で 所持する 武器の代わりに リッパーで近接攻撃"
+
+REFERENCE            HERO_BOWLAUNCHER
+LANG_ENGLISH         "Sparrow"
+
+REFERENCE            HERO_BOWLAUNCHER_DESC
+LANG_ENGLISH         "スパロー 長く引くほど 射程が延び 命中すると 爆発する複合弓"
+
+REFERENCE            HERO_CHEMICALGELGUN
+LANG_ENGLISH         "H.I.V.E."
+
+REFERENCE            HERO_CHEMICALGELGUN_DESC
+LANG_ENGLISH         "トラップポッドを 展開して 強力な ナノドローンの大群を 放出する"
+
+REFERENCE            HERO_FLAMETHROWER
+LANG_ENGLISH         "Purifier"
+
+REFERENCE            HERO_FLAMETHROWER_DESC
+LANG_ENGLISH         "ピュリファイアー 持続的に 炎を放出して 近距離にいる敵を燃やす"
+
+REFERENCE            HERO_GRAVITYSPIKES
+LANG_ENGLISH         "Gravity Spikes"
+
+REFERENCE            HERO_GRAVITYSPIKES_DESC
+LANG_ENGLISH         "グラビティスパイク スパイクで 地面を叩いて 強烈な衝撃波を 発生させる 近距離の全ての敵を破壊"
+
+REFERENCE            HERO_LIGHTNINGGUN
+LANG_ENGLISH         "Tempest"
+
+REFERENCE            HERO_LIGHTNINGGUN_DESC
+LANG_ENGLISH         "テンペスト チャージし 電気アークを放つ ターゲットに 致命的な 電気ショックを与え 周囲の敵も 感電させる"
+
+REFERENCE            HERO_MINIGUN
+LANG_ENGLISH         "Scythe"
+
+REFERENCE            HERO_MINIGUN_DESC
+LANG_ENGLISH         "サイス 腕に搭載された ミニガンで 円錐状の限られた範囲に 高ダメージの 銃撃を行う"
+
+REFERENCE            HERO_PINEAPPLEGUN
+LANG_ENGLISH         "War Machine"
+
+REFERENCE            HERO_PINEAPPLEGUN_DESC
+LANG_ENGLISH         "ウォーマシーン 跳躍する グレネードを放つ 一定時間が 経過するか 敵に命中すると 爆発する"
+
+REFERENCE            HERO_SPIKE_LAUNCHER
+LANG_ENGLISH         "Spike Launcher"
+
+REFERENCE            HERO_SPIKE_LAUNCHER_DESC
+LANG_ENGLISH         "スパイクランチャー 破壊力の大きなスパイクを発射する。^3[{+melee}]^7で起爆すると大爆発を起こす"
+
+REFERENCE            HERO_ZM_ISLAND_WW
+LANG_ENGLISH         "WW"
+
+REFERENCE            HERO_ZM_ISLAND_WW_UPGRADED
+LANG_ENGLISH         "WWアップグレード"
+
+REFERENCE            HOLO
+LANG_ENGLISH         "BOA 3"
+
+REFERENCE            INCENDIARY_GRENADE
+LANG_ENGLISH         "テルミット"
+
+REFERENCE            INCENDIARY_GRENADE_DESC
+LANG_ENGLISH         "命中時に爆発して 超高熱エリアを 発生させ 範囲内の 敵を燃やす"
+
+REFERENCE            IR
+LANG_ENGLISH         "サーマル"
+
+REFERENCE            IRSTROBE
+LANG_ENGLISH         "赤外線ビーコン"
+
+REFERENCE            IS
+LANG_ENGLISH         "アイアンサイト"
+
+REFERENCE            KNIFE
+LANG_ENGLISH         "ナイフ"
+
+REFERENCE            KNIFE_KARAMBIT
+LANG_ENGLISH         "カランビットナイフ"
+
+REFERENCE            KNIFE_LOADOUT
+LANG_ENGLISH         "コンバットナイフ"
+
+REFERENCE            KNIFE_LOADOUT_DESC
+LANG_ENGLISH         "高いステルス性で、近距離で高い威力を発揮"
+
+REFERENCE            KNIFE_PRISON
+LANG_ENGLISH         "プリズンナイフ"
+
+REFERENCE            KNIFE_SOG
+LANG_ENGLISH         "SOGナイフ"
+
+REFERENCE            LAUNCHER_EX41
+LANG_ENGLISH         "MAX-GL"
+
+REFERENCE            LAUNCHER_EX41_DESC
+LANG_ENGLISH         "ポンプアクション式グレネードランチャー グレネードは発射後10メートルで衝撃で爆発する"
+
+REFERENCE            LAUNCHER_KILLS_CHALLENGE_DESC
+LANG_ENGLISH         "この武器で敵のプレイヤーまたは航空機を&&1キルする"
+
+REFERENCE            LAUNCHER_LOCKONLY
+LANG_ENGLISH         "BlackCell"
+
+REFERENCE            LAUNCHER_LOCKONLY_DESC
+LANG_ENGLISH         "対車両用 誘導式ランチャー ロケットを4発 装填できる"
+
+REFERENCE            LAUNCHER_MULTI
+LANG_ENGLISH         "L4 Siege"
+
+REFERENCE            LAUNCHER_MULTI_DESC
+LANG_ENGLISH         "セミオート 無誘導/誘導式ロケットランチャー 小型ロケットが それぞれ小ダメージを与える"
+
+REFERENCE            LAUNCHER_STANDARD
+LANG_ENGLISH         "XM-53"
+
+REFERENCE            LAUNCHER_STANDARD_DESC
+LANG_ENGLISH         "無誘導/誘導式で 使用可能 ロケットを5発 装填できる"
+
+REFERENCE            LAUNCHER_STANDARD_DF
+LANG_ENGLISH         "XM-53 DF"
+
+REFERENCE            LAUNCHER_STANDARD_DF_DESC
+LANG_ENGLISH         "ダムファイア専用ランチャー 各弾頭の衝撃は 小さいが 集団の敵に 効果的"
+
+REFERENCE            LAUNCHER_STANDARD_MP_DESC
+LANG_ENGLISH         "無誘導/誘導式で 使用可能 ロケットを2発 装填できる"
+
+REFERENCE            LAUNCHER_STANDARD_ZM_DESC
+LANG_ENGLISH         "無誘導式高性能爆薬ロケットランチャー"
+
+REFERENCE            LINK_FAILURE
+LANG_ENGLISH         "[リンク失敗]"
+
+REFERENCE            LINK_INPROGRESS
+LANG_ENGLISH         "[リンク実行中]"
+
+REFERENCE            LINK_TERMINATED
+LANG_ENGLISH         "[リンク解除]"
+
+REFERENCE            LISTENING_DEVICE
+LANG_ENGLISH         "盗聴装置"
+
+REFERENCE            LMG_CQB_DESC
+LANG_ENGLISH         "フルオート 連射速度に優れ 反動が小さい"
+
+REFERENCE            LMG_HEAVY_DESC
+LANG_ENGLISH         "6点バーストのマシンガン 各バーストの 連射速度が高い"
+
+REFERENCE            LMG_INFINITE
+LANG_ENGLISH         "R70 Ajax"
+
+REFERENCE            LMG_INFINITE_DESC
+LANG_ENGLISH         "フルオート 時間経過で弾薬が自動回復する 手動でのリロード不可"
+
+REFERENCE            LMG_LIGHT_DESC
+LANG_ENGLISH         "フルオート 威力が高く 反動のバランスに 優れる"
+
+REFERENCE            LMG_RPK
+LANG_ENGLISH         "RPK"
+
+REFERENCE            LMG_RPK_DESC
+LANG_ENGLISH         "フルオート 威力が高く 中程度の反動"
+
+REFERENCE            LMG_SLOWFIRE_DESC
+LANG_ENGLISH         "フルオートのヘビーマシンガン 連射速度が遅く 2発でキルが可能"
+
+REFERENCE            LOCKON_REQUIRED
+LANG_ENGLISH         "ロックオンが必要"
+
+REFERENCE            M2FRAGGRENADE
+LANG_ENGLISH         "グレネード"
+
+REFERENCE            M2_FLAMETHROWER
+LANG_ENGLISH         "火炎放射器"
+
+REFERENCE            M32
+LANG_ENGLISH         "ウォーマシーン"
+
+REFERENCE            M32_DESC
+LANG_ENGLISH         "6発式のセミオートマチック・グレネードランチャー"
+
+REFERENCE            M32_DROP
+LANG_ENGLISH         " "
+
+REFERENCE            MACHETE
+LANG_ENGLISH         "マチェーテ"
+
+REFERENCE            MELEE_BAT
+LANG_ENGLISH         "MVP"
+
+REFERENCE            MELEE_BAT_DESC
+LANG_ENGLISH         "致命傷を与えるスポーツ用品。フェンスめがけて振ると敵を場外ホームランできる"
+
+REFERENCE            MELEE_BONEGLASS
+LANG_ENGLISH         "ナイトブレイカー"
+
+REFERENCE            MELEE_BONEGLASS_DESC
+LANG_ENGLISH         "パンチブレード かつての時代にアサシンが使用していた近接武器 黒曜石の刃はいまだに骨まで切り裂く"
+
+REFERENCE            MELEE_BOWIE
+LANG_ENGLISH         "カーバー"
+
+REFERENCE            MELEE_BOWIE_DESC
+LANG_ENGLISH         "致命傷を与える片刃の武器。影からこっそりと忍び寄り、素早く獲物を狩れる"
+
+REFERENCE            MELEE_BOXING
+LANG_ENGLISH         "プライズファイター"
+
+REFERENCE            MELEE_BOXING_DESC
+LANG_ENGLISH         "大きな威力を発揮する近接武器。敵の顔に向けて連打する"
+
+REFERENCE            MELEE_BOXING_TITLE
+LANG_ENGLISH         "近接武器:プライズファイター"
+
+REFERENCE            MELEE_BUTTERFLY
+LANG_ENGLISH         "バタフライナイフ"
+
+REFERENCE            MELEE_BUTTERFLY_DESC
+LANG_ENGLISH         "折りたたみ式のナイフ。素早く構えたりしまったりできる"
+
+REFERENCE            MELEE_CHAINSAW
+LANG_ENGLISH         "ブッシュワッカー"
+
+REFERENCE            MELEE_CHAINSAW_DESC
+LANG_ENGLISH         "並外れて強力な近接武器。このチェーンソーの刃ほど、威圧感を与えれられるものはない"
+
+REFERENCE            MELEE_CRESCENT
+LANG_ENGLISH         "レイブン・アイ"
+
+REFERENCE            MELEE_CRESCENT_DESC
+LANG_ENGLISH         "高度なスキルを持つ熟練者向けの万能な近接武器"
+
+REFERENCE            MELEE_CROWBAR
+LANG_ENGLISH         "アイアンジム"
+
+REFERENCE            MELEE_CROWBAR_DESC
+LANG_ENGLISH         "強力な打撃が可能なバール。見た目とは裏腹に戦場で大きな武器となる"
+
+REFERENCE            MELEE_DAGGER
+LANG_ENGLISH         "マリス"
+
+REFERENCE            MELEE_DAGGER_DESC
+LANG_ENGLISH         "致命傷を与える刃物。生贄の儀式や侵入者を存在から解放する際に使用される"
+
+REFERENCE            MELEE_FIREAXE
+LANG_ENGLISH         "スラッシュ&バーン"
+
+REFERENCE            MELEE_FIREAXE_DESC
+LANG_ENGLISH         "両手持ちの強力な近接武器。この頼れる武器があれば、敵を排除して仲間を救い出せる"
+
+REFERENCE            MELEE_IMPROVISE
+LANG_ENGLISH         "バズカット"
+
+REFERENCE            MELEE_IMPROVISE_DESC
+LANG_ENGLISH         "片手持ちの強力な近接武器 敵陣奥深くで活動するスペシャリストによる 即席の手製ツール"
+
+REFERENCE            MELEE_KATANA
+LANG_ENGLISH         "悲しみの道"
+
+REFERENCE            MELEE_KATANA_DESC
+LANG_ENGLISH         "強力な斬撃武器。由緒ある比類のない名刀として知られる"
+
+REFERENCE            MELEE_KNUCKLES
+LANG_ENGLISH         "ナックルダスター"
+
+REFERENCE            MELEE_KNUCKLES_DESC
+LANG_ENGLISH         "拳に装着する近接用の打撃武器。パンチが命中した相手は気絶する"
+
+REFERENCE            MELEE_MACE
+LANG_ENGLISH         "スカルスプリッター"
+
+REFERENCE            MELEE_MACE_DESC
+LANG_ENGLISH         "両手持ちの強力な近接武器。大昔にある目的で作られたこのメイスは、脅威的なパワーを秘める"
+
+REFERENCE            MELEE_NUNCHUKS
+LANG_ENGLISH         "ヌンチャク"
+
+REFERENCE            MELEE_NUNCHUKS_DESC
+LANG_ENGLISH         "致命傷を与える武術の武器。使いこなすと強力な攻撃で敵を翻弄できる"
+
+REFERENCE            MELEE_PROSTHETIC
+LANG_ENGLISH         "L3FT.E"
+
+REFERENCE            MELEE_PROSTHETIC_DESC
+LANG_ENGLISH         "急遽改良された強力な近接武器。敵に死のハイタッチをお見舞いする"
+
+REFERENCE            MELEE_SHOCKBATON
+LANG_ENGLISH         "エンフォーサー"
+
+REFERENCE            MELEE_SHOCKBATON_DESC
+LANG_ENGLISH         "高電圧の近接武器。命中時に強力な電流を放出して敵を仕留める"
+
+REFERENCE            MELEE_SHOVEL
+LANG_ENGLISH         "スペード・エース"
+
+REFERENCE            MELEE_SHOVEL_DESC
+LANG_ENGLISH         "強力な造園ツール。敵の墓を掘ろう"
+
+REFERENCE            MELEE_SWORD
+LANG_ENGLISH         "フューリーソード"
+
+REFERENCE            MELEE_SWORD_DESC
+LANG_ENGLISH         "伝説的な両手持ちの剣。強力な一振りごとに敵を貫く"
+
+REFERENCE            MELEE_WRENCH
+LANG_ENGLISH         "レンチ"
+
+REFERENCE            MELEE_WRENCH_DESC
+LANG_ENGLISH         "強力な近接用の打撃武器。至近距離から敵を効果的に排除する"
+
+REFERENCE            METALSTORM
+LANG_ENGLISH         "ストームPSR"
+
+REFERENCE            METALSTORM_DESC
+LANG_ENGLISH         "壁の向こうにいる敵を透視し、トリガーの長押しでチャージを行う。トリガーを放すとチャージショットを放つ"
+
+REFERENCE            METALSTORM_DESC_MP
+LANG_ENGLISH         "スタックチャージライフル。トリガーを引いている時間に応じて、1～5発の弾丸を発射する"
+
+REFERENCE            MGL
+LANG_ENGLISH         "MM1グレネードランチャー"
+
+REFERENCE            MGL_DESC
+LANG_ENGLISH         "ドラムマガジンを持つセミオート・グレネードランチャー"
+
+REFERENCE            MICROMISSILE_LAUNCHER
+LANG_ENGLISH         "マイクロミサイルランチャー"
+
+REFERENCE            MICROWAVE_TURRET_DROP
+LANG_ENGLISH         " "
+
+REFERENCE            MINIGUN
+LANG_ENGLISH         "デスマシーン"
+
+REFERENCE            MINIGUN_80S
+LANG_ENGLISH         "ミニガン"
+
+REFERENCE            MINIGUN_DESC
+LANG_ENGLISH         "連射速度が非常に高いガトリングガン"
+
+REFERENCE            MINIGUN_DROP
+LANG_ENGLISH         " "
+
+REFERENCE            MMS
+LANG_ENGLISH         "MMS"
+
+REFERENCE            NOTRACER
+LANG_ENGLISH         "LRx3"
+
+REFERENCE            NOWEAPON
+LANG_ENGLISH         "  "
+
+REFERENCE            NO_AMMO
+LANG_ENGLISH         "残弾なし"
+
+REFERENCE            NO_EQUIPMENT
+LANG_ENGLISH         "利用可能な装備なし"
+
+REFERENCE            NO_FRAG_GRENADE
+LANG_ENGLISH         "グレネードなし"
+
+REFERENCE            NO_GENERIC_GRENADE
+LANG_ENGLISH         "このグレネードの残数ゼロ"
+
+REFERENCE            NO_LOS
+LANG_ENGLISH         "ターゲットを見失った"
+
+REFERENCE            NO_SMOKE_GRENADE
+LANG_ENGLISH         "スモークグレネードの残数ゼロ"
+
+REFERENCE            NO_SPECIAL_GRENADE
+LANG_ENGLISH         "タクティカルなし"
+
+REFERENCE            NO_TARGET_IN_RANGE
+LANG_ENGLISH         "射程内にターゲットなし"
+
+REFERENCE            NS2000
+LANG_ENGLISH         "NS2000"
+
+REFERENCE            NS2000_DESC
+LANG_ENGLISH         "エアバーストショットガン。スラグ弾は発射後に一定距離で爆発する。近距離で有効"
+
+REFERENCE            NULL
+LANG_ENGLISH         "装備選択"
+
+REFERENCE            PDA_HACK
+LANG_ENGLISH         "Black Hat"
+
+REFERENCE            PDA_HACK_DESC
+LANG_ENGLISH         "ブラックハット 敵のスコアストリークや 装備を制御する 強力なストリークには 2回使用する必要あり 標的の中心を狙えば 素早くハッキング可能"
+
+REFERENCE            PDA_HACK_STAT_CAPS
+LANG_ENGLISH         "ハック"
+
+REFERENCE            PDA_HACK_STAT_DESC
+LANG_ENGLISH         "ブラックハットでのハッキンング回数"
+
+REFERENCE            PICKUPNEWWEAPON
+LANG_ENGLISH         "^3&&1^7 長押しで $(hudItems.cursorHintWeapon) を拾う"
+
+REFERENCE            PISTOL_BURST_DESC
+LANG_ENGLISH         "3点バースト機能 バーストサイクル速度に 優れる"
+
+REFERENCE            PISTOL_BURST_DW
+LANG_ENGLISH         "RK5デュアル"
+
+REFERENCE            PISTOL_ENERGY
+LANG_ENGLISH         "Rift E9"
+
+REFERENCE            PISTOL_ENERGY_DESC
+LANG_ENGLISH         "2点バースト エネルギーを放ち 敵を2発で排除する"
+
+REFERENCE            PISTOL_FULLAUTO
+LANG_ENGLISH         "L-CAR 9"
+
+REFERENCE            PISTOL_FULLAUTO_DESC
+LANG_ENGLISH         "フルオート / マシンピストル 中程度の 連射速度と 威力を持つ"
+
+REFERENCE            PISTOL_FULLAUTO_DW
+LANG_ENGLISH         "L-CAR 9デュアル"
+
+REFERENCE            PISTOL_M1911
+LANG_ENGLISH         "1911"
+
+REFERENCE            PISTOL_M1911_DESC
+LANG_ENGLISH         "セミオート 装弾数は少ないが、近距離で高威力を発揮する"
+
+REFERENCE            PISTOL_M1911_DW
+LANG_ENGLISH         "1911デュアル"
+
+REFERENCE            PISTOL_REVOLVER_UPGRADED
+LANG_ENGLISH         "Hellhound"
+
+REFERENCE            PISTOL_SHOTGUN
+LANG_ENGLISH         "Marshal 16"
+
+REFERENCE            PISTOL_SHOTGUN_DESC
+LANG_ENGLISH         "ダブルバレル・ハンドキャノン 2つの12ゲージ弾を使用 銃撃のたびにリロードされる"
+
+REFERENCE            PISTOL_SHOTGUN_DW
+LANG_ENGLISH         "Marshal 16デュアル"
+
+REFERENCE            PISTOL_STANDARD
+LANG_ENGLISH         "MR6"
+
+REFERENCE            PISTOL_STANDARD_DESC
+LANG_ENGLISH         "セミオート クラス最高の 威力を誇る"
+
+REFERENCE            PISTOL_STANDARD_DW
+LANG_ENGLISH         "MR6デュアル"
+
+REFERENCE            PRECISION
+LANG_ENGLISH         "プレシジョン"
+
+REFERENCE            PROXIMITY_GRENADE
+LANG_ENGLISH         "ショック"
+
+REFERENCE            PROXIMITY_GRENADE_DESC
+LANG_ENGLISH         "ショックチャージ 作動すると 付近の敵を感電させる"
+
+REFERENCE            PROXIMITY_GRENADE_STAT_CAPS
+LANG_ENGLISH         "スタンキル"
+
+REFERENCE            PROXIMITY_GRENADE_STAT_DESC
+LANG_ENGLISH         "ショックチャージでスタンさせて敵を倒した"
+
+REFERENCE            QUICKDRAW
+LANG_ENGLISH         "クイック"
+
+REFERENCE            RANGEFINDER
+LANG_ENGLISH         "ファインダー"
+
+REFERENCE            RAY_GUN
+LANG_ENGLISH         "レイガン"
+
+REFERENCE            RECON
+LANG_ENGLISH         "射程距離"
+
+REFERENCE            RECON1
+LANG_ENGLISH         "射程距離"
+
+REFERENCE            REDDOT
+LANG_ENGLISH         "ELO"
+
+REFERENCE            REFLEX
+LANG_ENGLISH         "リフレックス"
+
+REFERENCE            REM870MCS
+LANG_ENGLISH         "R870 MCS"
+
+REFERENCE            RF
+LANG_ENGLISH         "ラピッドF"
+
+REFERENCE            RIOTSHIELD
+LANG_ENGLISH         "アサルトシールド"
+
+REFERENCE            RIOTSHIELD_DESC
+LANG_ENGLISH         "武器にもなる防弾シールド。地面に設置して遮蔽物とすることも可能"
+
+REFERENCE            SATCHEL_CHARGE
+LANG_ENGLISH         "C4"
+
+REFERENCE            SATCHEL_CHARGE_DESC
+LANG_ENGLISH         "お探しの解説はplatform.st内にあります"
+
+REFERENCE            SATCHEL_CHARGE_PICKUP
+LANG_ENGLISH         "^3&&1^7 長押しで C4 を拾う"
+
+REFERENCE            SCRAMBLER
+LANG_ENGLISH         "ジャマー"
+
+REFERENCE            SCRAMBLER_DESC
+LANG_ENGLISH         "電磁波装置で近くにある敵のレーダーや装置をかく乱できる"
+
+REFERENCE            SENSOR_GRENADE
+LANG_ENGLISH         "センサーグレネード"
+
+REFERENCE            SENSOR_GRENADE_DESC
+LANG_ENGLISH         "センサーで敵を捕らえると爆発するセンサーグレネード"
+
+REFERENCE            SENTRY_TURRET_DROP
+LANG_ENGLISH         "強化セントリー空中投下マーカー"
+
+REFERENCE            SF
+LANG_ENGLISH         "モードセレクト"
+
+REFERENCE            SHOTGUN_DNI
+LANG_ENGLISH         "DNIショットガン"
+
+REFERENCE            SHOTGUN_ENERGY
+LANG_ENGLISH         "Banshii"
+
+REFERENCE            SHOTGUN_ENERGY_DESC
+LANG_ENGLISH         "ポンプアクション式 強力なエネルギーボルトを放つ"
+
+REFERENCE            SHOTGUN_FULLAUTO_DESC
+LANG_ENGLISH         "フルオート 連射速度に優れ 中程度の 威力を持つ"
+
+REFERENCE            SHOTGUN_OLYMPIA
+LANG_ENGLISH         "Olympia"
+
+REFERENCE            SHOTGUN_OLYMPIA_DESC
+LANG_ENGLISH         "ダブルバレルのオーバー/アンダーショットガン 近～中距離で効果的"
+
+REFERENCE            SHOTGUN_PRECISION_DESC
+LANG_ENGLISH         "レバーアクション式ショットガン 腰撃ち時の 拡散が小さく エイム時の命中率が高い"
+
+REFERENCE            SHOTGUN_PUMP_DESC
+LANG_ENGLISH         "ポンプアクション式 近距離の敵を 1発で キルできる"
+
+REFERENCE            SHOTGUN_PUMP_JUICED
+LANG_ENGLISH         "ジュースド・ショットガン"
+
+REFERENCE            SHOTGUN_SEMIAUTO_DESC
+LANG_ENGLISH         "セミオートのショットガン 2発で確実にキルできる"
+
+REFERENCE            SKULL_GUN
+LANG_ENGLISH         "スカル・オブ・ナン・サプウェ"
+
+REFERENCE            SMG_AK74U
+LANG_ENGLISH         "AK-74u"
+
+REFERENCE            SMG_AK74U_DESC
+LANG_ENGLISH         "フルオート 高い威力を持ち、近～中距離で最も効果的"
+
+REFERENCE            SMG_BURST_DESC
+LANG_ENGLISH         "4点オートバースト可能 安定した威力と 命中率を誇る トリガーを引き続けると 自動的に バーストサイクルを 行う"
+
+REFERENCE            SMG_CAPACITY_DESC
+LANG_ENGLISH         "フルオート 装弾数が多く中程度の 威力を持つ"
+
+REFERENCE            SMG_FASTFIRE_DESC
+LANG_ENGLISH         "フルオート クラス最高の 連射速度を誇る"
+
+REFERENCE            SMG_LONGRANGE
+LANG_ENGLISH         "Razorback"
+
+REFERENCE            SMG_LONGRANGE_DESC
+LANG_ENGLISH         "フルオート クラス最高の 命中精度を誇る 中距離戦に最適"
+
+REFERENCE            SMG_MP40
+LANG_ENGLISH         "HG 40"
+
+REFERENCE            SMG_MP40_DESC
+LANG_ENGLISH         "フルオート 汎用性が高く威力が大きい 敵を即座に倒して味方を守る"
+
+REFERENCE            SMG_MSMC
+LANG_ENGLISH         "XMC"
+
+REFERENCE            SMG_MSMC_DESC
+LANG_ENGLISH         "フルオート 射程距離が長く反動が小さい"
+
+REFERENCE            SMG_NAILGUN
+LANG_ENGLISH         "DIY 11 Renovator"
+
+REFERENCE            SMG_NAILGUN_DESC
+LANG_ENGLISH         "フルオートでくぎを打ち付ける。連射速度は遅いが確実に敵を仕留める"
+
+REFERENCE            SMG_PPSH
+LANG_ENGLISH         "PPSh"
+
+REFERENCE            SMG_PPSH_DESC
+LANG_ENGLISH         "連射速度が非常に高いロシア製サブマシンガン。近～中距戦で威力を発揮する"
+
+REFERENCE            SMG_RECHAMBER
+LANG_ENGLISH         "HLX 4"
+
+REFERENCE            SMG_RECHAMBER_DESC
+LANG_ENGLISH         "高速連射型 トリガーを放すと再装填を行う"
+
+REFERENCE            SMG_STANDARD_DESC
+LANG_ENGLISH         "フルオート 安定した連射速度と バランスの取れた 反動性能を持つ"
+
+REFERENCE            SMG_STEN
+LANG_ENGLISH         "Sten"
+
+REFERENCE            SMG_STEN_DESC
+LANG_ENGLISH         "フルオート 高い威力と素早いリロード 近～中距離で最も効果的"
+
+REFERENCE            SMG_VERSATILE_DESC
+LANG_ENGLISH         "フルオート 連射速度と 装弾数に優れる 反動は控えめで 汎用性が高い"
+
+REFERENCE            SMOKE_GRENADE
+LANG_ENGLISH         "スモークグレネード"
+
+REFERENCE            SNIPER_CHARGESHOT
+LANG_ENGLISH         "P-06"
+
+REFERENCE            SNIPER_CHARGESHOT_DESC
+LANG_ENGLISH         "チャージバースト スナイパーライフル 最大3発チャージして 強力な弾を放つ エイム中に[{+breath_sprint}]長押しで 安定させる"
+
+REFERENCE            SNIPER_DOUBLE
+LANG_ENGLISH         "DBSR-50"
+
+REFERENCE            SNIPER_DOUBLE_DESC
+LANG_ENGLISH         "ダブルバレル・ボルトアクション式 2発ごとに再装填が必要 エイム中に[{+breath_sprint}]長押しで 安定させる"
+
+REFERENCE            SNIPER_FASTBOLT_DESC
+LANG_ENGLISH         "ボルトアクション式 腹部より上に 命中すれば 1発でキルできる エイム中に[{+breath_sprint}]長押しで 安定させる"
+
+REFERENCE            SNIPER_FASTSEMI_DESC
+LANG_ENGLISH         "セミオート ボディ2発/頭部1発で 敵を排除できる エイム中に[{+breath_sprint}]長押しで 安定させる"
+
+REFERENCE            SNIPER_MOSIN
+LANG_ENGLISH         "Dragoon"
+
+REFERENCE            SNIPER_MOSIN_DESC
+LANG_ENGLISH         "ボルトアクション式 胸より上に 命中すれば 1発でキルできる エイム中に [{+breath_sprint}]長押しで 安定させる"
+
+REFERENCE            SNIPER_POWERBOLT_DESC
+LANG_ENGLISH         "ボルトアクション式 体のどこに命中しても 1発でキルできる エイム中に[{+breath_sprint}]長押しで 安定させる"
+
+REFERENCE            SNIPER_QUICKSCOPE
+LANG_ENGLISH         "RSA Interdiction"
+
+REFERENCE            SNIPER_QUICKSCOPE_DESC
+LANG_ENGLISH         "ボルトアクション式 胸部より上に 命中すれば 1発でキルできる エイム中に[{+breath_sprint}]長押しで 安定させる"
+
+REFERENCE            SNIPER_XPR50
+LANG_ENGLISH         "XPR-50"
+
+REFERENCE            SNIPER_XPR50_DESC
+LANG_ENGLISH         "セミオートの50口径スナイパーライフル。上半身以上であれば1ショットキルが可能。エイム中に[{+breath_sprint}]長押しで安定"
+
+REFERENCE            SPECIAL_CROSSBOW
+LANG_ENGLISH         "NX ShadowClaw"
+
+REFERENCE            SPECIAL_CROSSBOW_DESC
+LANG_ENGLISH         "自動装填式クロスボウ 静かに矢を発射して 命中時に敵を貫く"
+
+REFERENCE            SPECIAL_CROSSBOW_DW
+LANG_ENGLISH         "NX ShadowClawデュアル"
+
+REFERENCE            SPECIAL_DISCGUN
+LANG_ENGLISH         "D13 Sector"
+
+REFERENCE            SPECIAL_DISCGUN_DESC
+LANG_ENGLISH         "単発式ブレードランチャー。当たれば致命的、跳ね返ったディスクで複数の敵を始末できる"
+
+REFERENCE            SPECIAL_KNIFE_BALLISTIC
+LANG_ENGLISH         "バリスティックナイフ"
+
+REFERENCE            SPECIAL_KNIFE_BALLISTIC_DESC
+LANG_ENGLISH         "刃の部分を発射できるナイフ"
+
+REFERENCE            SPIKE_LAUNCHER
+LANG_ENGLISH         "スパイクランチャー"
+
+REFERENCE            SPIKE_LAUNCHER_BLASTING
+LANG_ENGLISH         "爆破"
+
+REFERENCE            SPIKE_LAUNCHER_DETONATE_MODE
+LANG_ENGLISH         "起爆モード"
+
+REFERENCE            SPIKE_LAUNCHER_READY
+LANG_ENGLISH         "準備完了"
+
+REFERENCE            SPIKE_LAUNCHER_STANDBY
+LANG_ENGLISH         "スタンバイ"
+
+REFERENCE            STACKFIRE
+LANG_ENGLISH         "トライボルト"
+
+REFERENCE            STALKER
+LANG_ENGLISH         "ストック"
+
+REFERENCE            STEADYAIM
+LANG_ENGLISH         "レーザー"
+
+REFERENCE            STEN
+LANG_ENGLISH         "Sten"
+
+REFERENCE            STICKY_GRENADE
+LANG_ENGLISH         "セムテックス"
+
+REFERENCE            STICKY_GRENADE_DESC
+LANG_ENGLISH         "壁や人に張りついて 爆発する グレネード"
+
+REFERENCE            STINGER
+LANG_ENGLISH         "スティンガー"
+
+REFERENCE            STINGER_DESC
+LANG_ENGLISH         "発射後に^3[{+attack}]^7で起爆できる無誘導ロケットランチャー。^3[{+actionslot 3}]^7でモード切り替え"
+
+REFERENCE            STINGER_FREEFIRE
+LANG_ENGLISH         "スティンガー"
+
+REFERENCE            STINGER_LOCKON
+LANG_ENGLISH         "スティンガー"
+
+REFERENCE            STRELA_LAUNCHER_KILLS_CHALLENGE_DESC
+LANG_ENGLISH         "この武器で敵の航空機を&&1キルする"
+
+REFERENCE            STUN_GRENADE
+LANG_ENGLISH         "Concussion"
+
+REFERENCE            STUN_GRENADE_DESC
+LANG_ENGLISH         "コンカッション 方向感覚を狂わせ 敵の動きを鈍らす"
+
+REFERENCE            STUN_GRENADE_STAT_CAPS
+LANG_ENGLISH         "スタンキル"
+
+REFERENCE            STUN_GRENADE_STAT_DESC
+LANG_ENGLISH         "コンカッションでスタンさせて敵を倒した"
+
+REFERENCE            SUPPLY
+LANG_ENGLISH         "銃剣"
+
+REFERENCE            SUPPLY_DROP
+LANG_ENGLISH         "ケアパッケージ"
+
+REFERENCE            SUPPLY_STATION
+LANG_ENGLISH         "弾薬集積所の空中投下マーカー"
+
+REFERENCE            SUPPRESSED
+LANG_ENGLISH         "サプレッサー"
+
+REFERENCE            SWAPWEAPONS
+LANG_ENGLISH         "^3&&1^7 長押しで $(hudItems.cursorHintWeapon) に切り替え"
+
+REFERENCE            SWAYREDUC
+LANG_ENGLISH         "弾道CPU"
+
+REFERENCE            SYRETTE
+LANG_ENGLISH         "シレット"
+
+REFERENCE            SYSTEM_DISABLED
+LANG_ENGLISH         "サイバネティック戦闘安全装置 起動"
+
+REFERENCE            TACKNIFE
+LANG_ENGLISH         "タクティカルナイフ"
+
+REFERENCE            TARGETING_ABORTED
+LANG_ENGLISH         "照準を阻止された"
+
+REFERENCE            TARGET_ALREADY_TARGETED
+LANG_ENGLISH         "既にチームメイトのターゲット"
+
+REFERENCE            TARGET_BEING_USED
+LANG_ENGLISH         "ターゲット制圧済み"
+
+REFERENCE            TARGET_INVALID_TYPE
+LANG_ENGLISH         "有効なターゲットなし"
+
+REFERENCE            TARGET_IS_DISABLED
+LANG_ENGLISH         "ターゲットは既に停止"
+
+REFERENCE            TARGET_LOCK_REQUIRED
+LANG_ENGLISH         "ロックオンが必要"
+
+REFERENCE            TARGET_LOS_REQUIRED
+LANG_ENGLISH         "射程に捉えなければならない"
+
+REFERENCE            TARGET_NOT_ENOUGH_CLEARANCE
+LANG_ENGLISH         "軌道がブロックされている"
+
+REFERENCE            TARGET_OUT_OF_RANGE
+LANG_ENGLISH         "ターゲットが射程外"
+
+REFERENCE            TARGET_TOO_CLOSE
+LANG_ENGLISH         "ターゲットが近すぎる"
+
+REFERENCE            TASER_SPIKE_PICKUP
+LANG_ENGLISH         "^3&&1^7 長押しでショックチャージを拾う"
+
+REFERENCE            TEAMMATE_HACKING
+LANG_ENGLISH         "味方 ハッキング"
+
+REFERENCE            TEAMMATE_LOCK_ON
+LANG_ENGLISH         "味方LOCK-ON"
+
+REFERENCE            TESLA_GUN
+LANG_ENGLISH         "アンデッドザッパー"
+
+REFERENCE            THOMPSON
+LANG_ENGLISH         "トンプソン"
+
+REFERENCE            THUNDERGUN
+LANG_ENGLISH         "サンダーガン"
+
+REFERENCE            TOTAL_LAUNCHER_KILLS_CHALLENGE_DESC
+LANG_ENGLISH         "このタイプの武器で敵のプレイヤーか航空機を合計&&1キルする"
+
+REFERENCE            TOTAL_LAUNCHER_MULTIKILLS_CHALLENGE_DESC
+LANG_ENGLISH         "このタイプの武器で&&1回マルチキルする"
+
+REFERENCE            TOW
+LANG_ENGLISH         "ヴァルキリーランチャー"
+
+REFERENCE            TOW_DESC
+LANG_ENGLISH         "制御式対戦車ミサイル"
+
+REFERENCE            TOW_TURRET_DROP
+LANG_ENGLISH         "SAM陣地の空中投下マーカー"
+
+REFERENCE            TROPHY_SYSTEM
+LANG_ENGLISH         "トロフィー"
+
+REFERENCE            TROPHY_SYSTEM_DESC
+LANG_ENGLISH         "トロフィーシステム 10メートル以内に 接近した リーサル タクティカル 爆発物を 破壊する 高速ミサイルは システムを 突破できる 場合がある"
+
+REFERENCE            TROPHY_SYSTEM_STAT_CAPS
+LANG_ENGLISH         "発射体破壊"
+
+REFERENCE            TROPHY_SYSTEM_STAT_DESC
+LANG_ENGLISH         "トロフィーシステムで破壊した発射体の数"
+
+REFERENCE            UNLOCKED
+LANG_ENGLISH         "は現在使用可！"
+
+REFERENCE            VZOOM
+LANG_ENGLISH         "可変ズーム"
+
+REFERENCE            WILLY_PETE
+LANG_ENGLISH         "スモーク"
+
+REFERENCE            WILLY_PETE_DESC
+LANG_ENGLISH         "スモークスクリーン 着弾すると 煙幕を張る 煙幕内の味方は 敵のミニマップに 表示されない"
+
+REFERENCE            WILLY_PETE_STAT_CAPS
+LANG_ENGLISH         "ステルス奪取"
+
+REFERENCE            WILLY_PETE_STAT_DESC
+LANG_ENGLISH         "スモークで身を隠しながらの奪取回数"
+
+REFERENCE            XR2
+LANG_ENGLISH         "XR-2"
+
+REFERENCE            XR2_DESC
+LANG_ENGLISH         "フルオート。反動が小さく命中率に優れる"
+
+REFERENCE            ZM_GRAVITY_SPIKES
+LANG_ENGLISH         "Ragnarok DG-4"
+
+REFERENCE            ZOMBIE_MELEE
+LANG_ENGLISH         "ノーミソォォォ..."
 
 ENDMARKER
