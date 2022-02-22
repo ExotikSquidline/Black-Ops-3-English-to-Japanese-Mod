@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FDD342BD-048F-43A0-A1FE-3F3652A424B5}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HydraX.Library</RootNamespace>
+    <AssemblyName>HydraX.Library</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="SELib">
+      <HintPath>..\HydraX\SELib.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.115.5, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.115.5\lib\net46\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.EF6, Version=1.0.115.5, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.EF6.1.0.115.5\lib\net46\System.Data.SQLite.EF6.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.Linq, Version=1.0.115.5, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Linq.1.0.115.5\lib\net46\System.Data.SQLite.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssetContainers\StructuredTableObj.cs" />
+    <Compile Include="AssetContainers\BehaviorStateMachineObj.cs" />
+    <Compile Include="AssetContainers\AnimationStateMachineObj.cs" />
+    <Compile Include="AssetContainers\BehaviorTreeObj.cs" />
+    <Compile Include="AssetContainers\MusicSetObj.cs" />
+    <Compile Include="AssetContainers\SoundSourceObj.cs" />
+    <Compile Include="AssetContainers\XCamObj.cs" />
+    <Compile Include="CommonStructures\Vector2.cs" />
+    <Compile Include="CommonStructures\Vector3.cs" />
+    <Compile Include="CommonStructures\Vector4.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\AIType.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\AnimationMappingTable.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\AnimationSelectorTable.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\AnimationStateMachine.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\Attachment.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\AttachmentCosmeticVariant.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\AttachmentUnique.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\Beam.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\BehaviorStateMachine.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\BehaviorTree.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\Character.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\CustomizationTable.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\DestructibleDef.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\EntityFXImpacts.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\EntitySoundImpacts.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\Flametable.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\FootstepTable.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\ImpactFXTable.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\ImpactSoundsTable.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\Laser.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\Localize.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\Material.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\PhysicsConstraints.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\PhysicsPreset.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\PlayerFXTable.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\PlayerSoundsTable.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\SAnim.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\RawFile.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\Rumble.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\ScriptBundle.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\SharedWeaponSounds.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\Shellshock.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\Sound.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\StringTable.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\StructuredTable.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\SurfaceFXTable.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\SurfaceSoundDef.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\TagFX.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\Tracer.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\TTF.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\Vehicle.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\VehicleFXDef.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\VehicleSoundDef.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\Weapon.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\WeaponCamo.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\XAnim.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\XCam.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\XModel.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\XModelAlias.cs" />
+    <Compile Include="Games\BlackOps3\AssetPools\ZBarrier.cs" />
+    <Compile Include="Utility\GameNotSupportedException.cs" />
+    <Compile Include="Utility\GameNotFoundException.cs" />
+    <Compile Include="Utility\MaterialTechniqueSet.cs" />
+    <Compile Include="Utility\Notifiable.cs" />
+    <Compile Include="Utility\Asset.cs" />
+    <Compile Include="Utility\GameDataTable.cs" />
+    <Compile Include="Enums\HydraAssetType.cs" />
+    <Compile Include="HydraInstance.cs" />
+    <Compile Include="Utility\HydraLogger.cs" />
+    <Compile Include="Enums\HydraStatus.cs" />
+    <Compile Include="Utility\HydraUpdater.cs" />
+    <Compile Include="Interfaces\IAssetPool.cs" />
+    <Compile Include="Interfaces\IGame.cs" />
+    <Compile Include="Games\BlackOps3\BlackOps3.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utility\HydraSettings.cs" />
+    <Compile Include="Utility\Matrix.cs" />
+    <Compile Include="Utility\Quaternion.cs" />
+    <Compile Include="Utility\SearchQuery.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PhilLibX\PhilLibX.csproj">
+      <Project>{0f468d5b-2f30-42f5-9043-920040d83d9d}</Project>
+      <Name>PhilLibX</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Dieses Projekt verweist auf mindestens ein NuGet-Paket, das auf diesem Computer fehlt. Verwenden Sie die Wiederherstellung von NuGet-Paketen, um die fehlenden Dateien herunterzuladen. Weitere Informationen finden Sie unter "http://go.microsoft.com/fwlink/?LinkID=322105". Die fehlende Datei ist "{0}".</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+    <Error Condition="!Exists('..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.115.5\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.115.5\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+  <Import Project="..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.115.5\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets" Condition="Exists('..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.115.5\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets')" />
+</Project>
