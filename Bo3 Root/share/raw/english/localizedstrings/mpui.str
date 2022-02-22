@@ -6,4 +6,10 @@ LANG_ENGLISH         "$(bubbleGumPackName)のコピー先を選択"
 REFERENCE            EQUIPPEDBUBBLEGUMPACK
 LANG_ENGLISH         "ゴブルガム "
 
+REFERENCE            SUB_MACHINE_GUNS
+LANG_ENGLISH         "サブマシンガン"
+
+REFERENCE            WEAPON_SMG_WITH_S
+LANG_ENGLISH         "サブマシンガン"
+
 ENDMARKER

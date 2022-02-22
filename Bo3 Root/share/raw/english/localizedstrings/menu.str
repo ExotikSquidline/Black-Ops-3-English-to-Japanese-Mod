@@ -105,4 +105,19 @@ LANG_ENGLISH         "ゴブルガム"
 REFERENCE            BUBBLEGUM_BUFFS_CAPS
 LANG_ENGLISH         "ゴブルガム"
 
+REFERENCE            MEGACHEW_FACTORY_CAPS
+LANG_ENGLISH         "ドクター・モンティの工場"
+
+REFERENCE            NEWTONS_COOKBOOK_CAPS
+LANG_ENGLISH         "ニュートンの実験マニュアル"
+
+REFERENCE            WEAPON_BUILD_KITS_CAPS
+LANG_ENGLISH         "ウェポンキット"
+
+REFERENCE            ZOMBIES
+LANG_ENGLISH         "ゾンビ"
+
+REFERENCE            ZOMBIES_CAPS
+LANG_ENGLISH         "ゾンビ"
+
 ENDMARKER
