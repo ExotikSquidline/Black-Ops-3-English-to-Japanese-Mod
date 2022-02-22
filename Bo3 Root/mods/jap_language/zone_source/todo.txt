@@ -1,0 +1,6 @@
+- fix round print numb
+- fix give weap func
+- add debug opt
+-- debug opt: see zombs trough wall
+-- debug opt: zone outline + master spawner
+-- debug opt: 
