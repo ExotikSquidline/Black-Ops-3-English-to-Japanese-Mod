@@ -1,0 +1,51 @@
+FILENOTES		    "if u read this u legally need to give me a kiss"
+
+REFERENCE            DLC4_CITY
+LANG_ENGLISH         "Rupture"
+
+REFERENCE            DLC4_CITY_CAPS
+LANG_ENGLISH         "RUPTURE"
+
+REFERENCE            DLC4_DESC_MAP_CITY
+LANG_ENGLISH         "World at Warでお馴染みの「OUTSKIRTS」が地球の大気環境を改善するために設計されたハイテク施設になって登場。セキュリティーメカ、マンティコアを制圧し破壊を解き放て"
+
+REFERENCE            DLC4_DESC_MAP_MINIATURE
+LANG_ENGLISH         "暑い夏の日のバーベキューほど素晴らしいものはない。賑やかな家族用のピクニックテーブルが舞台となるミニチュアライズされた戦場がまさにそれだ"
+
+REFERENCE            DLC4_DESC_MAP_RUINS
+LANG_ENGLISH         "かつて権力を掌握していた古代のそびえ立つこの城は、今や放置され朽ち果てている。最後に侵入した者は生きて帰ってこなかったとの噂だ"
+
+REFERENCE            DLC4_DESC_MAP_WESTERN
+LANG_ENGLISH         "ファンに人気が高い「STANDOFF」を頑強なウエスタン風にリメイクしたマップ"
+
+REFERENCE            DLC4_DESC_MAP_ZM_GENESIS
+LANG_ENGLISH         "ついにドクター・モンティと対峙するときがやってきた。かの家で、古代の邪悪な存在があの男たちの不死の魂を脅かす..."
+
+REFERENCE            DLC4_GENESIS
+LANG_ENGLISH         "Revelations"
+
+REFERENCE            DLC4_GENESIS_CAPS
+LANG_ENGLISH         "REVELATIONS"
+
+REFERENCE            DLC4_GENESIS_LOC
+LANG_ENGLISH         ""
+
+REFERENCE            DLC4_MINIATURE
+LANG_ENGLISH         "Micro"
+
+REFERENCE            DLC4_MINIATURE_CAPS
+LANG_ENGLISH         "MICRO"
+
+REFERENCE            DLC4_RUINS
+LANG_ENGLISH         "Citadel"
+
+REFERENCE            DLC4_RUINS_CAPS
+LANG_ENGLISH         "CITADEL"
+
+REFERENCE            DLC4_WESTERN
+LANG_ENGLISH         "Outlaw"
+
+REFERENCE            DLC4_WESTERN_CAPS
+LANG_ENGLISH         "OUTLAW"
+
+ENDMARKER
