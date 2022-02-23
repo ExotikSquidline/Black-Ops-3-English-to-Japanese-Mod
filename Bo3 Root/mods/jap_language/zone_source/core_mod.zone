@@ -15,3 +15,17 @@ rawfile,mp_mod.cfg
 rawfile,zm_mod.cfg
 // note that if you make changes in the cfg, you need to build this fastfile for the game to get the latest
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+localize,dlc2
+localize,dlc3
+localize,dlc4
+localize,dlc5
+
+localize,menu
+localize,mpui
+
+localize,vidsubtitles
+
+localize,weapon
+
+localize,zmui

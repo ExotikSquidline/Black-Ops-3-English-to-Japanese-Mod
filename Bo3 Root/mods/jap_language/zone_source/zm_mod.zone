@@ -14,15 +14,9 @@ ttf,fonts/foundrygridnik-medium.ttf
 ttf,fonts/refrigeratordeluxe-regular.ttf
 ttf,fonts/wearetrippinshort.ttf
 
-localize,zmspecialist
-localize,zm_specialist
-
-localize,dlc5
-localize,weapon
-localize,zm_weapon
 localize,zmweapon
 localize,zombie
-
+localize,zmscore
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////
 rawfile,dummy.cfg
