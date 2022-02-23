@@ -6,6 +6,7 @@
 scriptparsetree,scripts/zm/gametypes/_clientids.gsc
 scriptparsetree,scripts/zm/_zm_ai_dogs.gsc
 
+ttf,fonts/charb__.ttf
 ttf,fonts/default.ttf
 ttf,fonts/escom.ttf
 ttf,fonts/foundrygridnik-bold.ttf
