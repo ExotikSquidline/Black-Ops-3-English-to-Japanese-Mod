@@ -2016,4 +2016,10 @@ LANG_ENGLISH         "召喚の鍵が要る..."
 REFERENCE            ZOD_SWORD_EGG_RETRIEVE
 LANG_ENGLISH         "^3[{+activate}]^7長押しでアポシコン・ソードを回収する"
 
+REFERENCE            GENESIS_GRAVITYSPIKE_PICKUP
+LANG_ENGLISH         "[{+activate}]長押しで^5ラグナロク DG-4^7を拾う"
+
+REFERENCE            CASTLE_GRAVITYSPIKE_PICKUP
+LANG_ENGLISH         "[{+activate}]長押しで^5ラグナロク DG-4^7を拾う"
+
 ENDMARKER

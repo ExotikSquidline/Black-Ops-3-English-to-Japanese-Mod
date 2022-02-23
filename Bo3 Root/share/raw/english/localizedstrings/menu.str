@@ -120,4 +120,7 @@ LANG_ENGLISH         "ゾンビ"
 REFERENCE            ZOMBIES_CAPS
 LANG_ENGLISH         "ゾンビ"
 
+REFERENCE            OFFLINE
+LANG_ENGLISH         "オフライン"
+
 ENDMARKER

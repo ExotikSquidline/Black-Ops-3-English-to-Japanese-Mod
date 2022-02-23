@@ -1,0 +1,48 @@
+FILENOTES		    "if u read this u legally need to give me a kiss"
+
+REFERENCE            HEADSHOT
+LANG_ENGLISH         "ヘッドショット"
+
+REFERENCE            KILL
+LANG_ENGLISH         "キル"
+
+REFERENCE            KILL_MARGWA
+LANG_ENGLISH         "マルグワ撃破"
+
+REFERENCE            KILL_MECHZ
+LANG_ENGLISH         "Panzersoldatを倒した"
+
+REFERENCE            MAIN_EE_QUEST
+LANG_ENGLISH         "アポカリプス阻止"
+
+REFERENCE            MAIN_EE_QUEST_ALL
+LANG_ENGLISH         "謎めいたエピローグ"
+
+REFERENCE            MAIN_EE_QUEST_CASTLE
+LANG_ENGLISH         "凍りついた自由"
+
+REFERENCE            MAIN_EE_QUEST_FACTORY
+LANG_ENGLISH         "奇妙なプロローグ"
+
+REFERENCE            MAIN_EE_QUEST_GENESIS
+LANG_ENGLISH         "画一された世界"
+
+REFERENCE            MAIN_EE_QUEST_ISLAND
+LANG_ENGLISH         "園芸の資質"
+
+REFERENCE            MAIN_EE_QUEST_STALINGRAD
+LANG_ENGLISH         "機械化の悲哀"
+
+REFERENCE            MAIN_QUEST
+LANG_ENGLISH         "アポカリプスの支配"
+
+REFERENCE            MELEE_KILL
+LANG_ENGLISH         "近接キル"
+
+REFERENCE            OPEN_DOOR
+LANG_ENGLISH         "ドアを開く"
+
+REFERENCE            REVIVE_AN_ALLY
+LANG_ENGLISH         "蘇生"
+
+ENDMARKER

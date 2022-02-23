@@ -702,4 +702,22 @@ LANG_ENGLISH         "スペシャルアイテム"
 REFERENCE            ZOD_LOC
 LANG_ENGLISH         "米国、モーグシティ"
 
+REFERENCE            HEADSHOTS_CAPS
+LANG_ENGLISH         "ヘッドショット"
+
+REFERENCE            DOWNS_CAPS
+LANG_ENGLISH         "ダウン"
+
+REFERENCE            KILLS_CAPS
+LANG_ENGLISH         "キル"
+
+REFERENCE            GRAVITYSPIKE_CRAFTED
+LANG_ENGLISH         "^5ラグナロク DG-4^7を作った"
+
+REFERENCE            GRAVITYSPIKE_PART_PICKUP
+LANG_ENGLISH         "^5ラグナロク DG-4^7のパーツを拾った"
+
+REFERENCE            ZOD_UI_POD_SPRAYER_PICKUP
+LANG_ENGLISH         "フューミゲーターを拾った"
+
 ENDMARKER
