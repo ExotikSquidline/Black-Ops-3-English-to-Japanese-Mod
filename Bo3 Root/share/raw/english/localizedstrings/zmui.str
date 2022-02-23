@@ -300,4 +300,406 @@ LANG_ENGLISH         "ゾンビをキル時に自動で発動 ゾンビをキル
 REFERENCE            BGB_TONE_DEATH_LOCKED
 LANG_ENGLISH         "^1Zombies Chronicles 拡張パックが必要 ^7ゾンビをキル時に自動で発動(25x発動) ゾンビをキルすると変わった効果音が流れる"
 
+REFERENCE            DEATHS_CAPS
+LANG_ENGLISH         "デス"
+
+REFERENCE            DEFAULT_CAPS
+LANG_ENGLISH         "DEFAULT"
+
+REFERENCE            DEFAULT_DESC
+LANG_ENGLISH         "「DEFAULT」のスタート位置の解説"
+
+REFERENCE            DESC_MAP_ZM_CASTLE
+LANG_ENGLISH         "危うい同盟関係のもと、あの男たちは935部隊の痕跡を追ってオーストリアアルプス山頂の要塞へと向かう..."
+
+REFERENCE            DESC_MAP_ZM_FACTORY
+LANG_ENGLISH         "巨人が再び目覚める。全てが始まった秘密の施設に戻り、ゾンビどもの中枢を叩け"
+
+REFERENCE            DESC_MAP_ZM_ZOD
+LANG_ENGLISH         "モーグシティの街に足を踏み入れ、アンデッドに立ち向かえ。呪いを受け入れ、その謎を解き明かせ"
+
+REFERENCE            DIFFICULTY_CAPS
+LANG_ENGLISH         "難易度"
+
+REFERENCE            DIFFICULTY_DESC
+LANG_ENGLISH         "もう無理！ と感じたなら難易度を下げてみよう"
+
+REFERENCE            DIFFICULTY_EASY_CAPS
+LANG_ENGLISH         "イージー"
+
+REFERENCE            DIFFICULTY_NORMAL_CAPS
+LANG_ENGLISH         "オリジナル"
+
+REFERENCE            DISTANCE_TRAVELED_CAPS
+LANG_ENGLISH         "移動距離"
+
+REFERENCE            DLC_NUM
+LANG_ENGLISH         "DLC&&1"
+
+REFERENCE            DOGS_CAPS
+LANG_ENGLISH         "ヘルハウンド"
+
+REFERENCE            DOGS_DESC
+LANG_ENGLISH         "猟犬を解き放つ！"
+
+REFERENCE            DOORS_OPENED_CAPS
+LANG_ENGLISH         "ドア"
+
+REFERENCE            DOORS_PURCHASED_CAPS
+LANG_ENGLISH         "購入したドア"
+
+REFERENCE            DOWNS_CAPS
+LANG_ENGLISH         "ダウン"
+
+REFERENCE            FACTORY
+LANG_ENGLISH         "The Giant"
+
+REFERENCE            FACTORY_CAPS
+LANG_ENGLISH         "THE GIANT"
+
+REFERENCE            FACTORY_LOC
+LANG_ENGLISH         "ドイツ、ヴロツワフ近郊"
+
+REFERENCE            FAVORITE_CAPS
+LANG_ENGLISH         "お気に入り"
+
+REFERENCE            FAVORITE_WEAPON_CAPS
+LANG_ENGLISH         "最も使用された武器"
+
+REFERENCE            FIRSTTIME_HOST_DIFFICULTY_DESC
+LANG_ENGLISH         "後でロビーのゲームオプションからでも変更可能"
+
+REFERENCE            FIRST_GOBBLEGUM_FREE
+LANG_ENGLISH         "各ラウンド最初のゴブルガムはタダ！"
+
+REFERENCE            GAMETYPE_USER_COUNT
+LANG_ENGLISH         "&&1/&&2が&&3に参加中"
+
+REFERENCE            GIBS_CAPS
+LANG_ENGLISH         "切断"
+
+REFERENCE            GRAVITYSPIKE_CRAFTED
+LANG_ENGLISH         "Ragnarok DG-4を作った"
+
+REFERENCE            GRAVITYSPIKE_PART_PICKUP
+LANG_ENGLISH         "Ragnarok DG-4のパーツを拾った"
+
+REFERENCE            GRENADE_KILLS_CAPS
+LANG_ENGLISH         "グレネードキル"
+
+REFERENCE            HEADSHOTS_CAPS
+LANG_ENGLISH         "ヘッドショット"
+
+REFERENCE            HEADSHOTS_ONLY_CAPS
+LANG_ENGLISH         "ヘッドショットのみ"
+
+REFERENCE            HEADSHOTS_ONLY_DESC
+LANG_ENGLISH         "狙撃の腕に自信があるなら、ヘッドショットのみが有効なモードに挑もう"
+
+REFERENCE            HITS_CAPS
+LANG_ENGLISH         "ヒット"
+
+REFERENCE            ISLAND
+LANG_ENGLISH         "ZETSUBOU NO SHIMA"
+
+REFERENCE            KILLS_CAPS
+LANG_ENGLISH         "キル"
+
+REFERENCE            LEADERBOARDS_DESC
+LANG_ENGLISH         "最強のサバイバーたちのステータスを確認できる。自分の実力をフレンドや世界中のプレイヤーと比較しよう"
+
+REFERENCE            LEADERBOARDS_LOCKED
+LANG_ENGLISH         "ランキングがロックされた"
+
+REFERENCE            LIQUID_DIVINIUM_SALE_EXPIRATION_DATE_PDT
+LANG_ENGLISH         "オファーは&&1日午前10時(太平洋夏時間)まで有効"
+
+REFERENCE            LIQUID_DIVINIUM_SALE_EXPIRATION_DATE_PST
+LANG_ENGLISH         "オファーは&&1日午前10時(太平洋標準時)まで有効"
+
+REFERENCE            LOCAL_CAPS
+LANG_ENGLISH         "ローカル"
+
+REFERENCE            MAGIC_CAPS
+LANG_ENGLISH         "マジック"
+
+REFERENCE            MAGIC_DESC
+LANG_ENGLISH         "その覚悟があるなら、ゲームによるスーパーナチュラル・アシストを全て取り除ける"
+
+REFERENCE            MAP_CAPS
+LANG_ENGLISH         "マップ"
+
+REFERENCE            MAP_SELECTION_DESC
+LANG_ENGLISH         "ゲームモードとロケーションを選択"
+
+REFERENCE            MAP_USER_COUNT
+LANG_ENGLISH         "&&1/&&2が&&3に参加中"
+
+REFERENCE            MEGACHEW_1_TOKEN
+LANG_ENGLISH         "パワーアップ製造1機"
+
+REFERENCE            MEGACHEW_2_TOKEN
+LANG_ENGLISH         "2機 - レアの確率アップ"
+
+REFERENCE            MEGACHEW_3_TOKEN
+LANG_ENGLISH         "3機 - レアの確率最大"
+
+REFERENCE            MEGACHEW_CAPS
+LANG_ENGLISH         "メガ"
+
+REFERENCE            MEGACHEW_DOUBLER
+LANG_ENGLISH         "報酬ダブル"
+
+REFERENCE            MEGACHEW_POWER_BOOST
+LANG_ENGLISH         "パワーブースト"
+
+REFERENCE            MEGACHEW_STORE_DESC
+LANG_ENGLISH         "アイテムにCODポイントを使用しますか？"
+
+REFERENCE            MEGACHEW_STORE_TITLE
+LANG_ENGLISH         "ドクター・モンティの工場"
+
+REFERENCE            MEGACHEW_VIAL
+LANG_ENGLISH         "ディビニウム液"
+
+REFERENCE            MEGACHEW_VIAL_NOTCAPS
+LANG_ENGLISH         "ディビニウム"
+
+REFERENCE            MEGA_BUNDLE
+LANG_ENGLISH         "メガバンドル"
+
+REFERENCE            MISSING_ITEM
+LANG_ENGLISH         "アイテムがないよ！"
+
+REFERENCE            NEW_WEAPON_IN_LOC
+LANG_ENGLISH         "&&1で新しい武器を利用可能！"
+
+REFERENCE            NOT_ENOUGH_COD_POINTS_TO_TRADE
+LANG_ENGLISH         "ディビニウム液購入分のCODポイントが足りません"
+
+REFERENCE            NO_LEAVE_LOBBY
+LANG_ENGLISH         "ローカルパーティーのホストしか、このロビーを出ることはできません"
+
+REFERENCE            PERCENT
+LANG_ENGLISH         "&&1%"
+
+REFERENCE            PERCENT_OFF
+LANG_ENGLISH         "&&1%オフ！"
+
+REFERENCE            PERKS_DRANK_CAPS
+LANG_ENGLISH         "PERK"
+
+REFERENCE            PICKED_UP_SPRAYER
+LANG_ENGLISH         "スプレーヤーを拾った！"
+
+REFERENCE            PLAYER_MATCH_DESC
+LANG_ENGLISH         "仲間の生存者とチームを組み、絶えず押し寄せるアンデッドの大群と戦う。ランキング入りを目指し、撃破ステータスを確認しよう"
+
+REFERENCE            PLAYER_MESSAGE
+LANG_ENGLISH         "&&1,あなたのマッチ途中退出があまりにも多く検出されました。マッチ終了前の退出は、他のプレイヤーのゲーム環境にも悪影響を与えます"
+
+REFERENCE            PLAYER_NUM_1
+LANG_ENGLISH         "P1"
+
+REFERENCE            PLAYER_NUM_2
+LANG_ENGLISH         "P2"
+
+REFERENCE            PLAYER_NUM_3
+LANG_ENGLISH         "P3"
+
+REFERENCE            PLAYER_NUM_4
+LANG_ENGLISH         "P4"
+
+REFERENCE            PLAYTEST_CAPS
+LANG_ENGLISH         "試しにプレイ"
+
+REFERENCE            PRESENCE_ZM_CASTLE
+LANG_ENGLISH         "Der Eisendrache"
+
+REFERENCE            PURCHASE_VIAL
+LANG_ENGLISH         "小瓶を購入: &&1"
+
+REFERENCE            PURCHASE_VIALS
+LANG_ENGLISH         "^BBUTTON_COD_POINT_ICON^ &&1 CODポイントを使用"
+
+REFERENCE            RAYGUN_1_CAPS
+LANG_ENGLISH         "レイガンI"
+
+REFERENCE            RAYGUN_2_CAPS
+LANG_ENGLISH         "レイガンII"
+
+REFERENCE            READYUP_DESC
+LANG_ENGLISH         "出撃準備OK。お楽しみの時間だ"
+
+REFERENCE            REVIVE
+LANG_ENGLISH         "蘇生"
+
+REFERENCE            REVIVES_CAPS
+LANG_ENGLISH         "蘇生"
+
+REFERENCE            SHIELD_CRAFTED
+LANG_ENGLISH         "ゾンビシールドを作った"
+
+REFERENCE            SHIELD_PART_PICKUP
+LANG_ENGLISH         "パーツを拾った"
+
+REFERENCE            SOLO_PLAY_CAPS
+LANG_ENGLISH         "ソロプレイ"
+
+REFERENCE            SOLO_PLAY_DESC
+LANG_ENGLISH         "アンデッドの大群に独りで立ち向かえ。ステータスを公開してゾンビキラーとしての名声を高めよう"
+
+REFERENCE            SPEICAL_PROMOTION_CAPS
+LANG_ENGLISH         "スペシャルオファー"
+
+REFERENCE            STANDARD
+LANG_ENGLISH         "Survival"
+
+REFERENCE            STANDARD_CAPS
+LANG_ENGLISH         "SURVIVAL"
+
+REFERENCE            STARTING_ROUND_CAPS
+LANG_ENGLISH         "開始ラウンド"
+
+REFERENCE            STARTING_ROUND_DESC
+LANG_ENGLISH         "もっとタフな戦いを望むなら、開始ラウンドを変更しよう"
+
+REFERENCE            START_LOCATION_USER_COUNT
+LANG_ENGLISH         "&&1/&&2が&&3に参加中"
+
+REFERENCE            START_MATCH_DESC
+LANG_ENGLISH         "群を解き放つ"
+
+REFERENCE            START_MATCH_DUALVIEW_DISABLED_DESC
+LANG_ENGLISH         "デュアル視点が有効な場合、プレイヤーが3人以上いるとゲームを開始できません"
+
+REFERENCE            START_MATCH_MAX_TOTAL_PLAYERS_DESC
+LANG_ENGLISH         "ゲームを開始できません。最大プレイヤー数は&&1人です"
+
+REFERENCE            START_MATCH_MIN_TEAM_PLAYERS_DESC
+LANG_ENGLISH         "ゲームを開始できません。各チームには最低1人のプレイヤーが必要です"
+
+REFERENCE            START_MATCH_MIN_TOTAL_PLAYERS_DESC
+LANG_ENGLISH         "ゲームを開始できません。最低&&1人のプレイヤーが必要です"
+
+REFERENCE            START_MATCH_STEREOSCOPIC3D_DISABLED_DESC
+LANG_ENGLISH         "アクティブ/パッシブ3Dが有効な場合、プレイヤーが3人以上いるとゲームを開始できません"
+
+REFERENCE            SURVIVAL
+LANG_ENGLISH         "survival"
+
+REFERENCE            THEATER_DESC
+LANG_ENGLISH         "プレイヤーが作成した映像を見たり、自分だけの傑作B級ホラー映画を作成したりして、コミュニティとシェアしよう"
+
+REFERENCE            TOTAL_SHOTS_CAPS
+LANG_ENGLISH         "ショット"
+
+REFERENCE            TRADE_CODPOINTS_FOR_VIALS_DESC
+LANG_ENGLISH         "CODポイントでディビニウム液を購入しますか？"
+
+REFERENCE            TRADE_CONFIRMATION_DESC
+LANG_ENGLISH         "CODポイントでディビニウム液の小瓶&&1個を購入しますか？"
+
+REFERENCE            TRADING_COD_POINTS_FOR_VIALS
+LANG_ENGLISH         "CODポイントで小瓶を購入中..."
+
+REFERENCE            UPLOAD_MOVIE
+LANG_ENGLISH         "フィルムデータのアップロードを完了しています"
+
+REFERENCE            URM_FIRST_TIME_POPUP_DESC
+LANG_ENGLISH         "おめでとうございます！超レアメガゴブルガム11個が贈呈されましたただ今から8月14日午前10時(太平洋夏時間)まで、ドクター・モンティの工場に立ち寄って、さらなる超レアメガゴブルガ�"
+
+REFERENCE            URM_FIRST_TIME_POPUP_TITLE
+LANG_ENGLISH         "超レアメガセット"
+
+REFERENCE            URM_FIRST_TIME_PURCHASE_DESC
+LANG_ENGLISH         "超レアメガセットx1"
+
+REFERENCE            URM_NOT_ENOUGH_COD_POINTS
+LANG_ENGLISH         "超レアメガセット購入分のCODポイントが足りません"
+
+REFERENCE            URM_PURCHASE_DESC
+LANG_ENGLISH         "超レアメガセットx5"
+
+REFERENCE            URM_PURCHASE_TITLE
+LANG_ENGLISH         "超レアメガセット"
+
+REFERENCE            URM_TRADE_CONFIRMATION_DESC
+LANG_ENGLISH         "超レアメガセットにCODポイントを使用しますか？"
+
+REFERENCE            VERSUS_STATS_VS_CAPS
+LANG_ENGLISH         "対戦ステータス"
+
+REFERENCE            VIALS_DISCOVERED
+LANG_ENGLISH         "小瓶を発見"
+
+REFERENCE            VIALS_OF_LIQUID_DIVINIUM
+LANG_ENGLISH         "ディビニウム液の小瓶&&1個"
+
+REFERENCE            VIAL_DISCOVERED
+LANG_ENGLISH         "小瓶を発見"
+
+REFERENCE            VIAL_ERR_DW_DOWN
+LANG_ENGLISH         "小瓶を取得中にエラーが発生しました。消失中の小瓶は一時的に使用できます"
+
+REFERENCE            VIAL_PACK_CAPS
+LANG_ENGLISH         "小瓶パック"
+
+REFERENCE            VIEWING_LEADERBOARD
+LANG_ENGLISH         "ランキング閲覧中"
+
+REFERENCE            WAITING_FOR_HOST_TO_START
+LANG_ENGLISH         "マッチを開始できます"
+
+REFERENCE            ZC
+LANG_ENGLISH         "ZC"
+
+REFERENCE            ZCLASSIC
+LANG_ENGLISH         "ゾンビ"
+
+REFERENCE            ZCLASSIC_CAPS
+LANG_ENGLISH         "ゾンビ"
+
+REFERENCE            ZCLASSIC_SHORT_CAPS
+LANG_ENGLISH         "ゾンビ"
+
+REFERENCE            ZM_AAT_BLAST_FURNACE
+LANG_ENGLISH         "ブラスト"
+
+REFERENCE            ZM_AAT_DEAD_WIRE
+LANG_ENGLISH         "ワイヤー"
+
+REFERENCE            ZM_AAT_FIRE_WORKS
+LANG_ENGLISH         "ファイヤー"
+
+REFERENCE            ZM_AAT_THUNDER_WALL
+LANG_ENGLISH         "サンダー"
+
+REFERENCE            ZM_AAT_TURNED
+LANG_ENGLISH         "ターンド"
+
+REFERENCE            ZOD
+LANG_ENGLISH         "Shadows of Evil"
+
+REFERENCE            ZOD_CAPS
+LANG_ENGLISH         "SHADOWS OF EVIL"
+
+REFERENCE            ZOD_INV_FUSES
+LANG_ENGLISH         "ヒューズ"
+
+REFERENCE            ZOD_INV_ID
+LANG_ENGLISH         "アポシコンサーバント"
+
+REFERENCE            ZOD_INV_ROCKETSHILED
+LANG_ENGLISH         "ロケットシールド"
+
+REFERENCE            ZOD_INV_SAC
+LANG_ENGLISH         "生贄の儀式"
+
+REFERENCE            ZOD_INV_SPE
+LANG_ENGLISH         "スペシャルアイテム"
+
+REFERENCE            ZOD_LOC
+LANG_ENGLISH         "米国、モーグシティ"
+
 ENDMARKER
