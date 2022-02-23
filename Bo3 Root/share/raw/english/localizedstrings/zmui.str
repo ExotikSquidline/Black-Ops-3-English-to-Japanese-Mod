@@ -154,16 +154,16 @@ REFERENCE            BGB_STOCK_OPTION_HINT
 LANG_ENGLISH         "3分持続 弾薬がマガジンではなくストックから補充される"
 
 REFERENCE            BGB_IMPATIENT
-LANG_ENGLISH         "せっかち"
+LANG_ENGLISH         "^9せっかち"
 
 REFERENCE            BGB_IMPATIENT_CAPS
-LANG_ENGLISH         "せっかち"
+LANG_ENGLISH         "^9せっかち"
 
 REFERENCE            BGB_IMPATIENT_DESC
 LANG_ENGLISH         "即時に発動(失血するまで持続) 次のラウンド開始時ではなく、現在のラウンド終了間近にリスポーンする"
 
 REFERENCE            BGB_IMPATIENT_FACTORY_CAPS
-LANG_ENGLISH         "せっかち"
+LANG_ENGLISH         "^9せっかち"
 
 REFERENCE            BGB_IMPATIENT_HINT
 LANG_ENGLISH         "ラウンド終了間際に自動で発動 ラウンド終了間際にリスポーンする"
