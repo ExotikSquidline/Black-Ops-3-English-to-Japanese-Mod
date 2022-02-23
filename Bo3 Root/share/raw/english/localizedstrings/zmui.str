@@ -1,463 +1,157 @@
 FILENOTES		    "japanese bgb's Converted by Tex and Jumpy"
 
-REFERENCE            BGB_AFTERTASTE
-LANG_ENGLISH         "肌身離さず"
-
-REFERENCE            BGB_AFTERTASTE_CAPS
-LANG_ENGLISH         "肌身離さず"
-
-REFERENCE            BGB_AFTERTASTE_DESC
-LANG_ENGLISH         "^2メガ ^7即時に発動(3ラウンド持続) 蘇生された後もPERKを一切失わない"
-
-REFERENCE            BGB_AFTERTASTE_FACTORY_CAPS
-LANG_ENGLISH         "肌身離さず"
-
-REFERENCE            BGB_AFTERTASTE_HINT
-LANG_ENGLISH         "蘇生時に自動で発動 蘇生された後もPERKを一切失わない"
-
 REFERENCE            BGB_ALCHEMICAL_ANTITHESIS
-LANG_ENGLISH         "逆錬金術"
+LANG_ENGLISH         "^6逆錬金術"
 
 REFERENCE            BGB_ALCHEMICAL_ANTITHESIS_CAPS
-LANG_ENGLISH         "逆錬金術"
+LANG_ENGLISH         "^6逆錬金術"
 
 REFERENCE            BGB_ALCHEMICAL_ANTITHESIS_DESC
-LANG_ENGLISH         "^7    発動中(2x発動、各60秒) 10ポイント獲得ごとに、ポイントの代わりに使用中の武器の弾薬が1つ増える"
+LANG_ENGLISH         "^7発動中(2x発動、各60秒) 10ポイント獲得ごとに、ポイントの代わりに使用中の武器の弾薬が1つ増える"
 
 REFERENCE            BGB_ALCHEMICAL_ANTITHESIS_FACTORY_CAPS
-LANG_ENGLISH         "逆錬金術"
+LANG_ENGLISH         "^6逆錬金術"
 
 REFERENCE            BGB_ALCHEMICAL_ANTITHESIS_HINT
 LANG_ENGLISH         "^3[{+actionslot 1}]^7で発動 10ポイント獲得するたびに銃弾が1発増える"
 
-REFERENCE            BGB_ALWAYS_DONE_SWIFTLY
-LANG_ENGLISH         "スイフト"
-
-REFERENCE            BGB_ALWAYS_DONE_SWIFTLY_CAPS
-LANG_ENGLISH         "スイフト"
-
-REFERENCE            BGB_ALWAYS_DONE_SWIFTLY_DESC
-LANG_ENGLISH         "^7  即時に発動(3ラウンド持続) エイム時の移動、エイム切り替え速度が上昇する"
-
-REFERENCE            BGB_ALWAYS_DONE_SWIFTLY_FACTORY_CAPS
-LANG_ENGLISH         "スイフト"
-
-REFERENCE            BGB_ALWAYS_DONE_SWIFTLY_HINT
-LANG_ENGLISH         "3ラウンド有効 エイム切り替えとエイム時の移動速度が上昇する"
-
 REFERENCE            BGB_ANYWHERE_BUT_HERE
-LANG_ENGLISH         "空間転送"
+LANG_ENGLISH         "^6空間転送"
 
 REFERENCE            BGB_ANYWHERE_BUT_HERE_CAPS
-LANG_ENGLISH         "空間転送"
+LANG_ENGLISH         "^6空間転送"
 
 REFERENCE            BGB_ANYWHERE_BUT_HERE_DESC
 LANG_ENGLISH         "発動中(2x発動) ランダムな地点まで瞬時に移動する。衝撃波が近くのゾンビを吹き飛ばし、プレイヤーを守る"
 
 REFERENCE            BGB_ANYWHERE_BUT_HERE_FACTORY_CAPS
-LANG_ENGLISH         "空間転送"
+LANG_ENGLISH         "^6空間転送"
 
 REFERENCE            BGB_ANYWHERE_BUT_HERE_HINT
 LANG_ENGLISH         "^3[{+actionslot 1}]^7で発動 ランダムな場所にテレポートする"
 
+REFERENCE            BUBBLEGUM_CAPS
+LANG_ENGLISH         "ゴブルガム"
+
+REFERENCE            BGB_IN_PLAIN_SIGHT
+LANG_ENGLISH         "^6カメレオン"
+
+REFERENCE            BGB_IN_PLAIN_SIGHT_CAPS
+LANG_ENGLISH         "^6カメレオン"
+
+REFERENCE            BGB_IN_PLAIN_SIGHT_DESC
+LANG_ENGLISH         "発動中(2x発動、各10秒) 10秒間ゾンビから見えなくなる"
+
+REFERENCE            BGB_IN_PLAIN_SIGHT_FACTORY_CAPS
+LANG_ENGLISH         "^6カメレオン"
+
+REFERENCE            BGB_IN_PLAIN_SIGHT_HINT
+LANG_ENGLISH         "^3[{+actionslot 1}]^7で発動 10秒間ゾンビから見えなくなる"
+
+REFERENCE            BGB_LUCKY_CRIT
+LANG_ENGLISH         "^5高打率"
+
+REFERENCE            BGB_LUCKY_CRIT_CAPS
+LANG_ENGLISH         "^5高打率"
+
+REFERENCE            BGB_LUCKY_CRIT_DESC
+LANG_ENGLISH         "即時に発動(1ラウンド持続) 代替弾薬タイプの発動確率が上昇する"
+
+REFERENCE            BGB_LUCKY_CRIT_FACTORY_CAPS
+LANG_ENGLISH         "^5高打率"
+
+REFERENCE            BGB_LUCKY_CRIT_HINT
+LANG_ENGLISH         "1ラウンド有効 AAT発動確率が上昇する"
+
 REFERENCE            BGB_ARMAMENTAL_ACCOMPLISHMENT
-LANG_ENGLISH         "エリート兵"
+LANG_ENGLISH         "^5エリート兵"
 
 REFERENCE            BGB_ARMAMENTAL_ACCOMPLISHMENT_CAPS
-LANG_ENGLISH         "エリート兵"
+LANG_ENGLISH         "^5エリート兵"
 
 REFERENCE            BGB_ARMAMENTAL_ACCOMPLISHMENT_DESC
 LANG_ENGLISH         "^7即時に発動(3ラウンド持続) 武器切り替え、近接攻撃状態からの復帰、リロード、アイテム使用速度が上昇する"
 
 REFERENCE            BGB_ARMAMENTAL_ACCOMPLISHMENT_FACTORY_CAPS
-LANG_ENGLISH         "エリート兵"
+LANG_ENGLISH         "^5エリート兵"
 
 REFERENCE            BGB_ARMAMENTAL_ACCOMPLISHMENT_HINT
 LANG_ENGLISH         "3ラウンド有効 武器切り替えとアイテム使用速度が上がる"
 
-REFERENCE            BGB_ARMS_GRACE
-LANG_ENGLISH         "武器の恵み"
-
-REFERENCE            BGB_ARMS_GRACE_CAPS
-LANG_ENGLISH         "武器の恵み"
-
-REFERENCE            BGB_ARMS_GRACE_DESC
-LANG_ENGLISH         "即時に発動(次のリスポーンまで持続) 死亡時の銃を保持したままリスポーンする"
-
-REFERENCE            BGB_ARMS_GRACE_FACTORY_CAPS
-LANG_ENGLISH         "武器の恵み"
-
-REFERENCE            BGB_ARMS_GRACE_HINT
-LANG_ENGLISH         "リスポーン時に自動で発動 銃を所持してリスポーンする"
-
 REFERENCE            BGB_ARSENAL_ACCELERATOR
-LANG_ENGLISH         "高速処理"
+LANG_ENGLISH         "^2高速処理"
 
 REFERENCE            BGB_ARSENAL_ACCELERATOR_CAPS
-LANG_ENGLISH         "高速処理"
+LANG_ENGLISH         "^2高速処理"
 
 REFERENCE            BGB_ARSENAL_ACCELERATOR_DESC
 LANG_ENGLISH         "^7即時に発動(10分持続) スペシャルウェポンのチャージ速度が上がる"
 
 REFERENCE            BGB_ARSENAL_ACCELERATOR_FACTORY_CAPS
-LANG_ENGLISH         "高速処理"
+LANG_ENGLISH         "^2高速処理"
 
 REFERENCE            BGB_ARSENAL_ACCELERATOR_HINT
 LANG_ENGLISH         "10分有効 スペシャルウェポンのチャージ速度が上がる"
 
-REFERENCE            BGB_BOARD_GAMES
-LANG_ENGLISH         "板張り職人"
+REFERENCE            BGB_ALWAYS_DONE_SWIFTLY
+LANG_ENGLISH         "^5スイフト"
 
-REFERENCE            BGB_BOARD_GAMES_CAPS
-LANG_ENGLISH         "板張り職人"
+REFERENCE            BGB_ALWAYS_DONE_SWIFTLY_CAPS
+LANG_ENGLISH         "^5スイフト"
 
-REFERENCE            BGB_BOARD_GAMES_DESC
-LANG_ENGLISH         "^2メガ ^7即時に発動(5ラウンド持続) 板を張ると即座にその窓の板が修復される"
+REFERENCE            BGB_ALWAYS_DONE_SWIFTLY_DESC
+LANG_ENGLISH         "^7  即時に発動(3ラウンド持続) エイム時の移動、エイム切り替え速度が上昇する"
 
-REFERENCE            BGB_BOARD_GAMES_FACTORY_CAPS
-LANG_ENGLISH         "板張り職人"
+REFERENCE            BGB_ALWAYS_DONE_SWIFTLY_FACTORY_CAPS
+LANG_ENGLISH         "^5スイフト"
 
-REFERENCE            BGB_BOARD_GAMES_HINT
-LANG_ENGLISH         "5ラウンド持続 板を張ると即座にその窓の板が修復される"
+REFERENCE            BGB_ALWAYS_DONE_SWIFTLY_HINT
+LANG_ENGLISH         "3ラウンド有効 エイム切り替えとエイム時の移動速度が上昇する"
 
-REFERENCE            BGB_BOARD_GAMES_LOCKED
-LANG_ENGLISH         "^1Zombies Chronicles拡張パックが必要 ^7即時に発動(5ラウンド持続) 板を張ると即座にその窓の板が修復される"
+REFERENCE            BGB_ARMS_GRACE
+LANG_ENGLISH         "^9武器の恵み"
 
-REFERENCE            BGB_BOARD_TO_DEATH
-LANG_ENGLISH         "死の板"
+REFERENCE            BGB_ARMS_GRACE_CAPS
+LANG_ENGLISH         "^9武器の恵み"
 
-REFERENCE            BGB_BOARD_TO_DEATH_CAPS
-LANG_ENGLISH         "死の板"
+REFERENCE            BGB_ARMS_GRACE_DESC
+LANG_ENGLISH         "即時に発動(次のリスポーンまで持続) 死亡時の銃を保持したままリスポーンする"
 
-REFERENCE            BGB_BOARD_TO_DEATH_DESC
-LANG_ENGLISH         "^2メガ ^7即時に発動(5分持続) 板を張ると近くのゾンビをキルできる"
+REFERENCE            BGB_ARMS_GRACE_FACTORY_CAPS
+LANG_ENGLISH         "^9武器の恵み"
 
-REFERENCE            BGB_BOARD_TO_DEATH_FACTORY_CAPS
-LANG_ENGLISH         "死の 板"
-
-REFERENCE            BGB_BOARD_TO_DEATH_HINT
-LANG_ENGLISH         "5分持続 板を張ると近くのゾンビをキルできる"
-
-REFERENCE            BGB_BOARD_TO_DEATH_LOCKED
-LANG_ENGLISH         "^1Zombies Chronicles拡張パックが必要 ^7即時に発動(5分持続) 板を張ると近くのゾンビをキルできる"
-
-REFERENCE            BGB_BULLET_BOOST
-LANG_ENGLISH         "弾丸強化"
-
-REFERENCE            BGB_BULLET_BOOST_CAPS
-LANG_ENGLISH         "弾丸強化"
-
-REFERENCE            BGB_BULLET_BOOST_DESC
-LANG_ENGLISH         "^3レアメガ ^7発動中(2x発動) 現在のパック・ア・パンチ済みの銃を再充填する(対応している場合)"
-
-REFERENCE            BGB_BULLET_BOOST_FACTORY_CAPS
-LANG_ENGLISH         "弾丸強化"
-
-REFERENCE            BGB_BULLET_BOOST_HINT
-LANG_ENGLISH         "^3[{+actionslot 1}]^7で発動 現在のパック・ア・パンチ済みの銃を再充填する(対応している場合)"
-
-REFERENCE            BGB_BULLET_BOOST_LOCKED
-LANG_ENGLISH         "^1Salvation DLCパックが必要 ^7発動中(2x発動) 現在の銃にランダムな予備弾薬タイプを付加する"
-
-REFERENCE            BGB_BURNED_OUT
-LANG_ENGLISH         "炎上"
-
-REFERENCE            BGB_BURNED_OUT_CAPS
-LANG_ENGLISH         "炎上"
-
-REFERENCE            BGB_BURNED_OUT_DESC
-LANG_ENGLISH         "^2メガ ^7即時に発動(2ヒット持続) 次に近接ダメージを受けた時に、近くのゾンビが燃え上がる"
-
-REFERENCE            BGB_BURNED_OUT_FACTORY_CAPS
-LANG_ENGLISH         "炎上"
-
-REFERENCE            BGB_BURNED_OUT_HINT
-LANG_ENGLISH         "ゾンビから攻撃されると自動で発動 負傷すると周囲のゾンビが燃える"
-
-REFERENCE            BGB_CACHE_BACK
-LANG_ENGLISH         "隠しだま"
-
-REFERENCE            BGB_CACHE_BACK_CAPS
-LANG_ENGLISH         "隠しだま"
-
-REFERENCE            BGB_CACHE_BACK_DESC
-LANG_ENGLISH         "^3レアメガ ^7発動中(1x発動) マックスアモのパワーアップを出現させる"
-
-REFERENCE            BGB_CACHE_BACK_FACTORY_CAPS
-LANG_ENGLISH         "隠しだま"
-
-REFERENCE            BGB_CACHE_BACK_HINT
-LANG_ENGLISH         "^3[{+actionslot 1}]^7で発動 マックスアモのパワーアップを出現させる"
+REFERENCE            BGB_ARMS_GRACE_HINT
+LANG_ENGLISH         "リスポーン時に自動で発動 銃を所持してリスポーンする"
 
 REFERENCE            BGB_COAGULANT
-LANG_ENGLISH         "凝固剤"
+LANG_ENGLISH         "^2凝固剤"
 
 REFERENCE            BGB_COAGULANT_CAPS
-LANG_ENGLISH         "凝固剤"
+LANG_ENGLISH         "^2凝固剤"
 
 REFERENCE            BGB_COAGULANT_DESC
 LANG_ENGLISH         " 即時に発動(20分持続) 失血速度が遅くなる"
 
 REFERENCE            BGB_COAGULANT_FACTORY_CAPS
-LANG_ENGLISH         "凝固剤"
+LANG_ENGLISH         "^2凝固剤"
 
 REFERENCE            BGB_COAGULANT_HINT
 LANG_ENGLISH         "20分有効 失血速度が遅くなる"
 
-REFERENCE            BGB_CRATE_POWER
-LANG_ENGLISH         "箱パワー"
+REFERENCE            BGB_STOCK_OPTION
+LANG_ENGLISH         "^2ストック"
 
-REFERENCE            BGB_CRATE_POWER_CAPS
-LANG_ENGLISH         "箱パワー"
+REFERENCE            BGB_STOCK_OPTION_CAPS
+LANG_ENGLISH         "^2ストック"
 
-REFERENCE            BGB_CRATE_POWER_DESC
-LANG_ENGLISH         "^3レアメガ ^7次回のマジックボックス使用時に自動で発動 次のマジックボックスの銃がパック・ア・パンチ済みになる"
+REFERENCE            BGB_STOCK_OPTION_DESC
+LANG_ENGLISH         "即時に発動(3分持続) 弾薬が武器のマガジンではなく、ストックから補充される"
 
-REFERENCE            BGB_CRATE_POWER_FACTORY_CAPS
-LANG_ENGLISH         "箱パワー"
+REFERENCE            BGB_STOCK_OPTION_FACTORY_CAPS
+LANG_ENGLISH         "^2ストック"
 
-REFERENCE            BGB_CRATE_POWER_HINT
-LANG_ENGLISH         "次回のマジックボックス使用時に自動で発動 次のマジックボックスの銃がパック・ア・パンチ済みになる"
-
-REFERENCE            BGB_CRATE_POWER_LOCKED
-LANG_ENGLISH         "^1Descent DLCパックが必要 ^7次回のマジックボックス使用時に自動で発動 次のマジックボックスの銃がパック・ア・パンチ済みになる"
-
-REFERENCE            BGB_CRAWL_SPACE
-LANG_ENGLISH         "ハイハイ"
-
-REFERENCE            BGB_CRAWL_SPACE_CAPS
-LANG_ENGLISH         "ハイハイ"
-
-REFERENCE            BGB_CRAWL_SPACE_DESC
-LANG_ENGLISH         "^2メガ ^7発動中(5x発動) 周囲の全ゾンビをクローラーにする"
-
-REFERENCE            BGB_CRAWL_SPACE_FACTORY_CAPS
-LANG_ENGLISH         "ハイハイ"
-
-REFERENCE            BGB_CRAWL_SPACE_HINT
-LANG_ENGLISH         "^3[{+actionslot 1}]^7で発動 周囲の全ゾンビをクローラーにする"
-
-REFERENCE            BGB_CRAWL_SPACE_LOCKED
-LANG_ENGLISH         "^1Awakening DLCパックが必要 ^7発動中(5x発動) 周囲の全ゾンビをクローラーにする"
-
-REFERENCE            BGB_DANGER_CLOSEST
-LANG_ENGLISH         "耐爆"
-
-REFERENCE            BGB_DANGER_CLOSEST_CAPS
-LANG_ENGLISH         "耐爆"
-
-REFERENCE            BGB_DANGER_CLOSEST_DESC
-LANG_ENGLISH         "即時に発動(3ラウンド持続) 爆発ダメージがゼロになる"
-
-REFERENCE            BGB_DANGER_CLOSEST_FACTORY_CAPS
-LANG_ENGLISH         "耐爆"
-
-REFERENCE            BGB_DANGER_CLOSEST_HINT
-LANG_ENGLISH         "3ラウンド有効 爆発ダメージがゼロになる"
-
-REFERENCE            BGB_DEAD_OF_NUCLEAR_WINTER
-LANG_ENGLISH         "世界の終焉"
-
-REFERENCE            BGB_DEAD_OF_NUCLEAR_WINTER_CAPS
-LANG_ENGLISH         "世界の終焉"
-
-REFERENCE            BGB_DEAD_OF_NUCLEAR_WINTER_DESC
-LANG_ENGLISH         "^2メガ ^7発動中(2x発動) ニュークのパワーアップを出現させる"
-
-REFERENCE            BGB_DEAD_OF_NUCLEAR_WINTER_FACTORY_CAPS
-LANG_ENGLISH         "世界の終焉"
-
-REFERENCE            BGB_DEAD_OF_NUCLEAR_WINTER_HINT
-LANG_ENGLISH         "^3[{+actionslot 1}]^7で発動 ニュークのパワーアップを出現させる"
-
-REFERENCE            BGB_DISORDERLY_COMBAT
-LANG_ENGLISH         "乱れ撃ち"
-
-REFERENCE            BGB_DISORDERLY_COMBAT_CAPS
-LANG_ENGLISH         "乱れ撃ち"
-
-REFERENCE            BGB_DISORDERLY_COMBAT_DESC
-LANG_ENGLISH         "^2メガ ^7即時に発動(5分持続) 10秒毎に銃がランダムに変化する"
-
-REFERENCE            BGB_DISORDERLY_COMBAT_FACTORY_CAPS
-LANG_ENGLISH         "乱れ撃ち"
-
-REFERENCE            BGB_DISORDERLY_COMBAT_HINT
-LANG_ENGLISH         "5分持続 10秒毎に銃がランダムに変化する"
-
-REFERENCE            BGB_DISORDERLY_COMBAT_LOCKED
-LANG_ENGLISH         "^1Descent DLCパックが必要 ^7即時に発動(5分持続) 10秒毎に銃がランダムに変化する"
-
-REFERENCE            BGB_EPHEMERAL_ENHANCEMENT
-LANG_ENGLISH         "刹那の強化"
-
-REFERENCE            BGB_EPHEMERAL_ENHANCEMENT_CAPS
-LANG_ENGLISH         "刹那の強化"
-
-REFERENCE            BGB_EPHEMERAL_ENHANCEMENT_DESC
-LANG_ENGLISH         "^2メガ ^7発動中(2x発動 - 各60秒) 現在の武器をパック・ア・パンチ済みの武器に変える"
-
-REFERENCE            BGB_EPHEMERAL_ENHANCEMENT_FACTORY_CAPS
-LANG_ENGLISH         "刹那の強化"
-
-REFERENCE            BGB_EPHEMERAL_ENHANCEMENT_HINT
-LANG_ENGLISH         "^3[{+actionslot 1}]^7で発動 現在の武器をパック・ア・パンチ済みの武器に変える"
-
-REFERENCE            BGB_EXTRA_CREDIT
-LANG_ENGLISH         "へそくり"
-
-REFERENCE            BGB_EXTRA_CREDIT_CAPS
-LANG_ENGLISH         "へそくり"
-
-REFERENCE            BGB_EXTRA_CREDIT_DESC
-LANG_ENGLISH         "^3レアメガ ^7発動中(4x発動) 1250ポイントのパーソナルパワーアップを出現させる"
-
-REFERENCE            BGB_EXTRA_CREDIT_FACTORY_CAPS
-LANG_ENGLISH         "へそくり"
-
-REFERENCE            BGB_EXTRA_CREDIT_HINT
-LANG_ENGLISH         "^3[{+actionslot 1}]^7で発動 1250ポイントのパーソナルパワーアップを出現させる"
-
-REFERENCE            BGB_EXTRA_CREDIT_LOCKED
-LANG_ENGLISH         "^1Zombies Chronicles拡張パックが必要 ^7発動中(4x発動) 1250ポイントのパーソナルパワーアップを出現させる"
-
-REFERENCE            BGB_EYE_CANDY
-LANG_ENGLISH         "スイッチ"
-
-REFERENCE            BGB_EYE_CANDY_CAPS
-LANG_ENGLISH         "スイッチ"
-
-REFERENCE            BGB_EYE_CANDY_DESC
-LANG_ENGLISH         "^6変^3わ^5り^2種 ^7発動中(4x発動) 視界の色が塗り替えられる"
-
-REFERENCE            BGB_EYE_CANDY_FACTORY_CAPS
-LANG_ENGLISH         "スイッチ"
-
-REFERENCE            BGB_EYE_CANDY_HINT
-LANG_ENGLISH         "^3[{+actionslot 1}]^7で発動 視界の色が塗り替えられる"
-
-REFERENCE            BGB_EYE_CANDY_LOCKED
-LANG_ENGLISH         "^1Zombies Chronicles 拡張パックが必要 ^7発動中(4x発動) 視界の色が塗り替えられる"
-
-REFERENCE            BGB_FATAL_CONTRAPTION
-LANG_ENGLISH         "悪魔の兵器"
-
-REFERENCE            BGB_FATAL_CONTRAPTION_CAPS
-LANG_ENGLISH         "悪魔の兵器"
-
-REFERENCE            BGB_FATAL_CONTRAPTION_DESC
-LANG_ENGLISH         "^2メガ ^7発動中(2x発動) デスマシーンのパワーアップを出現させる"
-
-REFERENCE            BGB_FATAL_CONTRAPTION_FACTORY_CAPS
-LANG_ENGLISH         "悪魔の兵器"
-
-REFERENCE            BGB_FATAL_CONTRAPTION_HINT
-LANG_ENGLISH         "^3[{+actionslot 1}]^7で発動 デスマシーンのパワーアップを出現させる"
-
-REFERENCE            BGB_FATAL_CONTRAPTION_LOCKED
-LANG_ENGLISH         "^1Awakening DLCパックが必要 ^7発動中(2x発動) デスマシーンのパワーアップを出現させる"
-
-REFERENCE            BGB_FEAR_IN_HEADLIGHTS
-LANG_ENGLISH         "恐怖の視線"
-
-REFERENCE            BGB_FEAR_IN_HEADLIGHTS_CAPS
-LANG_ENGLISH         "恐怖の視線"
-
-REFERENCE            BGB_FEAR_IN_HEADLIGHTS_DESC
-LANG_ENGLISH         "^3レアメガ ^7発動中(1x発動、2分) プレイヤーに見られているゾンビが動けなくなる"
-
-REFERENCE            BGB_FEAR_IN_HEADLIGHTS_FACTORY_CAPS
-LANG_ENGLISH         "恐怖の視線"
-
-REFERENCE            BGB_FEAR_IN_HEADLIGHTS_HINT
-LANG_ENGLISH         "^3[{+actionslot 1}]^7で発動 プレイヤーに見られているゾンビが動けなくなる"
-
-REFERENCE            BGB_FEAR_IN_HEADLIGHTS_LOCKED
-LANG_ENGLISH         "^1Eclipse DLCパックが必要 ^7発動中(1x発動、2分) プレイヤーに見られているゾンビが動けなくなる"
-
-REFERENCE            BGB_FIRING_ON_ALL_CYLINDERS
-LANG_ENGLISH         "スプリント"
-
-REFERENCE            BGB_FIRING_ON_ALL_CYLINDERS_CAPS
-LANG_ENGLISH         "スプリント"
-
-REFERENCE            BGB_FIRING_ON_ALL_CYLINDERS_DESC
-LANG_ENGLISH         "即時に発動(3ラウンド持続) ダッシュ中に銃撃できる"
-
-REFERENCE            BGB_FIRING_ON_ALL_CYLINDERS_FACTORY_CAPS
-LANG_ENGLISH         "スプリント"
-
-REFERENCE            BGB_FIRING_ON_ALL_CYLINDERS_HINT
-LANG_ENGLISH         "3ラウンド有効 ダッシュ中に銃撃できる"
-
-REFERENCE            BGB_FLAVOR_HEXED
-LANG_ENGLISH         "おまじない"
-
-REFERENCE            BGB_FLAVOR_HEXED_CAPS
-LANG_ENGLISH         "おまじない"
-
-REFERENCE            BGB_FLAVOR_HEXED_DESC
-LANG_ENGLISH         "^2メガ ^7即時に発動(2x発動) ガムパックにないメガゴブルガムへランダムに変化する"
-
-REFERENCE            BGB_FLAVOR_HEXED_FACTORY_CAPS
-LANG_ENGLISH         "おまじない"
-
-REFERENCE            BGB_FLAVOR_HEXED_HINT
-LANG_ENGLISH         "自動で発動 パックにないメガゴブルガムへランダムに変化する"
-
-REFERENCE            BGB_FLAVOR_HEXED_LOCKED
-LANG_ENGLISH         "^1Zombies Chronicles拡張パックが必要 ^7即時に発動 ガムパックにないメガゴブルガムへランダムに変化する。ガム使用後「おまじない」は再度変化する"
-
-REFERENCE            BGB_HEAD_DRAMA
-LANG_ENGLISH         "ヘッドガン"
-
-REFERENCE            BGB_HEAD_DRAMA_CAPS
-LANG_ENGLISH         "ヘッドガン"
-
-REFERENCE            BGB_HEAD_DRAMA_DESC
-LANG_ENGLISH         "^6超レアメガ ^7即時に発動(残りのラウンド中) ゾンビに命中した銃弾がヘッドショットになる"
-
-REFERENCE            BGB_HEAD_DRAMA_FACTORY_CAPS
-LANG_ENGLISH         "ヘッドガン"
-
-REFERENCE            BGB_HEAD_DRAMA_HINT
-LANG_ENGLISH         "残りのラウンド中有効 ゾンビに命中した銃弾がヘッドショットになる"
-
-REFERENCE            BGB_HEAD_DRAMA_LOCKED
-LANG_ENGLISH         "^1Awakening DLCパックが必要 ^7即時に発動(残りのラウンド中) ゾンビに命中した銃弾がヘッドショットになる"
-
-REFERENCE            BGB_IDLE_EYES
-LANG_ENGLISH         "透明人間"
-
-REFERENCE            BGB_IDLE_EYES_CAPS
-LANG_ENGLISH         "透明人間"
-
-REFERENCE            BGB_IDLE_EYES_DESC
-LANG_ENGLISH         "^2メガ ^7発動中(3x発動、各30秒) 全プレイヤーがゾンビから見えなくなる"
-
-REFERENCE            BGB_IDLE_EYES_FACTORY_CAPS
-LANG_ENGLISH         "透明人間"
-
-REFERENCE            BGB_IDLE_EYES_HINT
-LANG_ENGLISH         "^3[{+actionslot 1}]^7で発動 全プレイヤーがゾンビから見えなくなる"
-
-REFERENCE            BGB_IDLE_EYES_LOCKED
-LANG_ENGLISH         "^1Zombies Chronicles拡張パックが必要 ^7発動中(3x発動、各30秒) 全プレイヤーがゾンビから見えなくなる"
-
-REFERENCE            BGB_IMMOLATION_LIQUIDATION
-LANG_ENGLISH         "一掃セール"
-
-REFERENCE            BGB_IMMOLATION_LIQUIDATION_CAPS
-LANG_ENGLISH         "一掃セール"
-
-REFERENCE            BGB_IMMOLATION_LIQUIDATION_DESC
-LANG_ENGLISH         "^2メガ ^7発動中(3x発動) 在庫処分のパワーアップを出現させる"
-
-REFERENCE            BGB_IMMOLATION_LIQUIDATION_FACTORY_CAPS
-LANG_ENGLISH         "一掃セール"
-
-REFERENCE            BGB_IMMOLATION_LIQUIDATION_HINT
-LANG_ENGLISH         "^3[{+actionslot 1}]^7で発動 在庫処分のパワーアップを出現させる"
+REFERENCE            BGB_STOCK_OPTION_HINT
+LANG_ENGLISH         "3分持続 弾薬がマガジンではなくストックから補充される"
 
 REFERENCE            BGB_IMPATIENT
 LANG_ENGLISH         "せっかち"
@@ -474,143 +168,77 @@ LANG_ENGLISH         "せっかち"
 REFERENCE            BGB_IMPATIENT_HINT
 LANG_ENGLISH         "ラウンド終了間際に自動で発動 ラウンド終了間際にリスポーンする"
 
-REFERENCE            BGB_IM_FEELIN_LUCKY
-LANG_ENGLISH         "運試し"
+REFERENCE            BGB_SWORD_FLAY
+LANG_ENGLISH         "^2凶暴化"
 
-REFERENCE            BGB_IM_FEELIN_LUCKY_CAPS
-LANG_ENGLISH         "運試し"
+REFERENCE            BGB_SWORD_FLAY_CAPS
+LANG_ENGLISH         "^2凶暴化"
 
-REFERENCE            BGB_IM_FEELIN_LUCKY_DESC
-LANG_ENGLISH         "^2メガ ^7発動中(2x発動) ランダムなパワーアップを出現させる"
+REFERENCE            BGB_SWORD_FLAY_DESC
+LANG_ENGLISH         "即時に発動(2分30秒持続) 近接攻撃でゾンビに与えるダメージが5倍になる"
 
-REFERENCE            BGB_IM_FEELIN_LUCKY_FACTORY_CAPS
-LANG_ENGLISH         "運試し"
+REFERENCE            BGB_SWORD_FLAY_FACTORY_CAPS
+LANG_ENGLISH         "^2凶暴化"
 
-REFERENCE            BGB_IM_FEELIN_LUCKY_HINT
-LANG_ENGLISH         "^3[{+actionslot 1}]^7で発動 ランダムなパワーアップを出現させる"
+REFERENCE            BGB_SWORD_FLAY_HINT
+LANG_ENGLISH         "2分30秒持続 近接攻撃のダメージが5倍になる"
 
-REFERENCE            BGB_IN_PLAIN_SIGHT
-LANG_ENGLISH         "カメレオン"
+REFERENCE            BGB_DANGER_CLOSEST
+LANG_ENGLISH         "^5耐爆"
 
-REFERENCE            BGB_IN_PLAIN_SIGHT_CAPS
-LANG_ENGLISH         "カメレオン"
+REFERENCE            BGB_DANGER_CLOSEST_CAPS
+LANG_ENGLISH         "^5耐爆"
 
-REFERENCE            BGB_IN_PLAIN_SIGHT_DESC
-LANG_ENGLISH         "発動中(2x発動、各10秒) 10秒間ゾンビから見えなくなる"
+REFERENCE            BGB_DANGER_CLOSEST_DESC
+LANG_ENGLISH         "即時に発動(3ラウンド持続) 爆発ダメージがゼロになる"
 
-REFERENCE            BGB_IN_PLAIN_SIGHT_FACTORY_CAPS
-LANG_ENGLISH         "カメレオン"
+REFERENCE            BGB_DANGER_CLOSEST_FACTORY_CAPS
+LANG_ENGLISH         "^5耐爆"
 
-REFERENCE            BGB_IN_PLAIN_SIGHT_HINT
-LANG_ENGLISH         "^3[{+actionslot 1}]^7で発動 10秒間ゾンビから見えなくなる"
+REFERENCE            BGB_DANGER_CLOSEST_HINT
+LANG_ENGLISH         "3ラウンド有効 爆発ダメージがゼロになる"
 
-REFERENCE            BGB_KILLING_TIME
-LANG_ENGLISH         "キルタイム"
+REFERENCE            BGB_FIRING_ON_ALL_CYLINDERS
+LANG_ENGLISH         "^5スプリント"
 
-REFERENCE            BGB_KILLING_TIME_CAPS
-LANG_ENGLISH         "キルタイム"
+REFERENCE            BGB_FIRING_ON_ALL_CYLINDERS_CAPS
+LANG_ENGLISH         "^5スプリント"
 
-REFERENCE            BGB_KILLING_TIME_DESC
-LANG_ENGLISH         "^6超レアメガ ^7発動中(1x発動) 全てのゾンビが20秒間その場から動かなくなる。銃撃を受けたゾンビは時間終了後に一掃される"
+REFERENCE            BGB_FIRING_ON_ALL_CYLINDERS_DESC
+LANG_ENGLISH         "即時に発動(3ラウンド持続) ダッシュ中に銃撃できる"
 
-REFERENCE            BGB_KILLING_TIME_FACTORY_CAPS
-LANG_ENGLISH         "キルタイム"
+REFERENCE            BGB_FIRING_ON_ALL_CYLINDERS_FACTORY_CAPS
+LANG_ENGLISH         "^5スプリント"
 
-REFERENCE            BGB_KILLING_TIME_HINT
-LANG_ENGLISH         "^3[{+actionslot 1}]^7で発動 ゾンビをその場で動けなくする"
+REFERENCE            BGB_FIRING_ON_ALL_CYLINDERS_HINT
+LANG_ENGLISH         "3ラウンド有効 ダッシュ中に銃撃できる"
 
-REFERENCE            BGB_KILL_JOY
-LANG_ENGLISH         "キルジョイ"
+REFERENCE            BGB_NOW_YOU_SEE_ME
+LANG_ENGLISH         "^6オトリ"
 
-REFERENCE            BGB_KILL_JOY_CAPS
-LANG_ENGLISH         "キルジョイ"
+REFERENCE            BGB_NOW_YOU_SEE_ME_CAPS
+LANG_ENGLISH         "^6オトリ"
 
-REFERENCE            BGB_KILL_JOY_DESC
-LANG_ENGLISH         "^3レアメガ ^7発動中(2x発動) インスタキルのパワーアップを出現させる"
+REFERENCE            BGB_NOW_YOU_SEE_ME_DESC
+LANG_ENGLISH         "発動中(2x発動) 全てのゾンビが10秒間プレイヤーを狙ってくる"
 
-REFERENCE            BGB_KILL_JOY_FACTORY_CAPS
-LANG_ENGLISH         "キルジョイ"
+REFERENCE            BGB_NOW_YOU_SEE_ME_FACTORY_CAPS
+LANG_ENGLISH         "^6オトリ"
 
-REFERENCE            BGB_KILL_JOY_HINT
-LANG_ENGLISH         "^3[{+actionslot 1}]^7で発動 インスタキルのパワーアップを出現させる"
-
-REFERENCE            BGB_LICENSED_CONTRACTOR
-LANG_ENGLISH         "すご腕職人"
-
-REFERENCE            BGB_LICENSED_CONTRACTOR_CAPS
-LANG_ENGLISH         "すご腕職人"
-
-REFERENCE            BGB_LICENSED_CONTRACTOR_DESC
-LANG_ENGLISH         "^2メガ ^7発動中(3x発動) カーペンターのパワーアップを出現させる"
-
-REFERENCE            BGB_LICENSED_CONTRACTOR_FACTORY_CAPS
-LANG_ENGLISH         "すご腕職人"
-
-REFERENCE            BGB_LICENSED_CONTRACTOR_HINT
-LANG_ENGLISH         "^3[{+actionslot 1}]^7で発動 カーペンターのパワーアップを出現させる"
-
-REFERENCE            BGB_LUCKY_CRIT
-LANG_ENGLISH         "高打率"
-
-REFERENCE            BGB_LUCKY_CRIT_CAPS
-LANG_ENGLISH         "高打率"
-
-REFERENCE            BGB_LUCKY_CRIT_DESC
-LANG_ENGLISH         "即時に発動(1ラウンド持続) 代替弾薬タイプの発動確率が上昇する"
-
-REFERENCE            BGB_LUCKY_CRIT_FACTORY_CAPS
-LANG_ENGLISH         "高打率"
-
-REFERENCE            BGB_LUCKY_CRIT_HINT
-LANG_ENGLISH         "1ラウンド有効 AAT発動確率が上昇する"
-
-REFERENCE            BGB_MIND_BLOWN
-LANG_ENGLISH         "ヘッドバン"
-
-REFERENCE            BGB_MIND_BLOWN_CAPS
-LANG_ENGLISH         "ヘッドバン"
-
-REFERENCE            BGB_MIND_BLOWN_DESC
-LANG_ENGLISH         "^2メガ ^7発動中(3x発動) 姿が見える全ゾンビの頭部を吹き飛ばして倒す"
-
-REFERENCE            BGB_MIND_BLOWN_FACTORY_CAPS
-LANG_ENGLISH         "ヘッドバン"
-
-REFERENCE            BGB_MIND_BLOWN_HINT
-LANG_ENGLISH         "^3[{+actionslot 1}]^7で発動 姿が見える全ゾンビの頭部を吹き飛ばして倒す"
-
-REFERENCE            BGB_MIND_BLOWN_LOCKED
-LANG_ENGLISH         "^1Salvation DLCパックが必要 ^7発動中(3x発動) 姿が見える全ゾンビの頭部を吹き飛ばして倒す"
-
-REFERENCE            BGB_NEAR_DEATH_EXPERIENCE
-LANG_ENGLISH         "臨死体験"
-
-REFERENCE            BGB_NEAR_DEATH_EXPERIENCE_CAPS
-LANG_ENGLISH         "臨死体験"
-
-REFERENCE            BGB_NEAR_DEATH_EXPERIENCE_DESC
-LANG_ENGLISH         "^6超レアメガ ^7即時に発動(3ラウンド持続) 他のプレイヤーの近くにいるだけで蘇生したり、蘇生させたりできる。蘇生したプレイヤーは全てのPERKを保持したままになる"
-
-REFERENCE            BGB_NEAR_DEATH_EXPERIENCE_FACTORY_CAPS
-LANG_ENGLISH         "臨死体験"
-
-REFERENCE            BGB_NEAR_DEATH_EXPERIENCE_HINT
-LANG_ENGLISH         "3ラウンド有効 他のプレイヤーの近くにいるだけで蘇生したり蘇生させたりでき、全てのPERKを保持できる"
-
-REFERENCE            BGB_NEAR_DEATH_EXPERIENCE_LOCKED
-LANG_ENGLISH         "^1Salvation DLCパックが必要 ^7即時に発動(残りのラウンド中) 近くのプレイヤーを自動的に蘇生させる"
+REFERENCE            BGB_NOW_YOU_SEE_ME_HINT
+LANG_ENGLISH         "^3[{+actionslot 1}]^7で発動 全てのゾンビが10秒間プレイヤーを狙ってくる"
 
 REFERENCE            BGB_NEWTONIAN_NEGATION
-LANG_ENGLISH         "重力無視"
+LANG_ENGLISH         "^6重^3力^5無^2視"
 
 REFERENCE            BGB_NEWTONIAN_NEGATION_CAPS
-LANG_ENGLISH         "重力無視"
+LANG_ENGLISH         "^6重^3力^5無^2視"
 
 REFERENCE            BGB_NEWTONIAN_NEGATION_DESC
 LANG_ENGLISH         "^6変^3わ^5り^2種 ^7即時に発動(25分持続) 倒したゾンビが上昇する"
 
 REFERENCE            BGB_NEWTONIAN_NEGATION_FACTORY_CAPS
-LANG_ENGLISH         "重力無視"
+LANG_ENGLISH         "^6重^3力^5無^2視"
 
 REFERENCE            BGB_NEWTONIAN_NEGATION_HINT
 LANG_ENGLISH         "25分持続 倒したゾンビが上昇する"
@@ -618,128 +246,17 @@ LANG_ENGLISH         "25分持続 倒したゾンビが上昇する"
 REFERENCE            BGB_NEWTONIAN_NEGATION_LOCKED
 LANG_ENGLISH         "^1Salvation DLCパックが必要 ^7即時に発動(25分持続) 倒したゾンビが上昇する"
 
-REFERENCE            BGB_NOW_YOU_SEE_ME
-LANG_ENGLISH         "オトリ"
-
-REFERENCE            BGB_NOW_YOU_SEE_ME_CAPS
-LANG_ENGLISH         "オトリ"
-
-REFERENCE            BGB_NOW_YOU_SEE_ME_DESC
-LANG_ENGLISH         "発動中(2x発動) 全てのゾンビが10秒間プレイヤーを狙ってくる"
-
-REFERENCE            BGB_NOW_YOU_SEE_ME_FACTORY_CAPS
-LANG_ENGLISH         "オトリ"
-
-REFERENCE            BGB_NOW_YOU_SEE_ME_HINT
-LANG_ENGLISH         "^3[{+actionslot 1}]^7で発動 全てのゾンビが10秒間プレイヤーを狙ってくる"
-
-REFERENCE            BGB_ON_THE_HOUSE
-LANG_ENGLISH         "サービス品"
-
-REFERENCE            BGB_ON_THE_HOUSE_CAPS
-LANG_ENGLISH         "サービス品"
-
-REFERENCE            BGB_ON_THE_HOUSE_DESC
-LANG_ENGLISH         "^3レアメガ ^7発動中(1x発動) フリーPERKのパワーアップを出現させる"
-
-REFERENCE            BGB_ON_THE_HOUSE_FACTORY_CAPS
-LANG_ENGLISH         "サービス品"
-
-REFERENCE            BGB_ON_THE_HOUSE_HINT
-LANG_ENGLISH         "^3[{+actionslot 1}]^7で発動 フリーPERKのパワーアップを出現させる"
-
-REFERENCE            BGB_PERKAHOLIC
-LANG_ENGLISH         "PERKマニア"
-
-REFERENCE            BGB_PERKAHOLIC_CAPS
-LANG_ENGLISH         "PERKマニア"
-
-REFERENCE            BGB_PERKAHOLIC_DESC
-LANG_ENGLISH         "^6超レアメガ ^7即時に発動 マップ内の全てのPERKが得られる"
-
-REFERENCE            BGB_PERKAHOLIC_FACTORY_CAPS
-LANG_ENGLISH         "PERKマニア"
-
-REFERENCE            BGB_PERKAHOLIC_HINT
-LANG_ENGLISH         "全てのPERK獲得！"
-
-REFERENCE            BGB_PHOENIX_UP
-LANG_ENGLISH         "不死鳥"
-
-REFERENCE            BGB_PHOENIX_UP_CAPS
-LANG_ENGLISH         "不死鳥"
-
-REFERENCE            BGB_PHOENIX_UP_DESC
-LANG_ENGLISH         "^2メガ ^7発動中(1x発動) 全てのPERKを保持したままチームメイト全員を蘇生する"
-
-REFERENCE            BGB_PHOENIX_UP_FACTORY_CAPS
-LANG_ENGLISH         "不死鳥"
-
-REFERENCE            BGB_PHOENIX_UP_HINT
-LANG_ENGLISH         "^3[{+actionslot 1}]^7で発動 PERKを保持したままチームメイト全員を蘇生する"
-
-REFERENCE            BGB_POP_SHOCKS
-LANG_ENGLISH         "電撃ポップ"
-
-REFERENCE            BGB_POP_SHOCKS_CAPS
-LANG_ENGLISH         "電撃ポップ"
-
-REFERENCE            BGB_POP_SHOCKS_DESC
-LANG_ENGLISH         "^2メガ ^7ゾンビへの近接攻撃時に自動で発動(5x発動) 近接攻撃時に電撃を放ち、周囲のゾンビを感電させる"
-
-REFERENCE            BGB_POP_SHOCKS_FACTORY_CAPS
-LANG_ENGLISH         "電撃ポップ"
-
-REFERENCE            BGB_POP_SHOCKS_HINT
-LANG_ENGLISH         "近接攻撃時に自動で発動 周囲のゾンビを感電させる"
-
-REFERENCE            BGB_POWER_VACUUM
-LANG_ENGLISH         "パワー集約"
-
-REFERENCE            BGB_POWER_VACUUM_CAPS
-LANG_ENGLISH         "パワー集約"
-
-REFERENCE            BGB_POWER_VACUUM_DESC
-LANG_ENGLISH         "^6超レアメガ ^7即時に発動(4ラウンド持続) 各ラウンドのパワーアップ出現頻度が上がる"
-
-REFERENCE            BGB_POWER_VACUUM_FACTORY_CAPS
-LANG_ENGLISH         "パワー 集約"
-
-REFERENCE            BGB_POWER_VACUUM_HINT
-LANG_ENGLISH         "4ラウンド持続 各ラウンドのパワーアップ出現頻度が上がる"
-
-REFERENCE            BGB_POWER_VACUUM_LOCKED
-LANG_ENGLISH         "^1Zombies Chronicles拡張パックが必要 ^7即時に発動(4ラウンド持続) パワーアップの出現頻度が上がる"
-
-REFERENCE            BGB_PROFIT_SHARING
-LANG_ENGLISH         "利益分配"
-
-REFERENCE            BGB_PROFIT_SHARING_CAPS
-LANG_ENGLISH         "利益分配"
-
-REFERENCE            BGB_PROFIT_SHARING_DESC
-LANG_ENGLISH         "^6超レアメガ ^7即時に発動(10分持続) 互いの獲得ポイントが近くのプレイヤーにも与えられる"
-
-REFERENCE            BGB_PROFIT_SHARING_FACTORY_CAPS
-LANG_ENGLISH         "利益 分配"
-
-REFERENCE            BGB_PROFIT_SHARING_HINT
-LANG_ENGLISH         "10分持続 互いの獲得ポイントが近くのプレイヤーにも与えられる"
-
-REFERENCE            BGB_PROFIT_SHARING_LOCKED
-LANG_ENGLISH         "^1Salvation DLCパックが必要 ^7即時に発動(5分持続) 自分の近くにいるプレイヤーが獲得した全ポイントが周囲のプレイヤーにも与えられる"
-
 REFERENCE            BGB_PROJECTILE_VOMITING
-LANG_ENGLISH         "大噴出"
+LANG_ENGLISH         "^6大^3噴^5出"
 
 REFERENCE            BGB_PROJECTILE_VOMITING_CAPS
-LANG_ENGLISH         "大噴出"
+LANG_ENGLISH         "^6大^3噴^5出"
 
 REFERENCE            BGB_PROJECTILE_VOMITING_DESC
 LANG_ENGLISH         "^6変^3わ^5り^2種 ^7即時に発動(5ラウンド持続) グレネードや大型の発射体で倒したゾンビが吐かずにいられない"
 
 REFERENCE            BGB_PROJECTILE_VOMITING_FACTORY_CAPS
-LANG_ENGLISH         "大噴出"
+LANG_ENGLISH         "^6大^3噴^5出"
 
 REFERENCE            BGB_PROJECTILE_VOMITING_HINT
 LANG_ENGLISH         "5ラウンド持続 グレネードや大型の発射体で倒したゾンビが吐かずにいられない"
@@ -747,313 +264,40 @@ LANG_ENGLISH         "5ラウンド持続 グレネードや大型の発射体�
 REFERENCE            BGB_PROJECTILE_VOMITING_LOCKED
 LANG_ENGLISH         "^1Descent DLCパックが必要 ^7即時に発動(5ラウンド持続) グレネードや大型の発射体で倒したゾンビが吐かずにいられない"
 
-REFERENCE            BGB_PURCHASE_DLC
-LANG_ENGLISH         "このゴブルガムはDLC&&1を購入すると ドクター・モンティの工場で入手可能"
+REFERENCE            BGB_EYE_CANDY
+LANG_ENGLISH         "^6ス^3イ^5ッ^2チ"
 
-REFERENCE            BGB_PURCHASE_DLC_CLASSIC
-LANG_ENGLISH         "このゴブルガムはDLC&&1を購入すると装備可能"
+REFERENCE            BGB_EYE_CANDY_CAPS
+LANG_ENGLISH         "^6ス^3イ^5ッ^2チ"
 
-REFERENCE            BGB_PURCHASE_ZC
-LANG_ENGLISH         "このゴブルガムはZombies Chroniclesを購入すると装備可能"
+REFERENCE            BGB_EYE_CANDY_DESC
+LANG_ENGLISH         "^6変^3わ^5り^2種 ^7発動中(4x発動) 視界の色が塗り替えられる"
 
-REFERENCE            BGB_REIGN_DROPS
-LANG_ENGLISH         "完全無欠"
+REFERENCE            BGB_EYE_CANDY_FACTORY_CAPS
+LANG_ENGLISH         "^6ス^3イ^5ッ^2チ"
 
-REFERENCE            BGB_REIGN_DROPS_CAPS
-LANG_ENGLISH         "完全無欠"
+REFERENCE            BGB_EYE_CANDY_HINT
+LANG_ENGLISH         "^3[{+actionslot 1}]^7で発動 視界の色が塗り替えられる"
 
-REFERENCE            BGB_REIGN_DROPS_DESC
-LANG_ENGLISH         "^6超レアメガ ^7発動中(2x発動) 9つのコアパワーアップを各一つずつ出現させる"
-
-REFERENCE            BGB_REIGN_DROPS_FACTORY_CAPS
-LANG_ENGLISH         "完全無欠"
-
-REFERENCE            BGB_REIGN_DROPS_HINT
-LANG_ENGLISH         "^3[{+actionslot 1}]^7で発動 9つのコアパワーアップを各一つずつ出現させる"
-
-REFERENCE            BGB_REIGN_DROPS_LOCKED
-LANG_ENGLISH         "^1Zombies Chronicles拡張パックが必要 ^7発動中(2x発動) 9つのコアパワーアップを各一つずつ出現させる"
-
-REFERENCE            BGB_RESPIN_CYCLE
-LANG_ENGLISH         "再発注"
-
-REFERENCE            BGB_RESPIN_CYCLE_CAPS
-LANG_ENGLISH         "再発注"
-
-REFERENCE            BGB_RESPIN_CYCLE_DESC
-LANG_ENGLISH         "^2メガ ^7発動中(2x発動) 発動後にマジックボックスの武器を再びスピンさせる"
-
-REFERENCE            BGB_RESPIN_CYCLE_FACTORY_CAPS
-LANG_ENGLISH         "再発注"
-
-REFERENCE            BGB_RESPIN_CYCLE_HINT
-LANG_ENGLISH         "^3[{+actionslot 1}]^7で発動 マジックボックスの武器を再びスピンさせる"
-
-REFERENCE            BGB_ROUND_ROBBIN
-LANG_ENGLISH         "強制終了"
-
-REFERENCE            BGB_ROUND_ROBBIN_CAPS
-LANG_ENGLISH         "強制終了"
-
-REFERENCE            BGB_ROUND_ROBBIN_DESC
-LANG_ENGLISH         "^6超レアメガ ^7発動中(1x発動) 現在のラウンドを終了させ、全プレイヤーが1600ポイントを獲得する"
-
-REFERENCE            BGB_ROUND_ROBBIN_FACTORY_CAPS
-LANG_ENGLISH         "強制終了"
-
-REFERENCE            BGB_ROUND_ROBBIN_HINT
-LANG_ENGLISH         "^3[{+actionslot 1}]^7で発動 現在のラウンドを終了させ、全プレイヤーが1600ポイントを獲得する"
-
-REFERENCE            BGB_ROUND_ROBBIN_LOCKED
-LANG_ENGLISH         "^1Salvation DLCパックが必要 ^7発動中(1x発動) 現在のラウンドを終了させる"
-
-REFERENCE            BGB_SECRET_SHOPPER
-LANG_ENGLISH         "秘密の客"
-
-REFERENCE            BGB_SECRET_SHOPPER_CAPS
-LANG_ENGLISH         "秘密の客"
-
-REFERENCE            BGB_SECRET_SHOPPER_DESC
-LANG_ENGLISH         "^6超レアメガ ^7即時に発動(10分持続) ウォールバイであらゆる銃の弾薬を購入できる"
-
-REFERENCE            BGB_SECRET_SHOPPER_FACTORY_CAPS
-LANG_ENGLISH         "秘密の客"
-
-REFERENCE            BGB_SECRET_SHOPPER_HINT
-LANG_ENGLISH         "10分持続 ウォールバイであらゆる銃の弾薬を購入できる"
-
-REFERENCE            BGB_SECRET_SHOPPER_LOCKED
-LANG_ENGLISH         "^1Eclipse DLCパックが必要 ^7即時に発動(10分持続) ウォールバイであらゆる銃の弾薬を購入できる"
-
-REFERENCE            BGB_SELF_MEDICATION
-LANG_ENGLISH         "自己治療"
-
-REFERENCE            BGB_SELF_MEDICATION_CAPS
-LANG_ENGLISH         "自己治療"
-
-REFERENCE            BGB_SELF_MEDICATION_DESC
-LANG_ENGLISH         "^6超レアメガ ^7ラストスタンド中のキルによって自動で発動(3x発動) 全てのPERKを保持したまま、自分を自動で蘇生する"
-
-REFERENCE            BGB_SELF_MEDICATION_FACTORY_CAPS
-LANG_ENGLISH         "自己 治療"
-
-REFERENCE            BGB_SELF_MEDICATION_HINT
-LANG_ENGLISH         "ラストスタンド中のキルによって自動で発動 全てのPERKを保持したまま自動蘇生する"
-
-REFERENCE            BGB_SELF_MEDICATION_LOCKED
-LANG_ENGLISH         "^1Salvation DLCパックが必要 ^7ラストスタンド中に4キルを達成すると自動で発動 自分を自動蘇生する"
-
-REFERENCE            BGB_SHOPPING_FREE
-LANG_ENGLISH         "無料セール"
-
-REFERENCE            BGB_SHOPPING_FREE_CAPS
-LANG_ENGLISH         "無料セール"
-
-REFERENCE            BGB_SHOPPING_FREE_DESC
-LANG_ENGLISH         "^6超レアメガ ^7即時に発動(1分持続) 全ての購入が無料になる"
-
-REFERENCE            BGB_SHOPPING_FREE_FACTORY_CAPS
-LANG_ENGLISH         "無料セール"
-
-REFERENCE            BGB_SHOPPING_FREE_HINT
-LANG_ENGLISH         "1分持続 全ての購入が無料になる"
-
-REFERENCE            BGB_SHOPPING_FREE_LOCKED
-LANG_ENGLISH         "^1Descent DLCパックが必要 ^7即時に発動(1分持続) 全ての購入が無料になる"
-
-REFERENCE            BGB_SLAUGHTER_SLIDE
-LANG_ENGLISH         "危険な滑り"
-
-REFERENCE            BGB_SLAUGHTER_SLIDE_CAPS
-LANG_ENGLISH         "危険な滑り"
-
-REFERENCE            BGB_SLAUGHTER_SLIDE_DESC
-LANG_ENGLISH         "^2メガ ^7スライディング時に自動で発動(6x発動) スライディングで2つの強力な爆発が発生する"
-
-REFERENCE            BGB_SLAUGHTER_SLIDE_FACTORY_CAPS
-LANG_ENGLISH         "危険な滑り"
-
-REFERENCE            BGB_SLAUGHTER_SLIDE_HINT
-LANG_ENGLISH         "スライディング時に自動で発動 スライディングで2つの強力な爆発が発生する"
-
-REFERENCE            BGB_SLAUGHTER_SLIDE_LOCKED
-LANG_ENGLISH         "^1Descent DLCパックが必要 ^7スライディング時に自動で発動(6x発動) スライディングで2つの強力な爆発が発生する"
-
-REFERENCE            BGB_SODA_FOUNTAIN
-LANG_ENGLISH         "おまけPERK"
-
-REFERENCE            BGB_SODA_FOUNTAIN_CAPS
-LANG_ENGLISH         "おまけPERK"
-
-REFERENCE            BGB_SODA_FOUNTAIN_DESC
-LANG_ENGLISH         "^3レアメガ ^7PERK購入時に自動で発動(5x発動) 追加でPERKを購入できる。購入後に無料のPERKを入手可能"
-
-REFERENCE            BGB_SODA_FOUNTAIN_FACTORY_CAPS
-LANG_ENGLISH         "おまけPERK"
-
-REFERENCE            BGB_SODA_FOUNTAIN_HINT
-LANG_ENGLISH         "自動で発動 追加でPERKを購入できる。購入後に無料のPERKを入手可能"
-
-REFERENCE            BGB_SODA_FOUNTAIN_LOCKED
-LANG_ENGLISH         "^1Zombies Chronicles拡張パックが必要 ^7PERK購入時に自動で発動(5x発動) 追加でPERKを購入できる。購入後に無料のPERKを入手可能"
-
-REFERENCE            BGB_STOCK_OPTION
-LANG_ENGLISH         "ストック"
-
-REFERENCE            BGB_STOCK_OPTION_CAPS
-LANG_ENGLISH         "ストック"
-
-REFERENCE            BGB_STOCK_OPTION_DESC
-LANG_ENGLISH         "即時に発動(3分持続) 弾薬が武器のマガジンではなく、ストックから補充される"
-
-REFERENCE            BGB_STOCK_OPTION_FACTORY_CAPS
-LANG_ENGLISH         "ストック"
-
-REFERENCE            BGB_STOCK_OPTION_HINT
-LANG_ENGLISH         "3分持続 弾薬がマガジンではなくストックから補充される"
-
-REFERENCE            BGB_SWORD_FLAY
-LANG_ENGLISH         "凶暴化"
-
-REFERENCE            BGB_SWORD_FLAY_CAPS
-LANG_ENGLISH         "凶暴化"
-
-REFERENCE            BGB_SWORD_FLAY_DESC
-LANG_ENGLISH         "即時に発動(2分30秒持続) 近接攻撃でゾンビに与えるダメージが5倍になる"
-
-REFERENCE            BGB_SWORD_FLAY_FACTORY_CAPS
-LANG_ENGLISH         "凶暴化"
-
-REFERENCE            BGB_SWORD_FLAY_HINT
-LANG_ENGLISH         "2分30秒持続 近接攻撃のダメージが5倍になる"
-
-REFERENCE            BGB_TEMPORAL_GIFT
-LANG_ENGLISH         "時の恵み"
-
-REFERENCE            BGB_TEMPORAL_GIFT_CAPS
-LANG_ENGLISH         "時の恵み"
-
-REFERENCE            BGB_TEMPORAL_GIFT_DESC
-LANG_ENGLISH         "^3レアメガ ^7即時に発動(1ラウンド持続) パワーアップの持続時間が延びる"
-
-REFERENCE            BGB_TEMPORAL_GIFT_FACTORY_CAPS
-LANG_ENGLISH         "時の恵み"
-
-REFERENCE            BGB_TEMPORAL_GIFT_HINT
-LANG_ENGLISH         "1ラウンド持続 パワーアップの持続時間が延びる"
-
-REFERENCE            BGB_TEMPORAL_GIFT_LOCKED
-LANG_ENGLISH         "^1Eclipse DLCパックが必要 ^7即時に発動(1ラウンド持続) パワーアップの持続時間が延びる"
-
-REFERENCE            BGB_TOKENS_GAINED_REWARD
-LANG_ENGLISH         "+&&1 ディビニウム液"
-
-REFERENCE            BGB_TOKEN_AWARD_NOTIFICATION_DESC
-LANG_ENGLISH         "ドクター・モンティの工場で使用"
-
-REFERENCE            BGB_TOKEN_AWARD_NOTIFICATION_TITLE
-LANG_ENGLISH         "ディビニウム液"
+REFERENCE            BGB_EYE_CANDY_LOCKED
+LANG_ENGLISH         "^1Zombies Chronicles 拡張パックが必要 ^7発動中(4x発動) 視界の色が塗り替えられる"
 
 REFERENCE            BGB_TONE_DEATH
-LANG_ENGLISH         "死のトーン"
+LANG_ENGLISH         "^6死^3の^5ト^2ー^8ン"
 
 REFERENCE            BGB_TONE_DEATH_CAPS
-LANG_ENGLISH         "死のトーン"
+LANG_ENGLISH         "^6死^3の^5ト^2ー^8ン"
 
 REFERENCE            BGB_TONE_DEATH_DESC
 LANG_ENGLISH         "^6変^3わ^5り^2種 ^7ゾンビをキル時に自動で発動(25x発動) ゾンビをキルすると変わった効果音が流れる"
 
 REFERENCE            BGB_TONE_DEATH_FACTORY_CAPS
-LANG_ENGLISH         "死のトーン"
+LANG_ENGLISH         "^6死^3の^5ト^2ー^8ン"
 
 REFERENCE            BGB_TONE_DEATH_HINT
 LANG_ENGLISH         "ゾンビをキル時に自動で発動 ゾンビをキルすると変わった効果音が流れる"
 
 REFERENCE            BGB_TONE_DEATH_LOCKED
 LANG_ENGLISH         "^1Zombies Chronicles 拡張パックが必要 ^7ゾンビをキル時に自動で発動(25x発動) ゾンビをキルすると変わった効果音が流れる"
-
-REFERENCE            BGB_UNBEARABLE
-LANG_ENGLISH         "マジックマ"
-
-REFERENCE            BGB_UNBEARABLE_CAPS
-LANG_ENGLISH         "マジックマ"
-
-REFERENCE            BGB_UNBEARABLE_DESC
-LANG_ENGLISH         "^2メガ ^7マジックボックスにテディベアが出現すると発動 マジックボックスが自動で再スピンする。数回使用するまでマジックボックスが移動しない"
-
-REFERENCE            BGB_UNBEARABLE_FACTORY_CAPS
-LANG_ENGLISH         "マジックマ"
-
-REFERENCE            BGB_UNBEARABLE_HINT
-LANG_ENGLISH         "マジックボックスにテディベアが出現すると発動 マジックボックスが自動で再スピンする"
-
-REFERENCE            BGB_UNBEARABLE_LOCKED
-LANG_ENGLISH         "^1Eclipse DLCパックが必要 ^7マジックボックスにテディベアが出現すると発動 マジックボックスが自動で再スピンする。数回使用するまでマジックボックスが移動しない"
-
-REFERENCE            BGB_UNDEAD_MAN_WALKING
-LANG_ENGLISH         "死体歩き"
-
-REFERENCE            BGB_UNDEAD_MAN_WALKING_CAPS
-LANG_ENGLISH         "死体歩き"
-
-REFERENCE            BGB_UNDEAD_MAN_WALKING_DESC
-LANG_ENGLISH         "^3レアメガ ^7即時に発動(4分持続) 全ゾンビをよろよろ歩きにする"
-
-REFERENCE            BGB_UNDEAD_MAN_WALKING_FACTORY_CAPS
-LANG_ENGLISH         "死体歩き"
-
-REFERENCE            BGB_UNDEAD_MAN_WALKING_HINT
-LANG_ENGLISH         "4分持続 全ゾンビをよろよろ歩きにする"
-
-REFERENCE            BGB_UNDEAD_MAN_WALKING_LOCKED
-LANG_ENGLISH         "^1Awakening DLCパックが必要 ^7即時に発動(4分持続) 全ゾンビをよろよろ歩きにする"
-
-REFERENCE            BGB_UNQUENCHABLE
-LANG_ENGLISH         "プラスワン"
-
-REFERENCE            BGB_UNQUENCHABLE_CAPS
-LANG_ENGLISH         "プラスワン"
-
-REFERENCE            BGB_UNQUENCHABLE_DESC
-LANG_ENGLISH         "^2メガ ^7所持するPERKが最大時に発動 通常よりも1つ多くPERKを購入できる"
-
-REFERENCE            BGB_UNQUENCHABLE_FACTORY_CAPS
-LANG_ENGLISH         "プラスワン"
-
-REFERENCE            BGB_UNQUENCHABLE_HINT
-LANG_ENGLISH         "PERKを1つ多く購入できる"
-
-REFERENCE            BGB_WALL_POWER
-LANG_ENGLISH         "壁パンチ"
-
-REFERENCE            BGB_WALL_POWER_CAPS
-LANG_ENGLISH         "壁パンチ"
-
-REFERENCE            BGB_WALL_POWER_DESC
-LANG_ENGLISH         "^3レアメガ ^7次にウォールバイで銃を購入時に自動で発動 購入する銃に、パック・ア・パンチが付与される"
-
-REFERENCE            BGB_WALL_POWER_FACTORY_CAPS
-LANG_ENGLISH         "壁パンチ"
-
-REFERENCE            BGB_WALL_POWER_HINT
-LANG_ENGLISH         "銃をウォールバイで次回購入時に自動で発動 次にウォールバイで購入する銃にパック・ア・パンチが付与される"
-
-REFERENCE            BGB_WHOS_KEEPING_SCORE
-LANG_ENGLISH         "Wスコア"
-
-REFERENCE            BGB_WHOS_KEEPING_SCORE_CAPS
-LANG_ENGLISH         "Wスコア"
-
-REFERENCE            BGB_WHOS_KEEPING_SCORE_DESC
-LANG_ENGLISH         "^2メガ ^7発動中(2x発動) ダブルポイントのパワーアップを出現させる"
-
-REFERENCE            BGB_WHOS_KEEPING_SCORE_FACTORY_CAPS
-LANG_ENGLISH         "Wスコア"
-
-REFERENCE            BGB_WHOS_KEEPING_SCORE_HINT
-LANG_ENGLISH         "^3[{+actionslot 1}]^7で発動 ダブルポイントのパワーアップを出現させる"
-
-REFERENCE            BUBBLEGUM_CAPS
-LANG_ENGLISH         "ゴブルガム"
 
 ENDMARKER
