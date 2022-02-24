@@ -2022,4 +2022,1180 @@ LANG_ENGLISH         "[{+activate}]長押しで^5ラグナロク DG-4^7を拾う
 REFERENCE            CASTLE_GRAVITYSPIKE_PICKUP
 LANG_ENGLISH         "[{+activate}]長押しで^5ラグナロク DG-4^7を拾う"
 
+REFERENCE            ISLAND_CHALLENGE_2_4
+LANG_ENGLISH         "胞子に感染したゾンビをヘッドショットで10体倒す"
+
+REFERENCE            ISLAND_SKULL_PUT
+LANG_ENGLISH         "[{+activate}]でドクロを置く"
+
+REFERENCE            ISLAND_SPIDER_SELF_DESTRUCT
+LANG_ENGLISH         "[{+activate}]長押しでクモを放つ"
+
+REFERENCE            ISLAND_CHALLENGE_2_3
+LANG_ENGLISH         "植物に引き寄せられたゾンビを15体倒す"
+
+REFERENCE            ISLAND_WATER_PLANT
+LANG_ENGLISH         "[{+activate}]長押しで植物に水をやる"
+
+REFERENCE            ISLAND_PICKUP_GOLDEN_BUCKET
+LANG_ENGLISH         "[{+activate}]長押しで黄金のバケツを拾う"
+
+REFERENCE            ISLAND_SKULL_START
+LANG_ENGLISH         "[{+activate}]で儀式を開始"
+
+REFERENCE            ISLAND_MAIN_POWER_OFF
+LANG_ENGLISH         "まずはパワーをオンにしろ！"
+
+REFERENCE            ISLAND_CAGE_RAISE
+LANG_ENGLISH         "[{+activate}]長押しで檻を上げる"
+
+REFERENCE            ISLAND_TRAP_PROPTRAP_USE
+LANG_ENGLISH         "^3[{+activate}]^7長押しでプロペラトラップを起動[コスト: &&1]"
+
+REFERENCE            ISLAND_SKULL_CANT_GET
+LANG_ENGLISH         "ドクロは1つしか所持できない"
+
+REFERENCE            ISLAND_CALL_ELEVATOR
+LANG_ENGLISH         "[{+activate}]長押しでエレベーターを呼び出す"
+
+REFERENCE            ISLAND_PICKUP_BUCKET
+LANG_ENGLISH         "[{+activate}]長押しでバケツを拾う"
+
+REFERENCE            ISLAND_CAGE_LOWER
+LANG_ENGLISH         "[{+activate}]長押しで檻を下げる"
+
+REFERENCE            ISLAND_ELEVATOR_IN_USE
+LANG_ENGLISH         "エレベーターは使用中"
+
+REFERENCE            ISLAND_SEWER_IN_USE
+LANG_ENGLISH         "下水管 使用不可"
+
+REFERENCE            ISLAND_INVENTORY_TITLE_SHIELD
+LANG_ENGLISH         "シールド"
+
+REFERENCE            ISLAND_SPIDER_EQUIPMENT_PICKUP
+LANG_ENGLISH         "[{+activate}]長押しでクモの餌"
+
+REFERENCE            ISLAND_ELEVATOR_RECHARGING
+LANG_ENGLISH         "エレベーター 使用不可"
+
+REFERENCE            ISLAND_CHALLENGE_ALTAR_IN_USE
+LANG_ENGLISH         "祭壇は既に使用中"
+
+REFERENCE            ISLAND_CHALLENGE_3_5
+LANG_ENGLISH         "変異したゾンビ5体の頭を撃つ"
+
+REFERENCE            ISLAND_PLANT_SEED
+LANG_ENGLISH         "[{+activate}]長押しで種を植える"
+
+REFERENCE            ISLAND_TEAR_WEB
+LANG_ENGLISH         "[{+activate}]長押しで巣をはがす"
+
+REFERENCE            ISLAND_SKULL_VAPORIZE
+LANG_ENGLISH         "[{+attack}]で蒸発[{+speed_throw}]で催眠術"
+
+REFERENCE            ISLAND_INVENTORY_TITLE_GASMASK
+LANG_ENGLISH         "ガスマスク"
+
+REFERENCE            ISLAND_TRAP_PROPTRAP_REST
+LANG_ENGLISH         "プロペラトラップ 使用不可"
+
+REFERENCE            ISLAND_CHALLENGE_2_6
+LANG_ENGLISH         "換気扇トラップでゾンビを20体倒す"
+
+REFERENCE            ISLAND_NO_POWER
+LANG_ENGLISH         "まずはパワーをオンにしろ！"
+
+REFERENCE            ISLAND_CHALLENGE_1_3
+LANG_ENGLISH         "植物に水を5回やる"
+
+REFERENCE            ISLAND_WONDERWEAPON_UP_PICKUP
+LANG_ENGLISH         "[{+activate}]長押しでマサムネ"
+
+REFERENCE            ISLAND_INVENTORY_TITLE_MACHINETOOLS
+LANG_ENGLISH         "マシンツール"
+
+REFERENCE            ISLAND_WONDERWEAPON_AMMO
+LANG_ENGLISH         "[{+activate}]で調合物を作成"
+
+REFERENCE            ISLAND_FRUIT_PLANT
+LANG_ENGLISH         "[{+activate}]長押しでフルーツを食べる"
+
+REFERENCE            ISLAND_SEED_POWERUP_DENIED
+LANG_ENGLISH         "種はこれ以上所持できない"
+
+REFERENCE            ISLAND_CACHE_PLANT
+LANG_ENGLISH         "[{+activate}]長押しで収穫"
+
+REFERENCE            ISLAND_TEARING_WEB
+LANG_ENGLISH         "切り裂いている..."
+
+REFERENCE            ISLAND_PENSTOCK_DEBRIS
+LANG_ENGLISH         "まずは水中タービンの阻害物をどかせ"
+
+REFERENCE            ISLAND_TRAP_WALLTRAP_USE
+LANG_ENGLISH         "^3[{+activate}]^7長押しで換気扇トラップを起動[コスト: &&1]"
+
+REFERENCE            ISLAND_PLANT_BUCKET
+LANG_ENGLISH         "[{+activate}]長押しでバケツを植える"
+
+REFERENCE            ISLAND_BUNKER_DOOR_OPEN
+LANG_ENGLISH         "[{+activate}]長押しでバンカーのドアを開く"
+
+REFERENCE            ISLAND_CHALLENGE_3_2
+LANG_ENGLISH         "変異中のゾンビを3体倒す"
+
+REFERENCE            ISLAND_CHALLENGE_3_4
+LANG_ENGLISH         "飛行機トラップでゾンビを30体倒す"
+
+REFERENCE            ISLAND_TRAP_WALLTRAP_REST
+LANG_ENGLISH         "換気扇トラップ 使用不可"
+
+REFERENCE            ISLAND_TRIAL_COMPLETE
+LANG_ENGLISH         "試練完了"
+
+REFERENCE            ISLAND_CHALLENGE_2_5
+LANG_ENGLISH         "水中でゾンビを20体倒す"
+
+REFERENCE            ISLAND_POWER_SWITCH_NEEEDS_MORE_WATER
+LANG_ENGLISH         "ジェネレーターにはさらに汚染水が必要"
+
+REFERENCE            ISLAND_BUY_ZIPLINE
+LANG_ENGLISH         "[{+activate}]長押しでジップライン使用[コスト: &&1]"
+
+REFERENCE            ISLAND_SKULLQUEST_GET_SKULLGUN
+LANG_ENGLISH         "[{+activate}]長押しでスカル・オブ・ナン・サプウェ"
+
+REFERENCE            ISLAND_POWER_SWITCH_NEEEDS_WATER
+LANG_ENGLISH         "ジェネレーターには汚染水が必要"
+
+REFERENCE            ISLAND_CHALLENGE_3_3
+LANG_ENGLISH         "植物に実ったフルーツを食べる"
+
+REFERENCE            ISLAND_CHALLENGE_1_4
+LANG_ENGLISH         "胞子を5回撃つ"
+
+REFERENCE            ISLAND_CHALLENGE_REWARD
+LANG_ENGLISH         "[{+activate}]長押しで報酬獲得"
+
+REFERENCE            ISLAND_CLONE_PLANT
+LANG_ENGLISH         "[{+activate}]長押しでインプリント"
+
+REFERENCE            ISLAND_SKULL_MESMERIZE
+LANG_ENGLISH         "[{+speed_throw}]で催眠術"
+
+REFERENCE            ISLAND_CHALLENGE_1_5
+LANG_ENGLISH         "爆発物でクモの巣を5個破壊する"
+
+REFERENCE            ISLAND_CHALLENGE_3_1
+LANG_ENGLISH         "胞子でクモを8匹倒す"
+
+REFERENCE            ISLAND_WONDERWEAPON_STATION
+LANG_ENGLISH         "[{+activate}]長押しで材料を置く"
+
+REFERENCE            ISLAND_GASMASK_PICKUP
+LANG_ENGLISH         "[{+activate}]長押しでガスマスク"
+
+REFERENCE            ISLAND_CHALLENGE_2_1
+LANG_ENGLISH         "激怒する前の変異したゾンビを1体倒す"
+
+REFERENCE            ISLAND_CHALLENGE_1_2
+LANG_ENGLISH         "胞子を使用して水中で空気を得る"
+
+REFERENCE            ISLAND_WONDERWEAPON_PICKUP
+LANG_ENGLISH         "[{+activate}]長押しでクサナギの剣"
+
+REFERENCE            ISLAND_SEED_POWERUP
+LANG_ENGLISH         "種"
+
+REFERENCE            ISLAND_INVENTORY_TITLE_SKULL
+LANG_ENGLISH         "ドクロ"
+
+REFERENCE            ISLAND_SPIDER_QUEEN_WINE
+LANG_ENGLISH         "[{+activate}]長押しでウィドーズワイン"
+
+REFERENCE            ISLAND_USE_SEWER
+LANG_ENGLISH         "[{+activate}]長押しで下水管使用"
+
+REFERENCE            ISLAND_ZIPLINE_IN_USE
+LANG_ENGLISH         "ジップライン使用中"
+
+REFERENCE            ISLAND_SKULL_GET
+LANG_ENGLISH         "[{+activate}]でドクロ"
+
+REFERENCE            ISLAND_BUY_SEWER
+LANG_ENGLISH         "[{+activate}]長押しで下水管使用[コスト: &&1]"
+
+REFERENCE            ISLAND_TOOK_GASMASK
+LANG_ENGLISH         "ガスマスクは既に持っている"
+
+REFERENCE            ISLAND_FILL_BUCKET
+LANG_ENGLISH         "[{+activate}]長押しでバケツを満たす"
+
+REFERENCE            ISLAND_USE_ELEVATOR
+LANG_ENGLISH         "[{+activate}] 長押しでエレベーターを使用"
+
+REFERENCE            ISLAND_DRAIN_WATER
+LANG_ENGLISH         "[{+activate}]長押しで水を抜く"
+
+REFERENCE            ISLAND_CHALLENGE_1_1
+LANG_ENGLISH         "同じ植物に水を3回やる"
+
+REFERENCE            ISLAND_CHALLENGE_2_2
+LANG_ENGLISH         "植物からパワーアップを入手する"
+
+REFERENCE            ISLAND_CRAFT_GASMASK
+LANG_ENGLISH         "[{+activate}]長押しでガスマスクを作る"
+
+REFERENCE            ISLAND_INVENTORY_TITLE_BUCKET
+LANG_ENGLISH         "バケツ"
+
+REFERENCE            ISLAND_INVENTORY_TITLE_FNR
+LANG_ENGLISH         "草薙の剣KT-4"
+
+REFERENCE            STALINGRAD_SHIELD_HINT
+LANG_ENGLISH         "^3[{+melee}]^7近接攻撃^3[{+attack}]^7炎攻撃"
+
+REFERENCE            STALINGRAD_BRIDGE_USE
+LANG_ENGLISH         "[{+activate}]長押しで橋を使用[コスト: &&1]"
+
+REFERENCE            STALINGRAD_WEARABLE_WINGS_EQUIP
+LANG_ENGLISH         "[{+activate}]長押しでドラゴンウイングを装備"
+
+REFERENCE            STALINGRAD_CHALLENGE_1_3
+LANG_ENGLISH         "マングラー5体のアームキャノンを破壊しろ"
+
+REFERENCE            STALINGRAD_FLINGER_DISABLED
+LANG_ENGLISH         "ロックダウン中はトラップ無効"
+
+REFERENCE            STALINGRAD_MASTER_CYLINDER
+LANG_ENGLISH         "[{+activate}]長押しでマスターコードシリンダーを拾う"
+
+REFERENCE            STALINGRAD_DRAGON_STRIKE_UPGRADED_PICKUP
+LANG_ENGLISH         "[{+activate}]長押しでドラコナイト・コントローラーを装備"
+
+REFERENCE            STALINGRAD_CHALLENGE_1_5
+LANG_ENGLISH         "マングラー5体のヘルメットを破壊しろ"
+
+REFERENCE            STALINGRAD_SHIELD_UPGRADE
+LANG_ENGLISH         "[{+activate}]長押しでファフニール・ガードをアップグレード"
+
+REFERENCE            STALINGRAD_KEY_CARD_DEPOSIT
+LANG_ENGLISH         "[{+activate}]長押しでキーカードを預ける"
+
+REFERENCE            STALINGRAD_EYE_BEAM_TRAP
+LANG_ENGLISH         "[{+activate}]長押しでギガントアイビームトラップを起動[コスト: &&1]"
+
+REFERENCE            STALINGRAD_SHIELD_TAKEN
+LANG_ENGLISH         "ファフニール・ガードを入手"
+
+REFERENCE            STALINGRAD_KEY_CARD
+LANG_ENGLISH         "[{+activate}]長押しでキーカードを取る"
+
+REFERENCE            STALINGRAD_CHALLENGE_1_2
+LANG_ENGLISH         "各プラットフォームでドラゴンに乗れ"
+
+REFERENCE            STALINGRAD_CHALLENGE_4_2
+LANG_ENGLISH         "ドラゴンの卵を炎にさらせ"
+
+REFERENCE            STALINGRAD_MOUNTED_MG_COOLDOWN
+LANG_ENGLISH         "MG-42 クールダウン中"
+
+REFERENCE            STALINGRAD_CHALLENGE_REWARD_TAKE
+LANG_ENGLISH         "[{+activate}]長押しで報酬を取る"
+
+REFERENCE            STALINGRAD_SHIELD_PICKUP
+LANG_ENGLISH         "[{+activate}]長押しでファフニール・ガードを装備"
+
+REFERENCE            STALINGRAD_DROP_POD_WAYPOINT
+LANG_ENGLISH         "グロフ・モジュールを回収"
+
+REFERENCE            STALINGRAD_DRAGONSHIELD
+LANG_ENGLISH         "ファフニール・ガード"
+
+REFERENCE            STALINGRAD_INVENTORY_SLOT02
+LANG_ENGLISH         "ドラゴンシールド"
+
+REFERENCE            STALINGRAD_LOC_OPERATIONS_BUNKER
+LANG_ENGLISH         "オペレーション・バンカー"
+
+REFERENCE            STALINGRAD_CONSOLE_DRAGON_BUSY
+LANG_ENGLISH         "今はドラゴンを呼べない"
+
+REFERENCE            STALINGRAD_DRAGON_STRIKE_UPGRADED_UNLOCK
+LANG_ENGLISH         "[{+activate}]長押しでコンソール起動"
+
+REFERENCE            STALINGRAD_CONSOLE_DISABLED
+LANG_ENGLISH         "コンソール停止"
+
+REFERENCE            STALINGRAD_CARGO_DEPOSIT
+LANG_ENGLISH         "[{+activate}]長押しで積荷を預ける"
+
+REFERENCE            STALINGRAD_CODE_CYLINER_HINT
+LANG_ENGLISH         "コードシリンダー"
+
+REFERENCE            STALINGRAD_INVENTORY_SLOT01
+LANG_ENGLISH         "コードシリンダー"
+
+REFERENCE            STALINGRAD_INVENTORY_SLOT04
+LANG_ENGLISH         "ドラゴンの卵"
+
+REFERENCE            STALINGRAD_EE_WONDERWEAPON
+LANG_ENGLISH         "Akai Nishin"
+
+REFERENCE            STALINGRAD_GENERATOR
+LANG_ENGLISH         "[{+activate}]長押しでジェネレーターを起動"
+
+REFERENCE            STALINGRAD_GRAVE_FIRE
+LANG_ENGLISH         "[{+activate}]長押しで???"
+
+REFERENCE            STALINGRAD_BRIDGE_UNAVAILABLE
+LANG_ENGLISH         "橋は使用中"
+
+REFERENCE            STALINGRAD_CHALLENGE_REWARD
+LANG_ENGLISH         "[{+activate}]長押しで報酬"
+
+REFERENCE            STALINGRAD_CONSOLE_COOLDOWN
+LANG_ENGLISH         "コンソール クールダウン中"
+
+REFERENCE            STALINGRAD_CHALLENGE_COMPLETE
+LANG_ENGLISH         "試練完了"
+
+REFERENCE            STALINGRAD_DRAGON_STRIKE_USE
+LANG_ENGLISH         "[{+attack}]でドラゴンストライク"
+
+REFERENCE            STALINGRAD_CHALLENGE_1_4
+LANG_ENGLISH         "緑色のグロフ・モジュールポッドを3個回収しろ"
+
+REFERENCE            STALINGRAD_CHALLENGE_2_2
+LANG_ENGLISH         "ファフニール・ガードでゾンビを30体倒せ"
+
+REFERENCE            STALINGRAD_SHIELD_UPGRADE_TAKEN
+LANG_ENGLISH         "ティアマト・モーを入手"
+
+REFERENCE            STALINGRAD_EE_OLD_ONE
+LANG_ENGLISH         "エルダーゴッドレイ"
+
+REFERENCE            STALINGRAD_CHALLENGE_4_6
+LANG_ENGLISH         "ドラゴンの卵を孵化させろ"
+
+REFERENCE            STALINGRAD_PICKUP_BOTTLE
+LANG_ENGLISH         "^3[{+activate}]^7長押しでシールドをリチャージ"
+
+REFERENCE            STALINGRAD_CHALLENGE_1_1
+LANG_ENGLISH         "ヘッドショットでナパームゾンビを10体倒せ"
+
+REFERENCE            STALINGRAD_MOUNTED_MG_ACTIVATE
+LANG_ENGLISH         "[{+activate}]長押しでMG-42を使用[コスト: &&1]"
+
+REFERENCE            STALINGRAD_MASTER_PASSWORD
+LANG_ENGLISH         "[{+activate}]長押しでパスワード確認"
+
+REFERENCE            STALINGRAD_SHIELD_UPGRADE_PICKUP
+LANG_ENGLISH         "[{+activate}]長押しでティアマト・モーを装備"
+
+REFERENCE            STALINGRAD_EGG_PICKUP
+LANG_ENGLISH         "[{+activate}]長押しでドラゴンの卵を拾う"
+
+REFERENCE            STALINGRAD_DRAGON_STRIKE_UP
+LANG_ENGLISH         "ドラコナイト・コントローラーを利用可能"
+
+REFERENCE            STALINGRAD_DRAGON_STRIKE_UNLOCK_INCOMPLETE
+LANG_ENGLISH         "全プレイヤーが同時にアンロックボタンを押す必要がある"
+
+REFERENCE            STALINGRAD_ENABLE_DRAGONRIDE_DEBUG
+LANG_ENGLISH         "[{+activate}]長押しでドラゴンライドデバッグを有効化"
+
+REFERENCE            STALINGRAD_EGG_TOO_HOT
+LANG_ENGLISH         "ドラゴンの卵を冷やす必要がある"
+
+REFERENCE            STALINGRAD_CHALLENGE_4_3
+LANG_ENGLISH         "ナパームゾンビを倒せ"
+
+REFERENCE            STALINGRAD_WINGS_TRANSPORT
+LANG_ENGLISH         "[{+activate}]長押しで孵卵場に移動"
+
+REFERENCE            STALINGRAD_DRAGON_STRIKE_UNLOCK
+LANG_ENGLISH         "[{+activate}]長押しでクリスタルを使用"
+
+REFERENCE            STALINGRAD_CHALLENGE_2_1
+LANG_ENGLISH         "下に滑り込み3秒以内にフィンガーで10体倒せ"
+
+REFERENCE            STALINGRAD_DRAGON_STRIKE_UNAVAILABLE
+LANG_ENGLISH         "ドラゴンストライクは利用できない"
+
+REFERENCE            STALINGRAD_DRAGON_STRIKE_PICKUP
+LANG_ENGLISH         "[{+activate}]長押しでドラゴンストライク・コントローラー"
+
+REFERENCE            STALINGRAD_DRAGON_STRIKE_INVALID
+LANG_ENGLISH         "ドラゴンストライクの位置が無効"
+
+REFERENCE            STALINGRAD_DRAGON_STRIKE_EQUIP
+LANG_ENGLISH         "[{+actionslot 4}] 長押しでドラゴンストライク・コントローラーを装備"
+
+REFERENCE            STALINGRAD_DRAGON_STRIKE_BUSY
+LANG_ENGLISH         "ドラゴンストライク接近！"
+
+REFERENCE            STALINGRAD_DRAGONSHIELD_UPGRADED
+LANG_ENGLISH         "ティアマト・モー"
+
+REFERENCE            STALINGRAD_EGG_LOCKDOWN_ACTIVE
+LANG_ENGLISH         "孵卵機停止"
+
+REFERENCE            STALINGRAD_EE_CROCUTA
+LANG_ENGLISH         "Doko mite iru?"
+
+REFERENCE            STALINGRAD_EGG_INCUBATE
+LANG_ENGLISH         "[{+activate}]長押しでドラゴンの卵を孵化させる"
+
+REFERENCE            STALINGRAD_FLINGER_TRAP_USE
+LANG_ENGLISH         "[{+activate}]長押しでエアートラップを起動[コスト: &&1]"
+
+REFERENCE            STALINGRAD_DROP_POD_INCORRECT_CYLINDER
+LANG_ENGLISH         "間違った色のコードシリンダー"
+
+REFERENCE            STALINGRAD_FINGER_TRAP
+LANG_ENGLISH         "[{+activate}]長押しでギガントフィンガートラップを起動[コスト: &&1]"
+
+REFERENCE            STALINGRAD_SHIELD_CRAFT
+LANG_ENGLISH         "[{+activate}]長押しでファフニール・ガードを作る"
+
+REFERENCE            STALINGRAD_RIDE_DRAGON
+LANG_ENGLISH         "[{+activate}]長押しでドラゴンに乗る"
+
+REFERENCE            STALINGRAD_CHALLENGE_1_6
+LANG_ENGLISH         "ドラゴンの炎でダメージを受けて生き延びろ"
+
+REFERENCE            STALINGRAD_WEARABLE_VALKYRIE_HAT_EQUIP
+LANG_ENGLISH         "[{+activate}]長押しでヴァルキリードローンハットを装備"
+
+REFERENCE            STALINGRAD_WEARABLE_VALKYRIE_HAT_EFFECTS
+LANG_ENGLISH         "ヴァルキリードローンへのダメージ+30%ヴァルキリードローンからのダメージ50%軽減電撃ダメージ50%軽減"
+
+REFERENCE            STALINGRAD_WEARABLE_RAZ_MASK_EQUIP
+LANG_ENGLISH         "[{+activate}]長押しでマスクを装備"
+
+REFERENCE            STALINGRAD_WEARABLE_RAZ_MASK_EFFECTS
+LANG_ENGLISH         "ロシアンマングラーソルジャーへのダメージ+30%ロシアンマングラーソルジャーからのダメージ50%軽減"
+
+REFERENCE            STALINGRAD_WEARABLE_EQUIPPED
+LANG_ENGLISH         "装備済み"
+
+REFERENCE            STALINGRAD_WEAPON_DRAGON_GAUNTLET_NAME
+LANG_ENGLISH         "ドラゴンガントレット"
+
+REFERENCE            STALINGRAD_WEAPON_CORES
+LANG_ENGLISH         "[{+activate}]長押しでパワーコアを取る"
+
+REFERENCE            STALINGRAD_EGG_PLACE
+LANG_ENGLISH         "[{+activate}]長押しでドラゴンの卵を置く"
+
+REFERENCE            STALINGRAD_TRIALS_COMPLETED
+LANG_ENGLISH         "試練完了"
+
+REFERENCE            STALINGRAD_TRAP_COOLDOWN
+LANG_ENGLISH         "トラップはリチャージ中"
+
+REFERENCE            STALINGRAD_CHALLENGE_4_4
+LANG_ENGLISH         "貫通マルチキルを達成しろ"
+
+REFERENCE            STALINGRAD_CHALLENGE_4_5
+LANG_ENGLISH         "近接キルを達成しろ"
+
+REFERENCE            STALINGRAD_WEARABLE_WINGS_EFFECTS
+LANG_ENGLISH         "爆発ダメージ耐性30%火炎ダメージ耐性30%"
+
+REFERENCE            STALINGRAD_DROP_POD_RADIO_DISABLED
+LANG_ENGLISH         "端末停止"
+
+REFERENCE            STALINGRAD_DRAGONRIDE_TRANSMITTER
+LANG_ENGLISH         "[{+activate}]長押しでネットワーク回路"
+
+REFERENCE            STALINGRAD_DRAGONRIDE_MAP
+LANG_ENGLISH         "[{+activate}]長押しでネットワーク回路"
+
+REFERENCE            STALINGRAD_DRAGONRIDE_CRAFT
+LANG_ENGLISH         "[{+activate}]長押しでネットワーク回路を置く"
+
+REFERENCE            STALINGRAD_DRAGONRIDE_CODES
+LANG_ENGLISH         "[{+activate}]長押しでネットワーク回路"
+
+REFERENCE            STALINGRAD_DOWNLOAD_PROGRESS
+LANG_ENGLISH         "ダウンロード進行状況"
+
+REFERENCE            STALINGRAD_CHALLENGE_4_1
+LANG_ENGLISH         "ドラゴンの卵を手に入れろ"
+
+REFERENCE            STALINGRAD_DEFEND_CARGO
+LANG_ENGLISH         "[{+activate}]長押しで積荷を拾う"
+
+REFERENCE            STALINGRAD_CONSOLE_DRAGON_TAKE_OFF_COUNTDOWN
+LANG_ENGLISH         "ドラゴンはまもなく離陸"
+
+REFERENCE            STALINGRAD_CONSOLE_DRAGON_SUMMON
+LANG_ENGLISH         "[{+activate}]長押しでドラゴンを呼ぶ[コスト: &&1]"
+
+REFERENCE            STALINGRAD_CONSOLE_DRAGON_ON_THE_WAY
+LANG_ENGLISH         "ドラゴンはプラットフォームに向かっている"
+
+REFERENCE            STALINGRAD_CONSOLE_DRAGON_ENROUTE_PAVLOVS
+LANG_ENGLISH         "ドラゴンは孵卵場に向かっている"
+
+REFERENCE            STALINGRAD_CHALLENGE_3_6
+LANG_ENGLISH         "ヴァルキリードローン6機のカメラを破壊しろ"
+
+REFERENCE            STALINGRAD_CONSOLE_DRAGON_ARRIVED
+LANG_ENGLISH         "ドラゴンが到着した"
+
+REFERENCE            STALINGRAD_CHALLENGE_3_5
+LANG_ENGLISH         "ヴァルキリードローン6機の全アームを破壊しろ"
+
+REFERENCE            STALINGRAD_DROP_POD_CYLINDER_REQUIRED
+LANG_ENGLISH         "コードシリンダーが必要"
+
+REFERENCE            STALINGRAD_DROP_POD_CYLINDER_ACQUIRED_YELLOW
+LANG_ENGLISH         "補給所のコードシリンダーを入手"
+
+REFERENCE            STALINGRAD_DROP_POD_CYLINDER_ACQUIRED_RED
+LANG_ENGLISH         "戦車工場のコードシリンダーを入手"
+
+REFERENCE            STALINGRAD_DROP_POD_CYLINDER_ACQUIRED_BLUE
+LANG_ENGLISH         "ドラゴンコマンドのコードシリンダーを入手"
+
+REFERENCE            STALINGRAD_DROP_POD_ACTIVE
+LANG_ENGLISH         "グロフ・モジュールは既に有効"
+
+REFERENCE            STALINGRAD_DROP_POD_ACTIVATE
+LANG_ENGLISH         "[{+activate}]長押しでグロフ・モジュール"
+
+REFERENCE            STALINGRAD_CHALLENGE_3_4
+LANG_ENGLISH         "機銃のMG-42でゾンビを60体倒せ"
+
+REFERENCE            STALINGRAD_CHALLENGE_3_3
+LANG_ENGLISH         "ドラゴンストライクでゾンビを100体倒せ"
+
+REFERENCE            STALINGRAD_CHALLENGE_3_2
+LANG_ENGLISH         "各エアートラップでゾンビを3体同時に倒せ"
+
+REFERENCE            STALINGRAD_POWER_REQUIRED
+LANG_ENGLISH         "まずはパワーをオンにしろ！"
+
+REFERENCE            STALINGRAD_CHALLENGE_3_1
+LANG_ENGLISH         "孵卵場でフルラウンドを4連続で生き延びろ"
+
+REFERENCE            STALINGRAD_CHALLENGE_2_6
+LANG_ENGLISH         "エレベーターを使ってゾンビを8体同時に倒せ"
+
+REFERENCE            STALINGRAD_EGG_RETRIEVE
+LANG_ENGLISH         "[{+activate}]長押しでドラゴンの卵を取り出す "
+
+REFERENCE            STALINGRAD_CHALLENGE_2_5
+LANG_ENGLISH         "ヘッドショットで感電ゾンビを10体倒せ"
+
+REFERENCE            STALINGRAD_CHALLENGE_2_4
+LANG_ENGLISH         "ファフニール・ガードで炎を45秒吸収しろ"
+
+REFERENCE            STALINGRAD_CHALLENGE_2_3
+LANG_ENGLISH         "ギガントアイビームでゾンビを40体倒せ"
+
+REFERENCE            STALINGRAD_INVENTORY_SLOT03
+LANG_ENGLISH         "ドラゴンネットワーク・コントローラー"
+
+REFERENCE            GENESIS_SKULL_TURRET_COOLDOWN
+LANG_ENGLISH         "ターレット クールダウン中"
+
+REFERENCE            GENESIS_CHALLENGE_COMPLETE
+LANG_ENGLISH         "チャレンジ完了"
+
+REFERENCE            GENESIS_PAP_TP_ACTIVATE
+LANG_ENGLISH         "[{+activate}]長押しでPAPの欠片をテレポート"
+
+REFERENCE            CASTLE_REBUILD_LOCKED
+LANG_ENGLISH         "まずは電力の復旧が必要"
+
+REFERENCE            GENESIS_APOTHICON_DOOR
+LANG_ENGLISH         "このドアは別の場所から開けられる"
+
+REFERENCE            GENESIS_POWER_RITUAL_START
+LANG_ENGLISH         "^3[{+activate}]^7長押しで力の儀式を開始"
+
+REFERENCE            CASTLE_DEATH_RAY_MANUAL_OFF
+LANG_ENGLISH         "[{+activate}] 長押しでデス・レイ停止"
+
+REFERENCE            GENESIS_CHALLENGE_1_5
+LANG_ENGLISH         "ヘッドショットでアポシコン・フューリーを10体倒せ"
+
+REFERENCE            CASTLE_SUMMONING_KEY_PLACE
+LANG_ENGLISH         "[{+activate}]長押しで召喚の鍵を置く"
+
+REFERENCE            CASTLE_PICK_UP_WIND_BOW
+LANG_ENGLISH         "^3[{+activate}]^7長押しでクリーホロ・ル・クリーマサリートに切り替え"
+
+REFERENCE            GENESIS_WEARABLE_HELM_OF_SIEGFRIED_EFFECTS
+LANG_ENGLISH         "ゾンビからのヒット+1"
+
+REFERENCE            GENESIS_POWER_RITUAL_STOP
+LANG_ENGLISH         "^3[{+activate}]^7長押しで力の儀式を中止"
+
+REFERENCE            CASTLE_MASHER_POWER
+LANG_ENGLISH         "まずはパワーをオンにしろ"
+
+REFERENCE            GENESIS_FLING_AVAILABLE_COST
+LANG_ENGLISH         "[{+activate}]長押しでパッドを起動[コスト: &&1]"
+
+REFERENCE            GENESIS_GRAVITYSPIKE_PART_SPIKE
+LANG_ENGLISH         "[{+activate}]長押しでスパイクを拾う"
+
+REFERENCE            CASTLE_RETURN_ICE_BOW
+LANG_ENGLISH         "^3[{+activate}]^7長押しでクリーアホアム・ナル・アムホガロックを戻す"
+
+REFERENCE            GENESIS_APOTHICON_TRAP_READY
+LANG_ENGLISH         "^3[{+activate}]^7でテスラ・デス・レイ発射"
+
+REFERENCE            GENESIS_ENTER_BEAST_MODE
+LANG_ENGLISH         "^3[{+activate}]^7長押しでビーストになる"
+
+REFERENCE            CASTLE_DEMON_VO_SOULS
+LANG_ENGLISH         "^1悪魔の声: ^7壊れた魂を犠牲に、我に名誉を"
+
+REFERENCE            GENESIS_ROBOT_PAY_TOWARDS
+LANG_ENGLISH         "^3[{+activate}]^7長押しで召喚の祭壇に捧げる[コスト: &&1]"
+
+REFERENCE            CASTLE_DEMON_VO_NAME
+LANG_ENGLISH         "^1悪魔の声: ^7我が名を知っているものたちだ。集めて刻み込め"
+
+REFERENCE            GENESIS_DEATH_RAY_COOLDOWN
+LANG_ENGLISH         "デス・レイ クールダウン中"
+
+REFERENCE            CASTLE_BIND_TO_QUEST
+LANG_ENGLISH         "[{+activate}]長押しでアップグレードクエストに割り当て"
+
+REFERENCE            GENESIS_CHALLENGE_3_6
+LANG_ENGLISH         "キルせずにコラプションエンジンをクリアしろ"
+
+REFERENCE            GENESIS_MASHER_POWER
+LANG_ENGLISH         "まずはパワーをオンにしろ"
+
+REFERENCE            CASTLE_GRAVITYSPIKE_A10_SWITCH
+LANG_ENGLISH         "[{+activate}]長押しでスイッチを起動"
+
+REFERENCE            GENESIS_EXIT_BEAST_MODE_HINT_COOP
+LANG_ENGLISH         "^3[{+dwattack_right}]^7でグラップル ^3[{+dwattack_left}]^7で稲妻を放つ^3[{+melee}]^7で近接攻撃^3[{+activate}]^7長押しでチームメイトを蘇生^3[{+stance}]^7長押しで人間に戻る"
+
+REFERENCE            CASTLE_ALREADY_HAVE_BOW_UPGRADE
+LANG_ENGLISH         "既にアップグレードした弓を持っている"
+
+REFERENCE            CASTLE_PAP_TP_AWAY
+LANG_ENGLISH         "パック・ア・パンチは別のプラットフォームにある"
+
+REFERENCE            CASTLE_PAP_TP_ACTIVATE
+LANG_ENGLISH         "[{+activate}]長押しでPAPの欠片をテレポート"
+
+REFERENCE            CASTLE_PICK_UP_BASE_BOW
+LANG_ENGLISH         "^3[{+activate}]^7長押しで太古の怒りに切り替え"
+
+REFERENCE            GENESIS_DEATH_RAY_TRAP
+LANG_ENGLISH         "[{+activate}] 長押しでデス・レイ起動[コスト: &&1]"
+
+REFERENCE            GENESIS_GATEWORM
+LANG_ENGLISH         "ゲートワーム"
+
+REFERENCE            CASTLE_DEATH_RAY_COOLDOWN
+LANG_ENGLISH         "デス・レイ クールダウン中"
+
+REFERENCE            CASTLE_REFORGED_ARROW
+LANG_ENGLISH         "[{+activate}]長押しで鍛え直した矢を取る"
+
+REFERENCE            GENESIS_AREA_NAME_CASTLE
+LANG_ENGLISH         "アサイラム"
+
+REFERENCE            GENESIS_GRAVITYSPIKE_PART_CASING
+LANG_ENGLISH         "[{+activate}]長押しでケーシングを拾う"
+
+REFERENCE            CASTLE_BOW_UPGRADE_PLACE_CRYSTAL_LIGHTNING
+LANG_ENGLISH         "^3[{+activate}]^7長押しでライトニングクリスタルをチャージ"
+
+REFERENCE            CASTLE_SUMMONING_KEY_TAKE
+LANG_ENGLISH         "[{+activate}]長押しで召喚の鍵を取る"
+
+REFERENCE            CASTLE_PAP_TP_UNAVAILABLE
+LANG_ENGLISH         "テレポーターは使用中"
+
+REFERENCE            GENESIS_AREA_NAME_TEMPLE
+LANG_ENGLISH         "寺院"
+
+REFERENCE            CASTLE_DEMON_VO_NAME_CORRECT
+LANG_ENGLISH         "^1悪魔の声: ^7それが... 我が名だ"
+
+REFERENCE            GENESIS_CHALLENGE_REWARD
+LANG_ENGLISH         "[{+activate}]長押しで報酬を見る"
+
+REFERENCE            GENESIS_PICKUP_EGG
+LANG_ENGLISH         "[{+activate}]長押しで卵を拾う"
+
+REFERENCE            CASTLE_BOW_UPGRADE_PICKUP_CRYSTAL_ICE
+LANG_ENGLISH         "[{+activate}]長押しでアイスクリスタルを拾う"
+
+REFERENCE            CASTLE_MASHER_UNAVAILABLE
+LANG_ENGLISH         "マッシャーゲートが閉じている"
+
+REFERENCE            GENESIS_MASHER_COOLDOWN
+LANG_ENGLISH         "トラップ クールダウン中"
+
+REFERENCE            GENESIS_MASHER_TRAP
+LANG_ENGLISH         "[{+activate}]長押しでゲート起動[コスト: &&1]"
+
+REFERENCE            CASTLE_TRAM_TOKEN_POWERUP
+LANG_ENGLISH         "ヒューズ"
+
+REFERENCE            GENESIS_CHALLENGE_3_1
+LANG_ENGLISH         "現在いる場所とは違う島でゾンビを5体倒せ"
+
+REFERENCE            CASTLE_PICK_UP_FIRE_BOW
+LANG_ENGLISH         "^3[{+activate}]^7長押しでクリーガカリート・ル・ゴサタームに切り替え"
+
+REFERENCE            GENESIS_ROBOT_ONCALL_IN
+LANG_ENGLISH         "キーパープロテクターは&&1で待機中"
+
+REFERENCE            GENESIS_LEVEL_END
+LANG_ENGLISH         "ロケット発射！"
+
+REFERENCE            CASTLE_TRAM_REQUIRES_TOKEN
+LANG_ENGLISH         "トラムのヒューズが必要"
+
+REFERENCE            CASTLE_PICKUP_BOTTLE
+LANG_ENGLISH         "^3[{+activate}]^7長押しでシールドをリチャージ"
+
+REFERENCE            CASTLE_TRAM_MOVING
+LANG_ENGLISH         "トラム移動中"
+
+REFERENCE            CASTLE_RETURN_LIGHTNING_BOW
+LANG_ENGLISH         "^3[{+activate}]^7長押しでクリーマハム・ラ・アーマームを戻す"
+
+REFERENCE            GENESIS_CHALLENGE_1_4
+LANG_ENGLISH         "アポシコンで卵を孵化させろ"
+
+REFERENCE            GENESIS_ROBOT_NEEDS_POWER
+LANG_ENGLISH         "召喚の祭壇 利用不可"
+
+REFERENCE            GENESIS_PLACE_AN_EGG
+LANG_ENGLISH         "^3[{+activate}]^7長押しで卵を置く"
+
+REFERENCE            GENESIS_GRAVITYSPIKE_USE_HINT
+LANG_ENGLISH         "^3[{+ability}]^7でRagnarok DG-4を使用"
+
+REFERENCE            GENESIS_DRAGON_GAUNTLET_MELEE_HINT
+LANG_ENGLISH         "^3[{+attack}]^7または^3[{+melee}]^7 115パンチ^3[{+speed_throw}]^7 ウェルプを呼び戻す"
+
+REFERENCE            CASTLE_BOW_UPGRADE_PLACE_CRYSTAL_WIND
+LANG_ENGLISH         "^3[{+activate}]^7長押しでウインドクリスタルをチャージ"
+
+REFERENCE            GENESIS_CHALLENGE_2_3
+LANG_ENGLISH         "アポシコンで3ラウンド生き延びろ"
+
+REFERENCE            GENESIS_CHALLENGE_3_4
+LANG_ENGLISH         "各エレメントのマルグワをそれぞれ倒せ"
+
+REFERENCE            CASTLE_TELEPORT_USE
+LANG_ENGLISH         "[{+activate}]長押しでテレポート[コスト: &&1]"
+
+REFERENCE            GENESIS_CHALLENGE_2_8
+LANG_ENGLISH         "クモを15匹倒せ"
+
+REFERENCE            GENESIS_DRAGON_GAUNTLET_USE_HINT
+LANG_ENGLISH         "^3[{+ability}]^7でドラゴンガントレットを使用"
+
+REFERENCE            GENESIS_WEARABLE_MARGWA_HEAD_EFFECTS
+LANG_ENGLISH         "全マルグワからの攻撃ダメージ50%軽減マルグワ頭部へののダメージ33%増ダッシュ持続時間上昇"
+
+REFERENCE            CASTLE_TELEPORT_LOCKED
+LANG_ENGLISH         "ロケット試験発射中はテレポート使用不可"
+
+REFERENCE            CASTLE_GRAVITYSPIKE_ALREADY_HAVE
+LANG_ENGLISH         "Ragnarok DG-4は既に持っている"
+
+REFERENCE            GENESIS_POWER_COST
+LANG_ENGLISH         "[{+activate}]長押しでコラプションエンジンをオーバーライド[コスト: &&1]"
+
+REFERENCE            GENESIS_CHALLENGE_2_9
+LANG_ENGLISH         "アポシコン内で15分生き延びろ"
+
+REFERENCE            CASTLE_BOW_INSTRUCTIONS
+LANG_ENGLISH         "^3[{+attack}]^7で撃つ^3[{+attack}]^7長押しでチャージショットチャージショットは矢を多く使用する"
+
+REFERENCE            CASTLE_BOW_UPGRADE_PLACE_CRYSTAL_ICE
+LANG_ENGLISH         "^3[{+activate}]^7長押しでアイスクリスタルをチャージ"
+
+REFERENCE            CASTLE_DEMON_VO_CROWN
+LANG_ENGLISH         "^1悪魔の声: ^7クラウン"
+
+REFERENCE            CASTLE_DEMON_VO_RELEASE
+LANG_ENGLISH         "^1悪魔の声: ^7我を解放せよ"
+
+REFERENCE            GENESIS_CHALLENGE_1_8
+LANG_ENGLISH         "ドラゴンシールドを装備しろ"
+
+REFERENCE            CASTLE_DEMON_VO_NAME_INCORRECT
+LANG_ENGLISH         "^1悪魔の声: ^7それは... 我が名ではない！！"
+
+REFERENCE            CASTLE_RETURN_FIRE_BOW
+LANG_ENGLISH         "^3[{+activate}]^7長押しでクリーガカリート・ル・ゴサタームを戻す"
+
+REFERENCE            GENESIS_FLINGER_TRAP_USE
+LANG_ENGLISH         "[{+activate}]長押しでエアートラップを起動[コスト: &&1]"
+
+REFERENCE            GENESIS_WEARABLE_DIRE_WOLF_HEAD_EFFECTS
+LANG_ENGLISH         "ダッシュ持続時間上昇"
+
+REFERENCE            GENESIS_CALLBOX_PICKUP_PART
+LANG_ENGLISH         "^3[{+activate}]^7長押しで召喚の祭壇のパーツを拾う"
+
+REFERENCE            CASTLE_BOW_UPGRADE_INITIATE
+LANG_ENGLISH         "[{+activate}]長押しでアップグレード開始"
+
+REFERENCE            GENESIS_WEARABLE_WEASELS_HAT_EFFECTS
+LANG_ENGLISH         "アルズハット"
+
+REFERENCE            GENESIS_EGG_DENY
+LANG_ENGLISH         "ゲートウォームを保持中は卵を拾えない"
+
+REFERENCE            GENESIS_MASHER_UNAVAILABLE
+LANG_ENGLISH         "マッシャーゲートが閉じている"
+
+REFERENCE            CASTLE_GRAVITYSPIKE_INSTRUCTIONS
+LANG_ENGLISH         "^3[{+speed_throw}]^7で反重力トラップ^3[{+attack}]^7で反重力スラム^3[{+lookstick}]^7で近接攻撃"
+
+REFERENCE            CASTLE_DEMON_VO_HEART
+LANG_ENGLISH         "^1悪魔の声: ^7ハート"
+
+REFERENCE            GENESIS_ENABLE_LANDING_PAD
+LANG_ENGLISH         "[{+activate}]長押しでランディングパッド起動"
+
+REFERENCE            GENESIS_CHALLENGE_1_7
+LANG_ENGLISH         "同じ島に15分留まり続けろ"
+
+REFERENCE            GENESIS_GRAVITYSPIKE_CRAFT
+LANG_ENGLISH         "[{+activate}]長押しでRagnarok DG-4を作る"
+
+REFERENCE            GENESIS_GRAVITYSPIKE_PICKUP
+LANG_ENGLISH         "[{+activate}]長押しでRagnarok DG-4を拾う"
+
+REFERENCE            GENESIS_PICKUP_SUMMONING_KEY
+LANG_ENGLISH         "^3[{+activate}]^7長押しで召喚の鍵を拾う"
+
+REFERENCE            GENESIS_DRAGON_GAUNTLET_FLAMETHROWER_HINT
+LANG_ENGLISH         "^3[{+attack}]^7 火炎放射器^3[{+melee}]^7 近接攻撃^3[{+speed_throw}]^7 ウェルプ発射"
+
+REFERENCE            GENESIS_FLING_COOLDOWN
+LANG_ENGLISH         "パッド クールダウン中"
+
+REFERENCE            CASTLE_GRAVITYSPIKE_USE_HINT
+LANG_ENGLISH         "^3[{+ability}]^7でRagnarok DG-4を使用"
+
+REFERENCE            CASTLE_GRAVITYSPIKE_RECHARGED
+LANG_ENGLISH         "Ragnarok DG-4 リチャージ完了"
+
+REFERENCE            GENESIS_AREA_NAME_THEATER
+LANG_ENGLISH         "シアター"
+
+REFERENCE            GENESIS_GRAVITYSPIKE_RECHARGED
+LANG_ENGLISH         "Ragnarok DG-4 リチャージ完了"
+
+REFERENCE            CASTLE_BOW_DEMON
+LANG_ENGLISH         "クリーガカリート・ル・ゴサターム"
+
+REFERENCE            CASTLE_FLING_LOCKED
+LANG_ENGLISH         "Wundersphereを使用する前に行き先を制圧しろ"
+
+REFERENCE            CASTLE_BOW_STORM
+LANG_ENGLISH         "クリーマハム・ラ・アーマーム"
+
+REFERENCE            CASTLE_BOW_UPGRADE_PICKUP_CRYSTAL_LIGHTNING
+LANG_ENGLISH         "[{+activate}]長押しでライトニングクリスタルを拾う"
+
+REFERENCE            GENESIS_TRIALS_COMPLETED
+LANG_ENGLISH         "試練完了"
+
+REFERENCE            GENESIS_RUNESOFCREATION
+LANG_ENGLISH         "創造のルーン"
+
+REFERENCE            CASTLE_ENABLE_LANDING_PAD
+LANG_ENGLISH         "[{+activate}]長押しでランディングパッド起動"
+
+REFERENCE            GENESIS_GATEWORM_DENY
+LANG_ENGLISH         "卵を持っている間はゲートウォームを拾えない"
+
+REFERENCE            GENESIS_CHALLENGE_1_3
+LANG_ENGLISH         "次元の裂け目を撃ってカオスラウンドをクリアしろ"
+
+REFERENCE            CASTLE_GRAVITYSPIKE_BAD_LOCATION
+LANG_ENGLISH         "ここにはRagnarok DG-4を設置できない"
+
+REFERENCE            GENESIS_ROBOT_SUMMON
+LANG_ENGLISH         "^3[{+activate}]^7長押しでキーパープロテクターを呼ぶ[コスト: &&1]"
+
+REFERENCE            GENESIS_WEARABLE_PICKUP
+LANG_ENGLISH         "^3[{+activate}]^7長押しで拾う"
+
+REFERENCE            GENESIS_PAP_TP_UNAVAILABLE
+LANG_ENGLISH         "テレポーターは使用中"
+
+REFERENCE            GENESIS_CHALLENGE_2_2
+LANG_ENGLISH         "ビームの反射でゾンビを10体倒せ"
+
+REFERENCE            GENESIS_CHALLENGE_3_7
+LANG_ENGLISH         "全てのルーンを集めろ"
+
+REFERENCE            CASTLE_TRADE_UPGRADE_QUEST
+LANG_ENGLISH         "[{+activate}]長押しでアップグレードクエストに割り当て(現在のクエストから解除)"
+
+REFERENCE            GENESIS_ROBOT_NAME
+LANG_ENGLISH         "キーパープロテクター"
+
+REFERENCE            GENESIS_WEARABLE_HELM_OF_THE_KING_EFFECTS
+LANG_ENGLISH         "全ボスからの攻撃ダメージ50%軽減ボスに対するダメージ33%増エレメンタルゾンビのデスエフェクトからダメージを受けないダッシュの距離が伸びる"
+
+REFERENCE            CASTLE_TRAM_TOKEN_HINT
+LANG_ENGLISH         "トラム操作パネルでトラムを呼ぶ"
+
+REFERENCE            CASTLE_PICK_UP_MISSING_BOW
+LANG_ENGLISH         "アップグレードには弓が必要"
+
+REFERENCE            CASTLE_REBUILD_AVAILABLE
+LANG_ENGLISH         "[{+activate}]長押しで道を作り直す[コスト: &&1]"
+
+REFERENCE            CASTLE_TRAM_TOKEN_ACQUIRED
+LANG_ENGLISH         "トラムのヒューズ獲得"
+
+REFERENCE            CASTLE_RETURN_WIND_BOW
+LANG_ENGLISH         "^3[{+activate}]^7長押しでクリーホロ・ル・クリーマサリートを戻す"
+
+REFERENCE            CASTLE_ROCKET_HINT
+LANG_ENGLISH         "^3[{+melee}]^7で近接攻撃^3[{+attack}]^7でロケットブースト"
+
+REFERENCE            CASTLE_BOW_UPGRADE_PICKUP_CRYSTAL_WIND
+LANG_ENGLISH         "[{+activate}]長押しでウインドクリスタルを拾う"
+
+REFERENCE            GENESIS_TURRET_IN_USE
+LANG_ENGLISH         "ターレットは購入済み"
+
+REFERENCE            CASTLE_GRAVITYSPIKE_A10_CONSOLE
+LANG_ENGLISH         "[{+activate}]長押しでコンソール起動"
+
+REFERENCE            GENESIS_CHALLENGE_REWARD_TAKE
+LANG_ENGLISH         "[{+activate}]長押しで報酬を取る"
+
+REFERENCE            GENESIS_CANT_ENTER_BEAST_MODE
+LANG_ENGLISH         "呪いは眠っている…"
+
+REFERENCE            CASTLE_DEMON_VO_STAG
+LANG_ENGLISH         "^1悪魔の声: ^7スタッグ"
+
+REFERENCE            GENESIS_CHALLENGE_1_9
+LANG_ENGLISH         "シールドでクモを10匹倒せ"
+
+REFERENCE            GENESIS_WEARABLE_FURY_HEAD_EFFECTS
+LANG_ENGLISH         "フューリーの近接攻撃ダメージ33%軽減フューリーに対するダメージ50%増ゾンビからのヒット+1"
+
+REFERENCE            GENESIS_GRAVITYSPIKE_PART_TUBE
+LANG_ENGLISH         "[{+activate}]長押しでチューブを拾う"
+
+REFERENCE            CASTLE_TRAM_TOKEN_DENIED
+LANG_ENGLISH         "トラムのヒューズは既に持っている"
+
+REFERENCE            CASTLE_ALREADY_ON_QUEST
+LANG_ENGLISH         "アップグレードクエストが既に進行中"
+
+REFERENCE            GENESIS_CHALLENGE_2_6
+LANG_ENGLISH         "ダークアリーナに入れ"
+
+REFERENCE            GENESIS_GRAVITYSPIKE_INSTRUCTIONS
+LANG_ENGLISH         "^3[{+speed_throw}]^7で反重力トラップ^3[{+attack}]^7で反重力スラム^3[{+lookstick}]^7で近接攻撃"
+
+REFERENCE            GENESIS_PICKUP_BOTTLE
+LANG_ENGLISH         "^3[{+activate}]^7長押しでシールドをリチャージ"
+
+REFERENCE            GENESIS_CHALLENGE_1_1
+LANG_ENGLISH         "各タイプのトラップでゾンビを5体倒せ"
+
+REFERENCE            GENESIS_CHALLENGE_2_1
+LANG_ENGLISH         "ビームで2体のゾンビを同時に倒せ "
+
+REFERENCE            GENESIS_CALLBOX_BUILD
+LANG_ENGLISH         "^3[{+activate}]^7長押しで召喚の祭壇を組み立てる"
+
+REFERENCE            CASTLE_FLING_AVAILABLE
+LANG_ENGLISH         "[{+activate}]長押しでパッドを起動[コスト: &&1]"
+
+REFERENCE            GENESIS_APOTHICONEGG
+LANG_ENGLISH         "エッグ"
+
+REFERENCE            CASTLE_BOW_RUNE
+LANG_ENGLISH         "クリーアホアム・ナル・アムホガロック"
+
+REFERENCE            CASTLE_BOW_UPGRADE_PLACE_CRYSTAL_FIRE
+LANG_ENGLISH         "^3[{+activate}]^7長押しでファイアクリスタルをチャージ"
+
+REFERENCE            GENESIS_AREA_NAME_ORIGINS
+LANG_ENGLISH         "トレンチ"
+
+REFERENCE            GENESIS_DRAGON_SHIELD
+LANG_ENGLISH         "ドラゴンシールド"
+
+REFERENCE            CASTLE_DEMON_VO_GRIFFON
+LANG_ENGLISH         "^1悪魔の声: ^7グリフォン"
+
+REFERENCE            GENESIS_POWER_COOLDOWN
+LANG_ENGLISH         "クールダウン中"
+
+REFERENCE            CASTLE_MASHER_COOLDOWN
+LANG_ENGLISH         "トラップ クールダウン中"
+
+REFERENCE            GENESIS_DRAGON_GAUNTLET_PICKUP
+LANG_ENGLISH         "[{+activate}]長押しでドラゴンガントレットを拾う"
+
+REFERENCE            GENESIS_WEARABLE_KEEPER_SKULL_HEAD_EFFECTS
+LANG_ENGLISH         "ゾンビからのヒット+1エンスレイブドキーパーからのダメージ50%軽減エンスレイブドキーパーに対するダメージ33%増キーパープロテクターの持続時間30秒延長"
+
+REFERENCE            CASTLE_GRAVITYSPIKE_PICKUP
+LANG_ENGLISH         "[{+activate}]長押しでRagnarok DG-4を拾う"
+
+REFERENCE            CASTLE_TRAM_COOLDOWN
+LANG_ENGLISH         "トラム クールダウン中"
+
+REFERENCE            CASTLE_BOW_UPGRADE_PICKUP_CRYSTAL_FIRE
+LANG_ENGLISH         "[{+activate}]長押しでファイアクリスタルを拾う"
+
+REFERENCE            GENESIS_CHALLENGE_1_2
+LANG_ENGLISH         "ビームでゾンビを15体倒せ"
+
+REFERENCE            CASTLE_DEMON_VO_HORN
+LANG_ENGLISH         "^1悪魔の声: ^7ホーン"
+
+REFERENCE            CASTLE_BOW_BASE
+LANG_ENGLISH         "太古の怒り"
+
+REFERENCE            GENESIS_CHALLENGE_2_4
+LANG_ENGLISH         "カオスラウンドを2分でクリアしろ"
+
+REFERENCE            GENESIS_EXIT_BEAST_MODE
+LANG_ENGLISH         "人間に戻る"
+
+REFERENCE            GENESIS_EXIT_BEAST_MODE_HINT
+LANG_ENGLISH         "^3[{+dwattack_right}]^7でグラップル ^3[{+dwattack_left}]^7で稲妻を放つ^3[{+melee}]^7で近接攻撃^3[{+stance}]^7長押しで人間に戻る"
+
+REFERENCE            GENESIS_DEATH_RAY_MANUAL_OFF
+LANG_ENGLISH         "[{+activate}] 長押しでデス・レイ停止"
+
+REFERENCE            CASTLE_DEMON_VO_RETURN
+LANG_ENGLISH         "^1悪魔の声: ^7散逸したものを戻せ"
+
+REFERENCE            GENESIS_WEARABLE_EQUIPPED
+LANG_ENGLISH         "装備済み"
+
+REFERENCE            CASTLE_WUNDERSPHERE_LOCKED
+LANG_ENGLISH         "ロケット試験発射中はWundersphere使用不可"
+
+REFERENCE            GENESIS_LOC_TEMPLE
+LANG_ENGLISH         "寺"
+
+REFERENCE            CASTLE_DEMON_VO_DOOR
+LANG_ENGLISH         "^1悪魔の声: ^7ドア"
+
+REFERENCE            GENESIS_CHALLENGE_2_10
+LANG_ENGLISH         "島から島へとジャンプ中のゾンビを10体倒せ"
+
+REFERENCE            CASTLE_PICK_UP_LIGHTNING_BOW
+LANG_ENGLISH         "^3[{+activate}]^7長押しでクリーマハム・ラ・アーマームに切り替え"
+
+REFERENCE            GENESIS_CHALLENGE_3_9
+LANG_ENGLISH         "アポシコン内でマルグワを3体倒せ"
+
+REFERENCE            GENESIS_CHALLENGE_2_11
+LANG_ENGLISH         "同じラウンド中に各島でゾンビを5体倒せ"
+
+REFERENCE            GENESIS_CHALLENGE_3_5
+LANG_ENGLISH         "全てのコラプションエンジンを5ラウンド以内に起動しろ"
+
+REFERENCE            GENESIS_CHALLENGE_1_10
+LANG_ENGLISH         "キーパープロテクターの祭壇を作れ"
+
+REFERENCE            GENESIS_JUMP_PAD_COOLDOWN
+LANG_ENGLISH         "ジャンプ台 クールダウン中"
+
+REFERENCE            CASTLE_DEATH_RAY_TRAP
+LANG_ENGLISH         "[{+activate}] 長押しでデス・レイ起動 [コスト: &&1]"
+
+REFERENCE            CASTLE_GRAVITYSPIKE_CRAFT
+LANG_ENGLISH         "[{+activate}]長押しでRagnarok DG-4を作る"
+
+REFERENCE            GENESIS_USE_TURRET
+LANG_ENGLISH         "^3[{+activate}]^7でターレット使用[コスト: &&1]"
+
+REFERENCE            GENESIS_CHALLENGE_2_7
+LANG_ENGLISH         "Nacht Der Untotenで7ラウンド生き延びろ"
+
+REFERENCE            CASTLE_TRAM_DOCKED
+LANG_ENGLISH         "トラムは駅に停まっている"
+
+REFERENCE            GENESIS_REUSE_TURRET
+LANG_ENGLISH         "^3[{+activate}]^7長押しでターレットを使用"
+
+REFERENCE            CASTLE_TRAM_CALL
+LANG_ENGLISH         "[{+activate}]長押しでトラムを呼ぶ"
+
+REFERENCE            GENESIS_CHALLENGE_2_5
+LANG_ENGLISH         "コラプションエンジン作動中に近接キルを5回達成しろ"
+
+REFERENCE            GENESIS_CHALLENGE_1_6
+LANG_ENGLISH         "シアター内のテレポートを有効にしろ"
+
+REFERENCE            GENESIS_WEARABLE_APOTHICON_MASK_EFFECTS
+LANG_ENGLISH         "全敵からのヒット+1ダッシュ持続時間上昇全ての敵に対するダメージ50%増全敵からのダメージ33%軽減"
+
+REFERENCE            GENESIS_FLING_AVAILABLE_NO_COST
+LANG_ENGLISH         "[{+activate}]長押しでパッドを起動"
+
+REFERENCE            GENESIS_GRAVITYSPIKE_ALREADY_HAVE
+LANG_ENGLISH         "Ragnarok DG-4は既に持っている"
+
+REFERENCE            GENESIS_CHALLENGE_3_3
+LANG_ENGLISH         "マルグワを3発で倒せ"
+
+REFERENCE            CASTLE_BOW_WOLF
+LANG_ENGLISH         "クリーホロ・ル・クリーマサリート"
+
+REFERENCE            GENESIS_WEAPON_BALL
+LANG_ENGLISH         "アストス・アルブゾラーク"
+
+REFERENCE            GENESIS_FLING_LOCKED
+LANG_ENGLISH         "パッドを使用する前に行き先を制圧しろ"
+
+REFERENCE            CASTLE_FLING_COOLDOWN
+LANG_ENGLISH         "パッド クールダウン中"
+
+REFERENCE            GENESIS_GRAVITYSPIKE_BAD_LOCATION
+LANG_ENGLISH         "ここにはRagnarok DG-4を設置できない"
+
+REFERENCE            GENESIS_CHALLENGE_3_8
+LANG_ENGLISH         "何も殺さずにカオスラウンドをクリアしろ"
+
+REFERENCE            GENESIS_REBUILD_AVAILABLE
+LANG_ENGLISH         "[{+activate}]長押しで道を作り直す[コスト: &&1]"
+
+REFERENCE            CASTLE_PICK_UP_ICE_BOW
+LANG_ENGLISH         "^3[{+activate}]^7長押しでクリーアホアム・ナル・アムホガロックに切り替え"
+
+REFERENCE            CASTLE_DEMON_VO_ASK_NAME
+LANG_ENGLISH         "^1悪魔の声: ^7答えよ、我の名を"
+
+REFERENCE            GENESIS_CHALLENGE_3_2
+LANG_ENGLISH         "ダメージを受けずにメカZを倒せ"
+
+REFERENCE            GENESIS_CALLBOX_MISSING_PARTS
+LANG_ENGLISH         "召喚の祭壇の組み立てにパーツが足りない"
+
+REFERENCE            CASTLE_MASHER_TRAP
+LANG_ENGLISH         "[{+activate}]長押しでゲート起動[コスト: &&1]"
+
 ENDMARKER
