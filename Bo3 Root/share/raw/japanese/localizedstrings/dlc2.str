@@ -1,0 +1,21 @@
+FILENOTES		    "if u read this u legally need to give me a kiss"
+
+REFERENCE            ISLAND
+LANG_ENGLISH         "絶望の島"
+
+REFERENCE            ISLAND_CAPS
+LANG_ENGLISH         "絶望の島"
+
+REFERENCE            ISLAND_LOC
+LANG_ENGLISH         "太平洋の孤島"
+
+REFERENCE            PRESENCE_ZM_ISLAND
+LANG_ENGLISH         "絶望の島"
+
+REFERENCE            WEAPON_HERO_ZM_ISLAND_WW
+LANG_ENGLISH         "草薙の剣"
+
+REFERENCE            WEAPON_HERO_ZM_ISLAND_WW_UPGRADED
+LANG_ENGLISH         "正宗"
+
+ENDMARKER

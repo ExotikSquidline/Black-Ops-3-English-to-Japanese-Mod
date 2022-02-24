@@ -1,28 +1,49 @@
 FILENOTES		    "if u read this u legally need to give me a kiss"
 
+REFERENCE            SKULL_GUN
+LANG_ENGLISH         "バスティズのスカル"
+
+REFERENCE            HERO_ANNIHILATOR
+LANG_ENGLISH         "アンヒレーター"
+
+REFERENCE            BOWIE
+LANG_ENGLISH         "ボウイナイフ"
+
+REFERENCE            PISTOL_STANDARD
+LANG_ENGLISH         "エムエル・6"
+
 REFERENCE            PISTOL_BURST
-LANG_ENGLISH         "エルケ・5"
+LANG_ENGLISH         "アールケー・5"
+
+REFERENCE            LAUNCHER_STANDARD
+LANG_ENGLISH         "エックスエム・53"
+
+REFERENCE            PISTOL_FULLAUTO
+LANG_ENGLISH         "エルカー9"
+
+REFERENCE            LAUNCHER_MULTI
+LANG_ENGLISH         "エル4シージ"
 
 REFERENCE            PISTOL_REVOLVER38
 LANG_ENGLISH         "ブラッドハウンド"
 
 REFERENCE            AR_MARKSMAN
-LANG_ENGLISH         "シェイヴァ"
+LANG_ENGLISH         "シーバ"
 
 REFERENCE            AR_LONGBURST
-LANG_ENGLISH         "エム8ア7"
+LANG_ENGLISH         "エム8エイ7"
 
 REFERENCE            AR_CQB
-LANG_ENGLISH         "エ イ チ ヴィケイー30"
+LANG_ENGLISH         "エイチヴィケイ・30"
 
 REFERENCE            AR_ACCURATE
-LANG_ENGLISH         "イチアルー1"
+LANG_ENGLISH         "アイシーアル・1"
 
 REFERENCE            AR_STANDARD
-LANG_ENGLISH         "ケイエンヌー44"
+LANG_ENGLISH         "ケイエン・44"
 
 REFERENCE            AR_DAMAGE
-LANG_ENGLISH         "マンオー戦争"
+LANG_ENGLISH         "戦争の男"
 
 REFERENCE            SMG_STANDARD
 LANG_ENGLISH         "クダ"
@@ -40,19 +61,19 @@ REFERENCE            smg_burst
 LANG_ENGLISH         "ファロ"
 
 REFERENCE            shotgun_pump
-LANG_ENGLISH         "ケイエレム―262"
+LANG_ENGLISH         "ケイエレエム・262"
 
 REFERENCE            shotgun_semiauto
-LANG_ENGLISH         "205・ブレチ"
+LANG_ENGLISH         "205・ブレッキ"
 
 REFERENCE            shotgun_fullauto
 LANG_ENGLISH         "ヘイメーカー12"
 
 REFERENCE            shotgun_precision
-LANG_ENGLISH         "アルゴス"
+LANG_ENGLISH         "アルぐス"
 
 REFERENCE            lmg_light
-LANG_ENGLISH         "ビエレム"
+LANG_ENGLISH         "ビーエレエム"
 
 REFERENCE            lmg_slowfire
 LANG_ENGLISH         "ゴルゴン"
@@ -61,18 +82,24 @@ REFERENCE            lmg_cqb
 LANG_ENGLISH         "ディンゴ"
 
 REFERENCE            lmg_heavy
-LANG_ENGLISH         "48―浚渫"
+LANG_ENGLISH         "48・ドレッジ"
 
 REFERENCE            sniper_fastsemi
 LANG_ENGLISH         "ドラコン"
 
 REFERENCE            sniper_fastbolt
-LANG_ENGLISH         "ロクソ"
+LANG_ENGLISH         "軌跡"
 
 REFERENCE            sniper_powerbolt
-LANG_ENGLISH         "エスヴジ"
+LANG_ENGLISH         "エスヴィージー"
 
 REFERENCE            hero_gravityspikes_melee
 LANG_ENGLISH         "ラグナロク DG-4"
+
+REFERENCE            ZM_GRAVITY_SPIKES
+LANG_ENGLISH         "ラグナロク DG-4"
+
+REFERENCE            ZOMBIE_MELEE
+LANG_ENGLISH         "ノーミソォォォ..."
 
 ENDMARKER

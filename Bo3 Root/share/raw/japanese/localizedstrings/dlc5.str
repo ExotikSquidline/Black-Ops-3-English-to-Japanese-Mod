@@ -4,30 +4,72 @@ REFERENCE            MICROWAVEGUN
 LANG_ENGLISH            "ウェーブガン"
 
 REFERENCE            MICROWAVEGUN_UPGRADED
-LANG_ENGLISH            "マックス・ ウェーブガン"
+LANG_ENGLISH            "マックス・ウェーブガン"
 
 REFERENCE            MICROWAVEGUNDW
 LANG_ENGLISH            "ザップガン・デュアル"
 
 REFERENCE            MICROWAVEGUNDW_UPGRADED
-LANG_ENGLISH            "ポーターズ X2 ザップガン・デュアル"
+LANG_ENGLISH            "ポーターズX2ザップガン・デュアル"
 
 REFERENCE            SHRINK_RAY_UPGRADED
 LANG_ENGLISH            "フラククライザー"
 
 REFERENCE            RAYGUN_MARK2
-LANG_ENGLISH            "レイガン・マーク 2"
+LANG_ENGLISH            "レイガン・マーク・2"
 
 REFERENCE            RAYGUN_MARK2_UPGRADED
-LANG_ENGLISH            "ポーターズ・マーク 2・レイガン"
+LANG_ENGLISH            "ポーターズ・マーク・2・レイガン"
 
 REFERENCE            PISTOL_C96
-LANG_ENGLISH         "モーゼル C96"
+LANG_ENGLISH         "モーゼル・C96"
 
 REFERENCE            staff_water
-LANG_ENGLISH         "スタッフはとても親切でした"
+LANG_ENGLISH         "氷の杖"
 
 REFERENCE            staff_water_upgraded
-LANG_ENGLISH         "「 ull ’ s Arrow 」（矢印）をクリックします"
+LANG_ENGLISH         "ウルの矢"
+
+REFERENCE            STAFF_AIR
+LANG_ENGLISH         "風の杖"
+
+REFERENCE            STAFF_AIR_UPGRADED
+LANG_ENGLISH         "ボレアスの怒り"
+
+REFERENCE            STAFF_FIRE
+LANG_ENGLISH         "火の杖"
+
+REFERENCE            STAFF_FIRE_UPGRADED
+LANG_ENGLISH         "迦具土の血"
+
+REFERENCE            STAFF_LIGHTNING
+LANG_ENGLISH         "雷の杖"
+
+REFERENCE            STAFF_LIGHTNING_UPGRADED
+LANG_ENGLISH         "キマットの噛む"
+
+REFERENCE            STAFF_REVIVE
+LANG_ENGLISH         "セクメトの精力"
+
+REFERENCE            AR_GALIL_UPGRADED
+LANG_ENGLISH         "ラメンテーション"
+
+REFERENCE            AR_M16_UPGRADED
+LANG_ENGLISH         "スカルピアサー"
+
+REFERENCE            AR_STG44
+LANG_ENGLISH         "StG-44"
+
+REFERENCE            AR_STG44_UPGRADED
+LANG_ENGLISH         "スパツ・447+"
+
+REFERENCE            SUMPF
+LANG_ENGLISH         "死の沼"
+
+REFERENCE            SUMPF_CAPS
+LANG_ENGLISH         "死の沼"
+
+REFERENCE            SUMPF_LOC
+LANG_ENGLISH         "日本 - 古びた施設"
 
 ENDMARKER
