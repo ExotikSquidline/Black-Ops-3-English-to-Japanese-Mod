@@ -1362,14 +1362,8 @@ LANG_ENGLISH         "BlackCell"
 REFERENCE            LAUNCHER_LOCKONLY_DESC
 LANG_ENGLISH         "対車両用 誘導式ランチャー ロケットを4発 装填できる"
 
-REFERENCE            LAUNCHER_MULTI
-LANG_ENGLISH         "L4 Siege"
-
 REFERENCE            LAUNCHER_MULTI_DESC
 LANG_ENGLISH         "セミオート 無誘導/誘導式ロケットランチャー 小型ロケットが それぞれ小ダメージを与える"
-
-REFERENCE            LAUNCHER_STANDARD
-LANG_ENGLISH         "XM-53"
 
 REFERENCE            LAUNCHER_STANDARD_DESC
 LANG_ENGLISH         "無誘導/誘導式で 使用可能 ロケットを5発 装填できる"
@@ -1668,14 +1662,11 @@ LANG_ENGLISH         "Rift E9"
 REFERENCE            PISTOL_ENERGY_DESC
 LANG_ENGLISH         "2点バースト エネルギーを放ち 敵を2発で排除する"
 
-REFERENCE            PISTOL_FULLAUTO
-LANG_ENGLISH         "L-CAR 9"
-
 REFERENCE            PISTOL_FULLAUTO_DESC
 LANG_ENGLISH         "フルオート / マシンピストル 中程度の 連射速度と 威力を持つ"
 
 REFERENCE            PISTOL_FULLAUTO_DW
-LANG_ENGLISH         "L-CAR 9デュアル"
+LANG_ENGLISH         "エルカー9デュアル"
 
 REFERENCE            PISTOL_M1911
 LANG_ENGLISH         "1911"
@@ -1698,14 +1689,11 @@ LANG_ENGLISH         "ダブルバレル・ハンドキャノン 2つの12ゲー
 REFERENCE            PISTOL_SHOTGUN_DW
 LANG_ENGLISH         "Marshal 16デュアル"
 
-REFERENCE            PISTOL_STANDARD
-LANG_ENGLISH         "MR6"
-
 REFERENCE            PISTOL_STANDARD_DESC
 LANG_ENGLISH         "セミオート クラス最高の 威力を誇る"
 
 REFERENCE            PISTOL_STANDARD_DW
-LANG_ENGLISH         "MR6デュアル"
+LANG_ENGLISH         "エムエル・6・デュアル"
 
 REFERENCE            PRECISION
 LANG_ENGLISH         "プレシジョン"
