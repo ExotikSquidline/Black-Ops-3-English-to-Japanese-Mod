@@ -1,5 +1,32 @@
 FILENOTES		    "japanese menu Converted by Tex and Jumpy"
 
+REFERENCE            REVIVES
+LANG_ENGLISH         "蘇生"
+
+REFERENCE            REVIVES_CAPS
+LANG_ENGLISH         "蘇生"
+
+REFERENCE            REVIVES_PRE
+LANG_ENGLISH         "蘇生"
+
+REFERENCE            SCORE
+LANG_ENGLISH         "スコア"
+
+REFERENCE            KILLS
+LANG_ENGLISH         "キル"
+
+REFERENCE            DOWNS
+LANG_ENGLISH         "ダウン"
+
+REFERENCE            DOWNS_PRE
+LANG_ENGLISH         "ダウン"
+
+REFERENCE            HEADSHOTS
+LANG_ENGLISH         "ヘッド"
+
+REFERENCE            CHANGE_MAP_CAPS
+LANG_ENGLISH         "マップ変更"
+
 REFERENCE            COPY_BUBBLEGUM_PACK_TITLE
 LANG_ENGLISH         "$(bubbleGumPackName)のコピー先を選択"
 

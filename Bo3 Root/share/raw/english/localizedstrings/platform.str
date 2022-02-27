@@ -1,0 +1,9 @@
+FILENOTES		    "tom is fat"
+
+REFERENCE            STARTGAME
+LANG_ENGLISH         "^BBUTTON_SELECTCHOICE^ ゲーム開始"
+
+REFERENCE            SKIP
+LANG_ENGLISH         "[{primary}] でスキップ"
+
+ENDMARKER

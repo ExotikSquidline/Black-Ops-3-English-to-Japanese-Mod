@@ -1,5 +1,26 @@
 FILENOTES		    "japanese menu Converted by Tex and Jumpy"
 
+REFERENCE            START_GAME
+LANG_ENGLISH         "ゲーム開始"
+
+REFERENCE            START_GAME_CAPS
+LANG_ENGLISH         "ゲーム開始"
+
+REFERENCE            START_GAME_LOBBY
+LANG_ENGLISH         "ゲームロビー開始"
+
+REFERENCE            LOCAL_CAPS
+LANG_ENGLISH         "オフライン"
+
+REFERENCE            OFFLINE
+LANG_ENGLISH         "オフライン"
+
+REFERENCE            SCENE_SKIP_BUTTON
+LANG_ENGLISH         "Hold [{primary}] でスキップ"
+
+REFERENCE            SCENE_SKIP_POSTPROMPT
+LANG_ENGLISH         " でスキップ"
+
 REFERENCE            SOLO_GAME_CAPS
 LANG_ENGLISH         "ソロゲーム"
 
@@ -119,8 +140,5 @@ LANG_ENGLISH         "ゾンビ"
 
 REFERENCE            ZOMBIES_CAPS
 LANG_ENGLISH         "ゾンビ"
-
-REFERENCE            OFFLINE
-LANG_ENGLISH         "オフライン"
 
 ENDMARKER
