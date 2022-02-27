@@ -19,6 +19,9 @@ localize,zombie
 localize,zmscore
 localize,zm_castle
 localize,zm_island
+localize,zm_genesis
+localize,zm_stalingrad
+localize,zm_tomb
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////
 rawfile,dummy.cfg

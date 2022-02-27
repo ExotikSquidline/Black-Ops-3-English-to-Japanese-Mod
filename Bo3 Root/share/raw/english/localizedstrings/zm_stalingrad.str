@@ -1,0 +1,69 @@
+
+
+REFERENCE            DROP_POD_INCORRECT_CYLINDER
+LANG_ENGLISH         "間違った色のコードシリンダー"
+
+REFERENCE            MASTER_CYLINDER
+LANG_ENGLISH         "[{+activate}]長押しでマスターコードシリンダーを拾う"
+
+REFERENCE            DROP_POD_CYLINDER_REQUIRED
+LANG_ENGLISH         "コードシリンダーが必要"
+
+REFERENCE            DROP_POD_CYLINDER_ACQUIRED_YELLOW
+LANG_ENGLISH         "補給所のコードシリンダーを入手"
+
+REFERENCE            DROP_POD_CYLINDER_ACQUIRED_RED
+LANG_ENGLISH         "戦車工場のコードシリンダーを入手"
+
+REFERENCE            DROP_POD_CYLINDER_ACQUIRED_BLUE
+LANG_ENGLISH         "ドラゴンコマンドのコードシリンダーを入手"
+
+REFERENCE            DROP_POD_ACTIVE
+LANG_ENGLISH         "グロフ・モジュールは既に有効"
+
+REFERENCE            CODE_CYLINER_HINT
+LANG_ENGLISH         "コードシリンダー"
+
+REFERENCE            DROP_POD_CYLINDER_REQUIRED
+LANG_ENGLISH         "コードシリンダーが必要"
+
+REFERENCE            CHALLENGE_4_3
+LANG_ENGLISH         "ナパームゾンビを倒せ"
+
+REFERENCE            CHALLENGE_4_6
+LANG_ENGLISH         "ドラゴンの卵を孵化させろ"
+
+REFERENCE            INVENTORY_SLOT01
+LANG_ENGLISH         "コードシリンダー"
+
+REFERENCE            SHIELD_CRAFT
+LANG_ENGLISH         "[{+activate}]長押しでファフニール・ガードを作る"
+
+REFERENCE            SHIELD_HINT
+LANG_ENGLISH         "^3[{+melee}]^7近接攻撃 ^3[{+attack}]^7炎攻撃"
+
+REFERENCE            SHIELD_PICKUP
+LANG_ENGLISH         "[{+activate}]長押しでファフニール・ガードを装備"
+
+REFERENCE            SHIELD_TAKEN
+LANG_ENGLISH         "ファフニール・ガードを入手"
+
+REFERENCE            SHIELD_UPGRADE
+LANG_ENGLISH         "[{+activate}]長押しでファフニール・ガードをアップグレード"
+
+REFERENCE            SHIELD_UPGRADE_PICKUP
+LANG_ENGLISH         "[{+activate}]長押しでティアマト・モーを装備"
+
+REFERENCE            SHIELD_UPGRADE_TAKEN
+LANG_ENGLISH         "ティアマト・モーを入手"
+
+REFERENCE            INVENTORY_SLOT03
+LANG_ENGLISH         "ドラゴンネットワーク・コントローラー"
+
+REFERENCE            INVENTORY_SLOT02
+LANG_ENGLISH         "ドラゴンシールド"
+
+REFERENCE            INVENTORY_SLOT04
+LANG_ENGLISH         "ドラゴンの卵"
+
+ENDMARKER

@@ -234,4 +234,7 @@ LANG_ENGLISH         "鎌"
 REFERENCE            WEAPON_SICKLE_BUY
 LANG_ENGLISH         "^3[{+activate}]^7長押しで鎌 [コスト: &&1]"
 
+REFERENCE            DIESELDRONE
+LANG_ENGLISH         "マキシスドローン"
+
 ENDMARKER

@@ -39,4 +39,7 @@ LANG_ENGLISH         "サブマシンガン"
 REFERENCE            WEAPON_SMG_WITH_S
 LANG_ENGLISH         "サブマシンガン"
 
+REFERENCE            CAPTURES
+LANG_ENGLISH         "奪取"
+
 ENDMARKER

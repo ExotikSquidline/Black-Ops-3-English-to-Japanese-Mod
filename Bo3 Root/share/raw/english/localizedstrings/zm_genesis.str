@@ -1,0 +1,19 @@
+REFERENCE            APOTHICONEGG
+LANG_ENGLISH         "エッグ"
+
+REFERENCE            ROBOT_NAME
+LANG_ENGLISH         "キーパープロテクター"
+
+REFERENCE            GATEWORM
+LANG_ENGLISH         "ゲートワーム"
+
+REFERENCE            DRAGON_SHIELD
+LANG_ENGLISH         "ドラゴンシールド"
+
+REFERENCE            ROBOT_NAME
+LANG_ENGLISH         "キーパープロテクター"
+
+REFERENCE            TRIALS_COMPLETED
+LANG_ENGLISH         "Trials Completed"
+
+ENDMARKER
