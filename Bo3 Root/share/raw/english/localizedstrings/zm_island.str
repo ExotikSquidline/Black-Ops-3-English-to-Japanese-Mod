@@ -1,0 +1,234 @@
+FILENOTES		    "tom is fat"
+
+REFERENCE            CHALLENGE_2_4
+LANG_ENGLISH         "胞子に感染したゾンビをヘッドショットで10体倒す"
+
+REFERENCE            SKULL_PUT
+LANG_ENGLISH         "[{+activate}]でドクロを置く"
+
+REFERENCE            SPIDER_SELF_DESTRUCT
+LANG_ENGLISH         "[{+activate}]長押しでクモを放つ"
+
+REFERENCE            CHALLENGE_2_3
+LANG_ENGLISH         "植物に引き寄せられたゾンビを15体倒す"
+
+REFERENCE            WATER_PLANT
+LANG_ENGLISH         "[{+activate}]長押しで植物に水をやる"
+
+REFERENCE            PICKUP_GOLDEN_BUCKET
+LANG_ENGLISH         "[{+activate}]長押しで黄金のバケツを拾う"
+
+REFERENCE            SKULL_START
+LANG_ENGLISH         "[{+activate}]で儀式を開始"
+
+REFERENCE            MAIN_POWER_OFF
+LANG_ENGLISH         "まずはパワーをオンにしろ！"
+
+REFERENCE            CAGE_RAISE
+LANG_ENGLISH         "[{+activate}]長押しで檻を上げる"
+
+REFERENCE            TRAP_PROPTRAP_USE
+LANG_ENGLISH         "^3[{+activate}]^7長押しでプロペラトラップを起動[コスト: &&1]"
+
+REFERENCE            SKULL_CANT_GET
+LANG_ENGLISH         "ドクロは1つしか所持できない"
+
+REFERENCE            CALL_ELEVATOR
+LANG_ENGLISH         "[{+activate}]長押しでエレベーターを呼び出す"
+
+REFERENCE            PICKUP_BUCKET
+LANG_ENGLISH         "[{+activate}]長押しでバケツを拾う"
+
+REFERENCE            CAGE_LOWER
+LANG_ENGLISH         "[{+activate}]長押しで檻を下げる"
+
+REFERENCE            ELEVATOR_IN_USE
+LANG_ENGLISH         "エレベーターは使用中"
+
+REFERENCE            SEWER_IN_USE
+LANG_ENGLISH         "下水管 使用不可"
+
+REFERENCE            INVENTORY_TITLE_SHIELD
+LANG_ENGLISH         "シールド"
+
+REFERENCE            SPIDER_EQUIPMENT_PICKUP
+LANG_ENGLISH         "[{+activate}]長押しでクモの餌"
+
+REFERENCE            ELEVATOR_RECHARGING
+LANG_ENGLISH         "エレベーター 使用不可"
+
+REFERENCE            CHALLENGE_ALTAR_IN_USE
+LANG_ENGLISH         "祭壇は既に使用中"
+
+REFERENCE            CHALLENGE_3_5
+LANG_ENGLISH         "変異したゾンビ5体の頭を撃つ"
+
+REFERENCE            PLANT_SEED
+LANG_ENGLISH         "[{+activate}]長押しで種を植える"
+
+REFERENCE            TEAR_WEB
+LANG_ENGLISH         "[{+activate}]長押しで巣をはがす"
+
+REFERENCE            SKULL_VAPORIZE
+LANG_ENGLISH         "[{+attack}]で蒸発[{+speed_throw}]で催眠術"
+
+REFERENCE            INVENTORY_TITLE_GASMASK
+LANG_ENGLISH         "ガスマスク"
+
+REFERENCE            TRAP_PROPTRAP_REST
+LANG_ENGLISH         "プロペラトラップ 使用不可"
+
+REFERENCE            CHALLENGE_2_6
+LANG_ENGLISH         "換気扇トラップでゾンビを20体倒す"
+
+REFERENCE            NO_POWER
+LANG_ENGLISH         "まずはパワーをオンにしろ！"
+
+REFERENCE            CHALLENGE_1_3
+LANG_ENGLISH         "植物に水を5回やる"
+
+REFERENCE            WONDERWEAPON_UP_PICKUP
+LANG_ENGLISH         "[{+activate}]長押しでマサムネ"
+
+REFERENCE            INVENTORY_TITLE_MACHINETOOLS
+LANG_ENGLISH         "マシンツール"
+
+REFERENCE            WONDERWEAPON_AMMO
+LANG_ENGLISH         "[{+activate}]で調合物を作成"
+
+REFERENCE            FRUIT_PLANT
+LANG_ENGLISH         "[{+activate}]長押しでフルーツを食べる"
+
+REFERENCE            SEED_POWERUP_DENIED
+LANG_ENGLISH         "種はこれ以上所持できない"
+
+REFERENCE            CACHE_PLANT
+LANG_ENGLISH         "[{+activate}]長押しで収穫"
+
+REFERENCE            TEARING_WEB
+LANG_ENGLISH         "切り裂いている..."
+
+REFERENCE            PENSTOCK_DEBRIS
+LANG_ENGLISH         "まずは水中タービンの阻害物をどかせ"
+
+REFERENCE            TRAP_WALLTRAP_USE
+LANG_ENGLISH         "^3[{+activate}]^7長押しで換気扇トラップを起動[コスト: &&1]"
+
+REFERENCE            PLANT_BUCKET
+LANG_ENGLISH         "[{+activate}]長押しでバケツを植える"
+
+REFERENCE            BUNKER_DOOR_OPEN
+LANG_ENGLISH         "[{+activate}]長押しでバンカーのドアを開く"
+
+REFERENCE            CHALLENGE_3_2
+LANG_ENGLISH         "変異中のゾンビを3体倒す"
+
+REFERENCE            CHALLENGE_3_4
+LANG_ENGLISH         "飛行機トラップでゾンビを30体倒す"
+
+REFERENCE            TRAP_WALLTRAP_REST
+LANG_ENGLISH         "換気扇トラップ 使用不可"
+
+REFERENCE            TRIAL_COMPLETE
+LANG_ENGLISH         "試練完了"
+
+REFERENCE            CHALLENGE_2_5
+LANG_ENGLISH         "水中でゾンビを20体倒す"
+
+REFERENCE            POWER_SWITCH_NEEEDS_MORE_WATER
+LANG_ENGLISH         "ジェネレーターにはさらに汚染水が必要"
+
+REFERENCE            BUY_ZIPLINE
+LANG_ENGLISH         "[{+activate}]長押しでジップライン使用[コスト: &&1]"
+
+REFERENCE            SKULLQUEST_GET_SKULLGUN
+LANG_ENGLISH         "[{+activate}]長押しでスカル・オブ・ナン・サプウェ"
+
+REFERENCE            POWER_SWITCH_NEEEDS_WATER
+LANG_ENGLISH         "ジェネレーターには汚染水が必要"
+
+REFERENCE            CHALLENGE_3_3
+LANG_ENGLISH         "植物に実ったフルーツを食べる"
+
+REFERENCE            CHALLENGE_1_4
+LANG_ENGLISH         "胞子を5回撃つ"
+
+REFERENCE            CHALLENGE_REWARD
+LANG_ENGLISH         "[{+activate}]長押しで報酬獲得"
+
+REFERENCE            CLONE_PLANT
+LANG_ENGLISH         "[{+activate}]長押しでインプリント"
+
+REFERENCE            SKULL_MESMERIZE
+LANG_ENGLISH         "[{+speed_throw}]で催眠術"
+
+REFERENCE            CHALLENGE_1_5
+LANG_ENGLISH         "爆発物でクモの巣を5個破壊する"
+
+REFERENCE            CHALLENGE_3_1
+LANG_ENGLISH         "胞子でクモを8匹倒す"
+
+REFERENCE            WONDERWEAPON_STATION
+LANG_ENGLISH         "[{+activate}]長押しで材料を置く"
+
+REFERENCE            GASMASK_PICKUP
+LANG_ENGLISH         "[{+activate}]長押しでガスマスク"
+
+REFERENCE            CHALLENGE_2_1
+LANG_ENGLISH         "激怒する前の変異したゾンビを1体倒す"
+
+REFERENCE            CHALLENGE_1_2
+LANG_ENGLISH         "胞子を使用して水中で空気を得る"
+
+REFERENCE            WONDERWEAPON_PICKUP
+LANG_ENGLISH         "[{+activate}]長押しでクサナギの剣"
+
+REFERENCE            SEED_POWERUP
+LANG_ENGLISH         "種"
+
+REFERENCE            INVENTORY_TITLE_SKULL
+LANG_ENGLISH         "ドクロ"
+
+REFERENCE            SPIDER_QUEEN_WINE
+LANG_ENGLISH         "[{+activate}]長押しでウィドーズワイン"
+
+REFERENCE            USE_SEWER
+LANG_ENGLISH         "[{+activate}]長押しで下水管使用"
+
+REFERENCE            ZIPLINE_IN_USE
+LANG_ENGLISH         "ジップライン使用中"
+
+REFERENCE            SKULL_GET
+LANG_ENGLISH         "[{+activate}]でドクロ"
+
+REFERENCE            BUY_SEWER
+LANG_ENGLISH         "[{+activate}]長押しで下水管使用[コスト: &&1]"
+
+REFERENCE            TOOK_GASMASK
+LANG_ENGLISH         "ガスマスクは既に持っている"
+
+REFERENCE            FILL_BUCKET
+LANG_ENGLISH         "[{+activate}]長押しでバケツを満たす"
+
+REFERENCE            USE_ELEVATOR
+LANG_ENGLISH         "[{+activate}] 長押しでエレベーターを使用"
+
+REFERENCE            DRAIN_WATER
+LANG_ENGLISH         "[{+activate}]長押しで水を抜く"
+
+REFERENCE            CHALLENGE_1_1
+LANG_ENGLISH         "同じ植物に水を3回やる"
+
+REFERENCE            CHALLENGE_2_2
+LANG_ENGLISH         "植物からパワーアップを入手する"
+
+REFERENCE            CRAFT_GASMASK
+LANG_ENGLISH         "[{+activate}]長押しでガスマスクを作る"
+
+REFERENCE            INVENTORY_TITLE_BUCKET
+LANG_ENGLISH         "バケツ"
+
+REFERENCE            INVENTORY_TITLE_FNR
+LANG_ENGLISH         "草薙の剣"
+
+ENDMARKER

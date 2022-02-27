@@ -17,6 +17,8 @@ ttf,fonts/wearetrippinshort.ttf
 localize,zmweapon
 localize,zombie
 localize,zmscore
+localize,zm_castle
+localize,zm_island
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////
 rawfile,dummy.cfg

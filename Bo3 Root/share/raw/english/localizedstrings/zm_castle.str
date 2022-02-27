@@ -1,0 +1,15 @@
+FILENOTES		    "tom is fat"
+
+REFERENCE            CASTLE_BOW_BASE
+LANG_ENGLISH         "太古の怒り"
+
+REFERENCE            CASTLE_TRAM_TOKEN_POWERUP
+LANG_ENGLISH         "ヒューズ"
+
+REFERENCE            BOW_BASE
+LANG_ENGLISH         "太古の怒り"
+
+REFERENCE            TRAM_TOKEN_POWERUP
+LANG_ENGLISH         "ヒューズ"
+
+ENDMARKER

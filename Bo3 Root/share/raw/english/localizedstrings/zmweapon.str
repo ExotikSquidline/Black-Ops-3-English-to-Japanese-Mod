@@ -9,4 +9,7 @@ LANG_ENGLISH         "ラグナロク DG-4"
 REFERENCE            GRAVITY_SPIKES
 LANG_ENGLISH         "ラグナロク DG-4"
 
+REFERENCE            ROCKETSHIELD
+LANG_ENGLISH         "ロケットシールド"
+
 ENDMARKER
