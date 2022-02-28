@@ -1,32 +1,14 @@
 # japanese_bo3
 [![Discord](https://img.shields.io/badge/chat-Discord-blue.svg)](https://discord.gg/GAqmbKBrAV) // this is just a placeholder server to see if the thing works
 
-## How to use
+## Bugs and Issues
 
-* if u wanna use this mod in any ur map or in any other mod just make a drag and drop the share folder in ur Bo3 Root folder and add the Following things to ur zone files
-* add this to zm_zone
-    scriptparsetree,scripts/zm/gametypes/_clientids.gsc
-    scriptparsetree,scripts/zm/_zm_ai_dogs.gsc
-    
-    ttf,fonts/charb__.ttf
-    ttf,fonts/default.ttf
-    ttf,fonts/escom.ttf
-    ttf,fonts/foundrygridnik-bold.ttf
-    ttf,fonts/foundrygridnik-medium.ttf
-    ttf,fonts/refrigeratordeluxe-regular.ttf
-    ttf,fonts/wearetrippinshort.ttf
-    
-    localize,zmweapon
-    localize,zombie
-    localize,zmscore
-    localize,zm_castle
-    localize,zm_island
-    localize,zm_genesis
-    localize,zm_stalingrad
-    localize,zm_tomb
-* ---
+* if u encounter any bugs or issues such as things that arent translated or things where the name is missing fell free to report the bug to us
+    by sending us a DM on Discord or by making an issue on GitHub
+* When u Report a bug pls provide us with a screenshot of the not translated text
 
-* after that u should be good to go
+* Discord: Tex#7125
+* Discord: oJumpy#1968
 
 # Disclaimer
 When u use the mod be prepared that the game Lags when u load in a menu or load in a map
