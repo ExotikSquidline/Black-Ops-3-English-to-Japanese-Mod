@@ -1,5 +1,4 @@
 # japanese_bo3
-[![Discord](https://img.shields.io/badge/chat-Discord-blue.svg)](https://discord.gg/GAqmbKBrAV) // this is just a placeholder server to see if the thing works
 
 ## Bugs and Issues
 

@@ -1,0 +1,15 @@
+index,type,name,resident,streamed,parentStack
+1,string,,0,0,||assetlist
+2,scriptparsetree,scripts/zm/gametypes/_clientids.gsc,761,0,|zone_source/zm_mod.zone|csv
+3,scriptparsetree,scripts/zm/_zm_ai_dogs.gsc,16644,0,|zone_source/zm_mod.zone|csv
+4,ttf,fonts/charb__.ttf,4298412,0,|zone_source/zm_mod.zone|csv
+5,ttf,fonts/default.ttf,4298416,0,|zone_source/zm_mod.zone|csv
+6,ttf,fonts/escom.ttf,4298416,0,|zone_source/zm_mod.zone|csv
+7,ttf,fonts/foundrygridnik-bold.ttf,4298432,0,|zone_source/zm_mod.zone|csv
+8,ttf,fonts/foundrygridnik-medium.ttf,4298432,0,|zone_source/zm_mod.zone|csv
+9,ttf,fonts/refrigeratordeluxe-regular.ttf,4298432,0,|zone_source/zm_mod.zone|csv
+10,ttf,fonts/wearetrippinshort.ttf,4298432,0,|zone_source/zm_mod.zone|csv
+11,rawfile,dummy.cfg,24,0,|zone_source/zm_mod.zone|csv
+12,keyvaluepairs,zm_mod,1114,0,||assetlist
+13,bgcache,zm_mod,529,0,||assetlist
+14,assetlist,,192,0,

@@ -1,0 +1,44 @@
+version,3421953,593
+ignore_missing_shipped,core_pre_gfx
+ignore_missing_shipped,core_pre_gfx
+ignore_missing_shipped,core_patch
+ignore_missing_shipped,core_patch
+ignore_missing_shipped,core_gfx
+ignore_missing_shipped,core_gfx
+ignore_missing_shipped,core_post_gfx
+ignore_missing_shipped,core_post_gfx
+ignore_missing_shipped,core_ui
+ignore_missing_shipped,core_ui
+ignore_missing_shipped,core_common
+ignore_missing_shipped,core_common
+ignore_missing_shipped,zm_common
+ignore_missing_shipped,zm_common
+ignore_missing_shipped,zm_patch
+ignore_missing_shipped,zm_patch
+localize,zmspecialist
+	file,C:\Users\Jumpy ssd\Desktop\hide ssd\ssteam\steamapps\common\Call of Duty Black Ops III\share\raw\japanese\localizedstrings\zmspecialist.str,1645538187,
+localize,zm_specialist
+	file,C:\Users\Jumpy ssd\Desktop\hide ssd\ssteam\steamapps\common\Call of Duty Black Ops III\share\raw\japanese\localizedstrings\zm_specialist.str,1645538187,
+localize,dlc5
+	file,C:\Users\Jumpy ssd\Desktop\hide ssd\ssteam\steamapps\common\Call of Duty Black Ops III\share\raw\japanese\localizedstrings\dlc5.str,1645488409,
+localize,weapon
+	file,C:\Users\Jumpy ssd\Desktop\hide ssd\ssteam\steamapps\common\Call of Duty Black Ops III\share\raw\japanese\localizedstrings\weapon.str,1645537663,
+localize,zm_weapon
+	file,C:\Users\Jumpy ssd\Desktop\hide ssd\ssteam\steamapps\common\Call of Duty Black Ops III\share\raw\japanese\localizedstrings\zm_weapon.str,1645537286,
+localize,zmweapon
+	file,C:\Users\Jumpy ssd\Desktop\hide ssd\ssteam\steamapps\common\Call of Duty Black Ops III\share\raw\japanese\localizedstrings\zmweapon.str,1645487551,
+localize,zombie
+	file,C:\Users\Jumpy ssd\Desktop\hide ssd\ssteam\steamapps\common\Call of Duty Black Ops III\share\raw\japanese\localizedstrings\zombie.str,1645537349,
+texturecombo,zm_mod
+assetlist,zm_mod
+	file,C:\Users\Jumpy ssd\Desktop\hide ssd\ssteam\steamapps\common\Call of Duty Black Ops III\share\raw\gamedata\playeranim\playeranimtypes.txt,1610124882,
+	file,C:\Users\Jumpy ssd\Desktop\hide ssd\ssteam\steamapps\common\Call of Duty Black Ops III\mods\english_to_japanese_font\zone_source\loc\zm_mod.zone,1645542840,be524e95,2013aafc,bfdb712e,e456fa10
+	file,C:\Users\Jumpy ssd\Desktop\hide ssd\ssteam\steamapps\common\Call of Duty Black Ops III\zone_source\japanese\assetlist\core_pre_gfx.csv,1610131042,4f38c8d2,54dbe0ad,a26fe6dd,7ce6fe27
+	file,C:\Users\Jumpy ssd\Desktop\hide ssd\ssteam\steamapps\common\Call of Duty Black Ops III\zone_source\japanese\assetlist\core_patch.csv,1610122647,38d4c92a,0186498f,35efb776,59863d59
+	file,C:\Users\Jumpy ssd\Desktop\hide ssd\ssteam\steamapps\common\Call of Duty Black Ops III\zone_source\japanese\assetlist\core_gfx.csv,1610127367,4cd6243d,831296e2,f2d7c4d8,2e2c9159
+	file,C:\Users\Jumpy ssd\Desktop\hide ssd\ssteam\steamapps\common\Call of Duty Black Ops III\zone_source\japanese\assetlist\core_post_gfx.csv,1610127367,84cba858,ca582e11,0ecc058e,9dc718da
+	file,C:\Users\Jumpy ssd\Desktop\hide ssd\ssteam\steamapps\common\Call of Duty Black Ops III\zone_source\japanese\assetlist\core_ui.csv,1610122647,01204c23,9c4fe4b0,62b426bd,ba245684
+	file,C:\Users\Jumpy ssd\Desktop\hide ssd\ssteam\steamapps\common\Call of Duty Black Ops III\zone_source\japanese\assetlist\core_common.csv,1610136780,a3ad7aa0,5eb6c0c3,18f265cb,cb497d24
+	file,C:\Users\Jumpy ssd\Desktop\hide ssd\ssteam\steamapps\common\Call of Duty Black Ops III\zone_source\japanese\assetlist\zm_common.csv,1610136780,88b68ec5,d3d032e3,cc3558a0,dc1245f8
+	file,C:\Users\Jumpy ssd\Desktop\hide ssd\ssteam\steamapps\common\Call of Duty Black Ops III\zone_source\japanese\assetlist\zm_patch.csv,1610134318,251e32d9,6d7cd895,06e06a77,cf58ce0a
+errorcount,0

@@ -1,0 +1,42 @@
+version,3421953,593
+ignore_missing_shipped,core_pre_gfx
+ignore_missing_shipped,core_pre_gfx
+ignore_missing_shipped,core_patch
+ignore_missing_shipped,core_patch
+ignore_missing_shipped,core_gfx
+ignore_missing_shipped,core_gfx
+ignore_missing_shipped,core_post_gfx
+ignore_missing_shipped,core_post_gfx
+ignore_missing_shipped,core_ui
+ignore_missing_shipped,core_ui
+ignore_missing_shipped,core_common
+ignore_missing_shipped,core_common
+localize,dlc2
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\english\localizedstrings\dlc2.str,1645727500,
+localize,dlc3
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\english\localizedstrings\dlc3.str,1645641101,
+localize,dlc4
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\english\localizedstrings\dlc4.str,1645641101,
+localize,dlc5
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\english\localizedstrings\dlc5.str,1646004568,
+localize,menu
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\english\localizedstrings\menu.str,1645987540,
+localize,mpui
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\english\localizedstrings\mpui.str,1646004670,
+localize,vidsubtitles
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\english\localizedstrings\vidsubtitles.str,1645641101,
+localize,weapon
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\english\localizedstrings\weapon.str,1645727500,
+localize,zmui
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\english\localizedstrings\zmui.str,1646004608,
+texturecombo,core_mod
+assetlist,core_mod
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\gamedata\playeranim\playeranimtypes.txt,1642281100,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\english_to_japanese\zone_source\loc\core_mod.zone,1646082243,d9183d0c,a1d671e4,e6a8ddf6,91b4d178
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\zone_source\english\assetlist\core_pre_gfx.csv,1642281936,4f38c8d2,54dbe0ad,a26fe6dd,7ce6fe27
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\zone_source\english\assetlist\core_patch.csv,1642281936,9ed99688,0848420f,a94e8a4f,6a3cab0a
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\zone_source\english\assetlist\core_gfx.csv,1642281936,4cd6243d,831296e2,f2d7c4d8,2e2c9159
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\zone_source\english\assetlist\core_post_gfx.csv,1642281936,6421ae92,8670936d,28c8f4d3,3c4bb4af
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\zone_source\english\assetlist\core_ui.csv,1642281958,ce3b1916,c358e78d,81b61779,aaf68da4
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\zone_source\english\assetlist\core_common.csv,1642281960,1d30278c,b8778087,b65b8ce5,1d066b44
+errorcount,0

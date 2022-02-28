@@ -1,0 +1,11 @@
+rawfile,dummy.cfg
+scriptparsetree,scripts/zm/_zm_ai_dogs.gsc
+scriptparsetree,scripts/zm/gametypes/_clientids.gsc
+keyvaluepairs,zm_mod
+ttf,fonts/charb__.ttf
+ttf,fonts/default.ttf
+ttf,fonts/escom.ttf
+ttf,fonts/foundrygridnik-bold.ttf
+ttf,fonts/foundrygridnik-medium.ttf
+ttf,fonts/refrigeratordeluxe-regular.ttf
+ttf,fonts/wearetrippinshort.ttf

@@ -1,0 +1,12 @@
+rawfile,cp_mod.cfg
+rawfile,mod.cfg
+rawfile,mp_mod.cfg
+rawfile,zm_mod.cfg
+keyvaluepairs,core_mod
+ttf,fonts/charb__.ttf
+ttf,fonts/default.ttf
+ttf,fonts/escom.ttf
+ttf,fonts/foundrygridnik-bold.ttf
+ttf,fonts/foundrygridnik-medium.ttf
+ttf,fonts/refrigeratordeluxe-regular.ttf
+ttf,fonts/wearetrippinshort.ttf
