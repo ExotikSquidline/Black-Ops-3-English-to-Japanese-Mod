@@ -11,12 +11,14 @@
 
 # Disclaimer
 When u use the mod be prepared that the game Lags when u load in a menu or load in a map
-The Lag only happends once since the game needs to load in all the Kanjis
+The Lag only happends once since the game needs to load in all the Japanese characters
 
 ## Credits/Contributors
 
-* Scobalula - Hydrax
-* oJumoy - Helping with adding all the Localizestrings
+* oJumpy - inital idea to make the mod ,buying the Game with me ,Helping with adding all the Localizestrings
 * Tex - Buying the Japanese game and modifying Hydrax so it Supports UTF-8 (unicode for the Japanese Language)
+* vastizz - for helping with gun names
+* Scobalula - Hydrax
+
 
 **If you use this mod in any of your projects, it would be highly appreciated if you credit the people/parties listed in the Credits list.**
