@@ -4,7 +4,26 @@
 ## How to use
 
 * if u wanna use this mod in any ur map or in any other mod just make a drag and drop the share folder in ur Bo3 Root folder and add the Following things to ur zone files
-* ---
+* add this to zm_zone
+    scriptparsetree,scripts/zm/gametypes/_clientids.gsc
+    scriptparsetree,scripts/zm/_zm_ai_dogs.gsc
+    
+    ttf,fonts/charb__.ttf
+    ttf,fonts/default.ttf
+    ttf,fonts/escom.ttf
+    ttf,fonts/foundrygridnik-bold.ttf
+    ttf,fonts/foundrygridnik-medium.ttf
+    ttf,fonts/refrigeratordeluxe-regular.ttf
+    ttf,fonts/wearetrippinshort.ttf
+    
+    localize,zmweapon
+    localize,zombie
+    localize,zmscore
+    localize,zm_castle
+    localize,zm_island
+    localize,zm_genesis
+    localize,zm_stalingrad
+    localize,zm_tomb
 * ---
 
 * after that u should be good to go
