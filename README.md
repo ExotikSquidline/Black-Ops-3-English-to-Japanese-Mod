@@ -3,7 +3,7 @@
 
 ## Bugs and Issues
 
-* if u encounter any bugs or issues such as things that arent translated or things where the name is missing fell free to report the bug to us
+* if u encounter any bugs or issues such as things that arent translated or things where the name is missing feel free to report the bug to us
     by sending us a DM on Discord or by making an issue on GitHub
 * When u Report a bug pls provide us with a screenshot of the not translated text
 
